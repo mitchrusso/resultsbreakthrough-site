@@ -1,7 +1,7 @@
 import type { Metadata } from "next";
 import { Geist, Geist_Mono } from "next/font/google";
 import "./globals.css";
-import { absoluteUrl, defaultDescription, jsonLd, siteName, siteUrl } from "@/lib/seo";
+import { absoluteUrl, defaultDescription, defaultOgImage, jsonLd, siteName, siteUrl } from "@/lib/seo";
 
 const geistSans = Geist({ variable: "--font-geist-sans", subsets: ["latin"] });
 const geistMono = Geist_Mono({ variable: "--font-geist-mono", subsets: ["latin"] });
@@ -11,6 +11,9 @@ export const metadata: Metadata = {
   title: { default: "ResultsBreakthrough | Entrepreneur Productivity Tools and Execution Gear", template: `%s | ${siteName}` },
   description: defaultDescription,
   applicationName: siteName,
+  authors: [{ name: siteName, url: siteUrl }],
+  creator: siteName,
+  publisher: siteName,
   category: "Business",
   keywords: [
     "productivity tools for entrepreneurs",
@@ -29,9 +32,9 @@ export const metadata: Metadata = {
     siteName,
     title: "ResultsBreakthrough | Entrepreneur Productivity Tools and Execution Gear",
     description: defaultDescription,
-    images: [{ url: "https://images.unsplash.com/photo-1497366754035-f200968a6e72?auto=format&fit=crop&w=1200&q=80", width: 1200, height: 800, alt: "Modern entrepreneur desk with laptop and planning notebook" }],
+    images: [{ url: defaultOgImage, width: 1200, height: 800, alt: "Modern entrepreneur desk with laptop and planning notebook" }],
   },
-  twitter: { card: "summary_large_image", title: "ResultsBreakthrough | Entrepreneur Productivity Tools", description: defaultDescription, images: ["https://images.unsplash.com/photo-1497366754035-f200968a6e72?auto=format&fit=crop&w=1200&q=80"] },
+  twitter: { card: "summary_large_image", title: "ResultsBreakthrough | Entrepreneur Productivity Tools", description: defaultDescription, images: [defaultOgImage] },
   robots: { index: true, follow: true },
 };
 

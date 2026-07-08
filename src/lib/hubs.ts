@@ -98,7 +98,7 @@ export const topicHubs: TopicHub[] = [
     description: "Books that help entrepreneurs install better habits, protect attention, and execute shorter cycles.",
     image: "https://images.unsplash.com/photo-1524995997946-a1c2e315a42f?auto=format&fit=crop&w=1200&q=80",
     keywords: ["business books for entrepreneurs", "productivity books", "execution books"],
-    relatedArticleSlugs: ["best-productivity-books-for-founders", "atomic-habits-for-entrepreneurs", "deep-work-for-entrepreneurs"],
+    relatedArticleSlugs: ["mitch-russo-books-reading-order", "best-productivity-books-for-founders", "atomic-habits-for-entrepreneurs", "deep-work-for-entrepreneurs"],
     sections: [
       { heading: "Read for implementation", body: ["The best business book is not the one you finish fastest. It is the one that turns into a meeting cadence, habit trigger, scorecard, or decision rule.", "Choose books with frameworks you can operationalize."] },
       { heading: "Pair books with tools", body: ["Atomic Habits pairs with habit tracking. Deep Work pairs with timers and time blocks. The 12 Week Year pairs with weekly scorekeeping and planners."] },

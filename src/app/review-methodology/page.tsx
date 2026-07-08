@@ -1,11 +1,11 @@
-import type { Metadata } from "next";
 import Link from "next/link";
+import { pageMetadata } from "@/lib/seo";
 
-export const metadata: Metadata = {
+export const metadata = pageMetadata({
   title: "Review Methodology",
   description: "How ResultsBreakthrough organizes productivity reviews, buying guides, comparisons, and resource content.",
-  alternates: { canonical: "/review-methodology" },
-};
+  path: "/review-methodology",
+});
 
 const criteria = [
   { title: "Workflow fit", body: "Products are organized by the workflow, workspace, budget, and use case they are meant to support, because a well-made product can still be wrong for a specific business or work style." },

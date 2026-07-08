@@ -59,4 +59,10 @@ export const articleSources = [
     organization: "Cal Newport",
     url: "https://www.calnewport.com/books/deep-work/",
   },
+  {
+    id: "mitch-russo-books",
+    title: "Books by Mitch Russo on Coaching, Certification and Licensing",
+    organization: "Mitch Russo",
+    url: "https://mitchrusso.com/books/",
+  },
 ];

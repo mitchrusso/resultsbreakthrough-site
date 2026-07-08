@@ -1,11 +1,11 @@
-import type { Metadata } from "next";
 import Link from "next/link";
+import { pageMetadata } from "@/lib/seo";
 
-export const metadata: Metadata = {
+export const metadata = pageMetadata({
   title: "Disclaimer",
   description: "Important disclaimer for ResultsBreakthrough buying guides, reviews, and resource articles.",
-  alternates: { canonical: "/safety-disclaimer" },
-};
+  path: "/safety-disclaimer",
+});
 
 export default function SafetyDisclaimerPage() {
   return (

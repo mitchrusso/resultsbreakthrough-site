@@ -1,16 +1,14 @@
 import type { Metadata } from "next";
 import Link from "next/link";
 import { siteFaqs } from "@/lib/trust";
-import { absoluteUrl, jsonLd } from "@/lib/seo";
+import { absoluteUrl, jsonLd, pageMetadata } from "@/lib/seo";
 
-export const metadata: Metadata = {
+export const metadata: Metadata = pageMetadata({
   title: "Productivity Buying FAQ",
   description:
     "Answers to common questions about ResultsBreakthrough, productivity reviews, affiliate links, productivity guidance, and online buying decisions.",
-  alternates: {
-    canonical: "/faq",
-  },
-};
+  path: "/faq",
+});
 
 export default function FaqPage() {
   const faqCategories = Array.from(new Set(siteFaqs.map((faq) => faq.category)));

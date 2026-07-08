@@ -39,6 +39,7 @@ const articlePlan = [
   ["Video Call Setup for Consultants, Coaches, and Founders", "video-call-setup-for-consultants", "2026-07-15", "Remote Work Gear", images.remote, ["video call setup", "webcam lighting", "consultant home office"]],
   ["Best Webcam Lighting for Remote Work and Sales Calls", "best-webcam-lighting-for-remote-work", "2026-07-16", "Remote Work Gear", images.remote, ["webcam lighting for remote work", "video call lighting", "key light"]],
   ["Best Productivity Books for Founders Who Need Better Execution", "best-productivity-books-for-founders", "2026-07-17", "Business Books", images.books, ["productivity books", "business books for founders", "execution books"]],
+  ["Mitch Russo Books Reading Order: Which One Fits Your Business Stage?", "mitch-russo-books-reading-order", "2026-07-08", "Business Books", images.books, ["Mitch Russo books", "The Invisible Organization", "Power Tribes", "Licensing for Leverage", "Coach Elevation", "Sacred Profits"]],
   ["Atomic Habits for Entrepreneurs: The Products That Help You Apply It", "atomic-habits-for-entrepreneurs", "2026-07-20", "Business Books", images.books, ["Atomic Habits for entrepreneurs", "habit tracker", "productivity tools"]],
   ["Deep Work for Entrepreneurs: How to Build a Focus Stack", "deep-work-for-entrepreneurs", "2026-07-21", "Business Books", images.books, ["Deep Work for entrepreneurs", "focus stack", "deep work tools"]],
   ["The 12 Week Year Planning Tools: What to Buy and What to Skip", "12-week-year-planning-tools", "2026-07-22", "Accountability Systems", images.habits, ["12 Week Year planner", "weekly scorecard", "execution planning"]],
@@ -61,7 +62,7 @@ const categorySources: Record<string, string[]> = {
   "Focus Timers": ["amazon-ticktime", "cal-newport-deep-work", "actionablebooks-productivity"],
   "Desk Setup": ["ergotron-home-office", "techradar-standing-desks"],
   "Remote Work Gear": ["ergotron-home-office", "techradar-standing-desks"],
-  "Business Books": ["actionablebooks-productivity", "atomic-habits", "cal-newport-deep-work", "amazon-12-week-year"],
+  "Business Books": ["mitch-russo-books", "actionablebooks-productivity", "atomic-habits", "cal-newport-deep-work", "amazon-12-week-year"],
   "Accountability Systems": ["amazon-12-week-year", "atomic-habits", "cleverfox-official"],
   "Personal Performance": ["atomic-habits", "cal-newport-deep-work", "actionablebooks-productivity"],
 };

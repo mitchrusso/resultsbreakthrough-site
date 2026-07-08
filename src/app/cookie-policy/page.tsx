@@ -1,11 +1,11 @@
-import type { Metadata } from "next";
 import Link from "next/link";
+import { pageMetadata } from "@/lib/seo";
 
-export const metadata: Metadata = {
+export const metadata = pageMetadata({
   title: "Cookie Policy",
   description: "Cookie Policy for ResultsBreakthrough, including analytics, affiliate links, and browser choices.",
-  alternates: { canonical: "/cookie-policy" },
-};
+  path: "/cookie-policy",
+});
 
 const sections = [
   { title: "How cookies may be used", body: "ResultsBreakthrough may use cookies, pixels, log files, analytics tools, affiliate tracking, and similar technologies to operate the site, understand performance, remember basic preferences, and attribute qualifying purchases." },

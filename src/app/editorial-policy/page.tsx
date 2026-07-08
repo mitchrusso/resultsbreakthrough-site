@@ -1,7 +1,11 @@
-import type { Metadata } from "next";
 import Link from "next/link";
+import { pageMetadata } from "@/lib/seo";
 
-export const metadata: Metadata = { title: "Editorial Policy", description: "How ResultsBreakthrough creates, reviews, updates, and discloses productivity buying guides, reviews, and articles.", alternates: { canonical: "/editorial-policy" } };
+export const metadata = pageMetadata({
+  title: "Editorial Policy",
+  description: "How ResultsBreakthrough creates, reviews, updates, and discloses productivity buying guides, reviews, and articles.",
+  path: "/editorial-policy",
+});
 
 const principles = ["Content is written for entrepreneurs and operators who need practical results-first buying information.", "We organize recommendations by workflow, product category, budget, and use case instead of pretending one tool is best for every business.", "We avoid fake ratings, invented prices, and unsupported transformation claims.", "Affiliate relationships do not change the price a reader pays and are disclosed on the site."];
 

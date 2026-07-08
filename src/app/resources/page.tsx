@@ -4,32 +4,17 @@ import type { Metadata } from "next";
 import { ArrowRight, CalendarDays, SearchCheck, ShieldCheck } from "lucide-react";
 import { topicHubs } from "@/lib/hubs";
 import { formatArticleDate, getNextScheduledArticle, getPublishedArticles, keywordPlan } from "@/lib/resources";
-import { absoluteUrl, jsonLd } from "@/lib/seo";
+import { absoluteUrl, jsonLd, pageMetadata } from "@/lib/seo";
 
 export const dynamic = "force-dynamic";
 
-export const metadata: Metadata = {
+export const metadata: Metadata = pageMetadata({
   title: "Productivity Resources",
   description:
     "Productivity buying guides, version-aware shopping articles, comparison posts, and results-first entrepreneur resources.",
-  alternates: {
-    canonical: "/resources",
-  },
-  openGraph: {
-    title: "Productivity Resources | ResultsBreakthrough",
-    description:
-      "Productivity buying guides, version-aware shopping articles, comparison posts, and results-first entrepreneur resources.",
-    url: absoluteUrl("/resources"),
-    type: "website",
-  },
-  twitter: {
-    card: "summary_large_image",
-    title: "Productivity Resources | ResultsBreakthrough",
-    description:
-      "Productivity buying guides, version-aware shopping articles, comparison posts, and results-first entrepreneur resources.",
-    images: ["https://images.unsplash.com/photo-1515488042361-ee00e0ddd4e4?auto=format&fit=crop&w=1200&q=80"],
-  },
-};
+  path: "/resources",
+  image: "https://images.unsplash.com/photo-1515488042361-ee00e0ddd4e4?auto=format&fit=crop&w=1200&q=80",
+});
 
 export default function ResourcesPage() {
   const publishedArticles = getPublishedArticles();

@@ -1,11 +1,11 @@
-import type { Metadata } from "next";
 import Link from "next/link";
+import { pageMetadata } from "@/lib/seo";
 
-export const metadata: Metadata = {
+export const metadata = pageMetadata({
   title: "Terms and Conditions",
   description: "Terms and Conditions for using ResultsBreakthrough reviews, buying guides, resource articles, and affiliate links.",
-  alternates: { canonical: "/terms-and-conditions" },
-};
+  path: "/terms-and-conditions",
+});
 
 const sections = [
   { title: "Use of this site", body: "ResultsBreakthrough provides general information, product comparisons, buying guides, resource articles, and affiliate shopping links related to planners, focus timers, desk gear, remote-work tools, business books, habit trackers, and accountability systems." },
