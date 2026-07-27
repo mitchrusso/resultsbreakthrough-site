@@ -8,6 +8,8 @@ import { getArticleBySlug, isArticlePublished, type ResourceArticle } from "@/li
 import { reviewProducts, type ReviewProduct } from "@/lib/reviews";
 import { absoluteUrl, jsonLd, siteName } from "@/lib/seo";
 
+export const dynamic = "force-dynamic";
+
 type HubPageProps = {
   params: Promise<{
     slug: string;

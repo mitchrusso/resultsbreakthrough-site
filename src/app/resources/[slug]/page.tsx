@@ -3,7 +3,7 @@ import Link from "next/link";
 import { notFound } from "next/navigation";
 import { ArrowLeft, ArrowRight, ExternalLink, ShieldCheck, ShoppingBag } from "lucide-react";
 import { topicHubs } from "@/lib/hubs";
-import { formatArticleDate, getArticleBySlug, getPublishedArticles, isArticlePublished, type ResourceArticle } from "@/lib/resources";
+import { formatArticleDate, getArticleBySlug, getArticlePublishTime, getPublishedArticles, isArticlePublished, type ResourceArticle } from "@/lib/resources";
 import { reviewProducts, type ReviewProduct } from "@/lib/reviews";
 import { articleSources } from "@/lib/sources";
 import { absoluteUrl, jsonLd, siteName } from "@/lib/seo";
@@ -114,7 +114,7 @@ export async function generateMetadata({ params }: ArticlePageProps) {
       description: article.excerpt,
       url: absoluteUrl(`/resources/${article.slug}`),
       type: "article",
-      publishedTime: `${article.publishDate}T12:00:00-04:00`,
+      publishedTime: getArticlePublishTime(article),
       images: [
         {
           url: absoluteUrl(article.image),
@@ -161,8 +161,8 @@ export default async function ArticlePage({ params }: ArticlePageProps) {
         headline: article.title,
         description: article.excerpt,
         image: absoluteUrl(article.image),
-        datePublished: `${article.publishDate}T12:00:00-04:00`,
-        dateModified: `${article.publishDate}T12:00:00-04:00`,
+        datePublished: getArticlePublishTime(article),
+        dateModified: getArticlePublishTime(article),
         author: {
           "@type": "Organization",
           name: siteName,

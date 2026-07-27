@@ -1,9 +1,12 @@
 import type { MetadataRoute } from "next";
 import { comparisonPages } from "@/lib/comparisons";
 import { topicHubs } from "@/lib/hubs";
-import { getPublishedArticles } from "@/lib/resources";
+import { getArticlePublishTime, getPublishedArticles } from "@/lib/resources";
 import { reviewProducts } from "@/lib/reviews";
 import { absoluteUrl } from "@/lib/seo";
+
+export const dynamic = "force-dynamic";
+export const revalidate = 0;
 
 export default function sitemap(): MetadataRoute.Sitemap {
   const now = new Date();
@@ -32,7 +35,7 @@ export default function sitemap(): MetadataRoute.Sitemap {
     })),
     ...getPublishedArticles().map((article) => ({
       url: absoluteUrl(`/resources/${article.slug}`),
-      lastModified: new Date(`${article.publishDate}T12:00:00-04:00`),
+      lastModified: new Date(getArticlePublishTime(article)),
       changeFrequency: "monthly" as const,
       priority: 0.8,
     })),
