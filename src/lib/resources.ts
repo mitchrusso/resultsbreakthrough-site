@@ -1,3 +1,5 @@
+import { approvedResourceArticles } from "./approved-articles";
+
 export type ResourceArticle = {
   title: string;
   slug: string;
@@ -109,7 +111,7 @@ function buildSections(title: string, category: string, keywords: readonly strin
   ];
 }
 
-export const resourceArticles: ResourceArticle[] = articlePlan.map(([title, slug, publishDate, category, image, keywords]) => {
+const generatedResourceArticles: ResourceArticle[] = articlePlan.map(([title, slug, publishDate, category, image, keywords]) => {
   const sourceIds = categorySources[category] ?? ["actionablebooks-productivity"];
 
   return {
@@ -125,6 +127,11 @@ export const resourceArticles: ResourceArticle[] = articlePlan.map(([title, slug
     takeaway: "Buy the tool that supports the next repeatable behavior, then make the review cadence visible.",
   };
 });
+
+export const resourceArticles: ResourceArticle[] = [
+  ...generatedResourceArticles,
+  ...approvedResourceArticles,
+];
 
 export function getArticleBySlug(slug: string) {
   return resourceArticles.find((article) => article.slug === slug);
