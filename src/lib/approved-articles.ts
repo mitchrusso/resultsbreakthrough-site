@@ -1561,6 +1561,516 @@ export const approvedResourceArticles: ResourceArticle[] = [
     "takeaway": "A professional top productivity books for entrepreneurs workflow makes uncertainty visible. It gives the person doing the work a sequence, a stopping rule, and a record that can be reviewed later. A useful productivity system converts an important result into a small observable behavior that survives a normal week."
   },
   {
+    "title": "5 Books Everyone Should Read",
+    "slug": "5-books-everyone-should-read",
+    "publishDate": "2026-07-29",
+    "publishAt": "2026-07-29T09:00:00-04:00",
+    "category": "Productivity",
+    "image": "https://images.unsplash.com/photo-1544716278-ca5e3f4abd8c?auto=format&fit=crop&w=1200&q=80",
+    "excerpt": "5 Books Everyone Should Read: a practical, evidence-aware guide with implementation steps, decision criteria, cautions, and a reusable checklist for best pro...",
+    "keywords": [
+      "5 books everyone should read"
+    ],
+    "sections": [
+      {
+        "heading": "Start here",
+        "body": [
+          {
+            "text": "A professional 5 books everyone should read workflow makes uncertainty visible. It gives the person doing the work a sequence, a stopping rule, and a record that can be reviewed later. A useful productivity system converts an important result into a small observable behavior that survives a normal week.",
+            "sourceIds": [
+              "atomic-habits",
+              "cal-newport-deep-work",
+              "actionablebooks-productivity"
+            ]
+          },
+          {
+            "text": "This guide answers the decision implied by 5 Books Everyone Should Read. It shows what to verify, how to make a representative test, and how to recognize a limit before a confident recommendation becomes an avoidable problem.",
+            "sourceIds": [
+              "atomic-habits",
+              "cal-newport-deep-work",
+              "actionablebooks-productivity"
+            ]
+          },
+          {
+            "text": "By Mitch Russo · Updated 2026-07-29",
+            "sourceIds": [
+              "atomic-habits",
+              "cal-newport-deep-work",
+              "actionablebooks-productivity"
+            ]
+          }
+        ]
+      },
+      {
+        "heading": "At a glance: the decision path",
+        "body": [
+          {
+            "text": "1. State the reader's decision and desired outcome for “5 Books Everyone Should Read”.",
+            "sourceIds": [
+              "atomic-habits",
+              "cal-newport-deep-work",
+              "actionablebooks-productivity"
+            ]
+          },
+          {
+            "text": "2. Name the exact execution problem the reader is trying to solve, with special attention to 5.",
+            "sourceIds": [
+              "atomic-habits",
+              "cal-newport-deep-work",
+              "actionablebooks-productivity"
+            ]
+          },
+          {
+            "text": "3. Separate the book's central mechanism from memorable slogans, with special attention to books.",
+            "sourceIds": [
+              "atomic-habits",
+              "cal-newport-deep-work",
+              "actionablebooks-productivity"
+            ]
+          },
+          {
+            "text": "4. Turn one recommendation into a calendar action with a baseline and deadline, with special attention to everyone.",
+            "sourceIds": [
+              "atomic-habits",
+              "cal-newport-deep-work",
+              "actionablebooks-productivity"
+            ]
+          },
+          {
+            "text": "5. Run a 14-day experiment and keep only the behavior that changes the result, with special attention to should.",
+            "sourceIds": [
+              "atomic-habits",
+              "cal-newport-deep-work",
+              "actionablebooks-productivity"
+            ]
+          },
+          {
+            "text": "6. Record the result, unresolved risk, and next review date.",
+            "sourceIds": [
+              "atomic-habits",
+              "cal-newport-deep-work",
+              "actionablebooks-productivity"
+            ]
+          },
+          {
+            "text": "For 5 Books Everyone Should Read, start at checkpoint one even if a later checkpoint appears more interesting. This comparison, recommendation, tutorial, or explainer is useful only when the reader can see its evidence chain.",
+            "sourceIds": [
+              "atomic-habits",
+              "cal-newport-deep-work",
+              "actionablebooks-productivity"
+            ]
+          }
+        ]
+      },
+      {
+        "heading": "What this article must help you decide",
+        "body": [
+          {
+            "text": "The practical question is not whether 5 books everyone should read is a popular search. It is whether the idea fits a particular person, material, environment, business, photograph, food, child, or mobility need. Write the intended result and one unacceptable result before evaluating the options.",
+            "sourceIds": [
+              "atomic-habits",
+              "cal-newport-deep-work",
+              "actionablebooks-productivity"
+            ]
+          },
+          {
+            "text": "The evidence packet for 5 Books Everyone Should Read is calendar history, completed-work evidence, workload constraints, baseline behavior, and a clearly defined result. Some items will be controlling requirements; others will be preferences. Mark the difference. If a missing fact could reverse this decision or create a system that adds tracking but not progress, depends on ideal motivation, or hides overloaded commitments, it must be resolved before the recommendation advances.",
+            "sourceIds": [
+              "atomic-habits",
+              "cal-newport-deep-work",
+              "actionablebooks-productivity"
+            ]
+          }
+        ]
+      },
+      {
+        "heading": "A complete evidence-led walkthrough",
+        "body": [
+          {
+            "text": "Checkpoint 1: State the reader's decision and desired outcome for “5 Books Everyone Should Read”.",
+            "sourceIds": [
+              "atomic-habits",
+              "cal-newport-deep-work",
+              "actionablebooks-productivity"
+            ]
+          },
+          {
+            "text": "Make “state the reader's decision and desired outcome for “5 Books Everyone Should Read”” a pass/fail gate. State the acceptable range, then compare it with calendar history, completed-work evidence, workload constraints, baseline behavior, and a clearly defined result. Do not average a failed constraint against convenience. The right response to a conflict is to pause 5 books everyone should read, resolve the source of truth, and document the decision. Apply this checkpoint to 5 Books Everyone Should Read, not to the topic cluster in the abstract.",
+            "sourceIds": [
+              "atomic-habits",
+              "cal-newport-deep-work",
+              "actionablebooks-productivity"
+            ]
+          },
+          {
+            "text": "For 5 Books Everyone Should Read, save a short note containing cue, action, duration, completion evidence, interruption, result, and one design adjustment. That note is the evidence for checkpoint 1; completion without evidence is only an assumption.",
+            "sourceIds": [
+              "atomic-habits",
+              "cal-newport-deep-work",
+              "actionablebooks-productivity"
+            ]
+          },
+          {
+            "text": "Checkpoint 2: Name the exact execution problem the reader is trying to solve, with special attention to 5.",
+            "sourceIds": [
+              "atomic-habits",
+              "cal-newport-deep-work",
+              "actionablebooks-productivity"
+            ]
+          },
+          {
+            "text": "Practice this step on one week or one deliberately bounded work cycle: name the exact execution problem the reader is trying to solve, with special attention to 5. Change one variable, keep the other conditions stable, and inspect the result before expanding the scope. A small test is useful only when it represents the difficult condition that the full workflow must handle. Apply this checkpoint to 5 Books Everyone Should Read, not to the topic cluster in the abstract.",
+            "sourceIds": [
+              "atomic-habits",
+              "cal-newport-deep-work",
+              "actionablebooks-productivity"
+            ]
+          },
+          {
+            "text": "For 5 Books Everyone Should Read, save a short note containing cue, action, duration, completion evidence, interruption, result, and one design adjustment. That note is the evidence for checkpoint 2; completion without evidence is only an assumption.",
+            "sourceIds": [
+              "atomic-habits",
+              "cal-newport-deep-work",
+              "actionablebooks-productivity"
+            ]
+          },
+          {
+            "text": "Checkpoint 3: Separate the book's central mechanism from memorable slogans, with special attention to books.",
+            "sourceIds": [
+              "atomic-habits",
+              "cal-newport-deep-work",
+              "actionablebooks-productivity"
+            ]
+          },
+          {
+            "text": "Before performing this step, say the plan aloud: separate the book's central mechanism from memorable slogans, with special attention to books. Name the expected change, the maximum exposure or effort, and the stop signal. This short briefing matters because 5 books everyone should read can drift when people improvise without noticing that the original conditions changed. Apply this checkpoint to 5 Books Everyone Should Read, not to the topic cluster in the abstract.",
+            "sourceIds": [
+              "atomic-habits",
+              "cal-newport-deep-work",
+              "actionablebooks-productivity"
+            ]
+          },
+          {
+            "text": "For 5 Books Everyone Should Read, save a short note containing cue, action, duration, completion evidence, interruption, result, and one design adjustment. That note is the evidence for checkpoint 3; completion without evidence is only an assumption.",
+            "sourceIds": [
+              "atomic-habits",
+              "cal-newport-deep-work",
+              "actionablebooks-productivity"
+            ]
+          },
+          {
+            "text": "Checkpoint 4: Turn one recommendation into a calendar action with a baseline and deadline, with special attention to everyone.",
+            "sourceIds": [
+              "atomic-habits",
+              "cal-newport-deep-work",
+              "actionablebooks-productivity"
+            ]
+          },
+          {
+            "text": "Ask what would make this action wrong in the present setting, then turn one recommendation into a calendar action with a baseline and deadline, with special attention to everyone. Compare the answer with calendar history, completed-work evidence, workload constraints, baseline behavior, and a clearly defined result. This counter-check is especially valuable when a familiar method is being reused with a different person, product, location, or workload. Apply this checkpoint to 5 Books Everyone Should Read, not to the topic cluster in the abstract.",
+            "sourceIds": [
+              "atomic-habits",
+              "cal-newport-deep-work",
+              "actionablebooks-productivity"
+            ]
+          },
+          {
+            "text": "For 5 Books Everyone Should Read, save a short note containing cue, action, duration, completion evidence, interruption, result, and one design adjustment. That note is the evidence for checkpoint 4; completion without evidence is only an assumption.",
+            "sourceIds": [
+              "atomic-habits",
+              "cal-newport-deep-work",
+              "actionablebooks-productivity"
+            ]
+          },
+          {
+            "text": "Checkpoint 5: Run a 14-day experiment and keep only the behavior that changes the result, with special attention to should.",
+            "sourceIds": [
+              "atomic-habits",
+              "cal-newport-deep-work",
+              "actionablebooks-productivity"
+            ]
+          },
+          {
+            "text": "Use a two-person check when the consequence is meaningful. One person should run a 14-day experiment and keep only the behavior that changes the result, with special attention to should; the other should compare the action with calendar history, completed-work evidence, workload constraints, baseline behavior, and a clearly defined result. The second check is not bureaucracy—it catches a mismatch while the work is still reversible. Apply this checkpoint to 5 Books Everyone Should Read, not to the topic cluster in the abstract.",
+            "sourceIds": [
+              "atomic-habits",
+              "cal-newport-deep-work",
+              "actionablebooks-productivity"
+            ]
+          },
+          {
+            "text": "For 5 Books Everyone Should Read, save a short note containing cue, action, duration, completion evidence, interruption, result, and one design adjustment. That note is the evidence for checkpoint 5; completion without evidence is only an assumption.",
+            "sourceIds": [
+              "atomic-habits",
+              "cal-newport-deep-work",
+              "actionablebooks-productivity"
+            ]
+          },
+          {
+            "text": "Checkpoint 6: Record the result, unresolved risk, and next review date.",
+            "sourceIds": [
+              "atomic-habits",
+              "cal-newport-deep-work",
+              "actionablebooks-productivity"
+            ]
+          },
+          {
+            "text": "Ask what would make this action wrong in the present setting, then record the result, unresolved risk, and next review date. Compare the answer with calendar history, completed-work evidence, workload constraints, baseline behavior, and a clearly defined result. This counter-check is especially valuable when a familiar method is being reused with a different person, product, location, or workload. Apply this checkpoint to 5 Books Everyone Should Read, not to the topic cluster in the abstract.",
+            "sourceIds": [
+              "atomic-habits",
+              "cal-newport-deep-work",
+              "actionablebooks-productivity"
+            ]
+          },
+          {
+            "text": "For 5 Books Everyone Should Read, save a short note containing cue, action, duration, completion evidence, interruption, result, and one design adjustment. That note is the evidence for checkpoint 6; completion without evidence is only an assumption.",
+            "sourceIds": [
+              "atomic-habits",
+              "cal-newport-deep-work",
+              "actionablebooks-productivity"
+            ]
+          }
+        ]
+      },
+      {
+        "heading": "A representative scenario to test",
+        "body": [
+          {
+            "text": "Picture the easiest version of the decision and then add the condition most likely to break it. For 5 books everyone should read, begin with state the reader's decision and desired outcome for “5 Books Everyone Should Read”. Then use one week or one deliberately bounded work cycle to see whether you can separate the book's central mechanism from memorable slogans, with special attention to books. The attempt ends immediately if a system that adds tracking but not progress, depends on ideal motivation, or hides overloaded commitments appears. A passing result must still show that the final checkpoint—record the result, unresolved risk, and next review date—is practical for normal use.",
+            "sourceIds": [
+              "atomic-habits",
+              "cal-newport-deep-work",
+              "actionablebooks-productivity"
+            ]
+          },
+          {
+            "text": "Record the baseline before testing 5 Books Everyone Should Read. Make it observable and short enough to collect again. Do not improve the conditions merely to obtain a passing result; the purpose is to learn whether this advice survives its actual setting.",
+            "sourceIds": [
+              "atomic-habits",
+              "cal-newport-deep-work",
+              "actionablebooks-productivity"
+            ]
+          }
+        ]
+      },
+      {
+        "heading": "Failure signals and recovery",
+        "body": [
+          {
+            "text": "These are not cosmetic defects; each one changes the decision.",
+            "sourceIds": [
+              "atomic-habits",
+              "cal-newport-deep-work",
+              "actionablebooks-productivity"
+            ]
+          },
+          {
+            "text": "• The article's promise is broader than the evidence available for 5 books everyone should read.",
+            "sourceIds": [
+              "atomic-habits",
+              "cal-newport-deep-work",
+              "actionablebooks-productivity"
+            ]
+          },
+          {
+            "text": "• The test avoids the real constraint described by best productivity books.",
+            "sourceIds": [
+              "atomic-habits",
+              "cal-newport-deep-work",
+              "actionablebooks-productivity"
+            ]
+          },
+          {
+            "text": "• The method continues after a system that adds tracking but not progress, depends on ideal motivation, or hides overloaded commitments is observed.",
+            "sourceIds": [
+              "atomic-habits",
+              "cal-newport-deep-work",
+              "actionablebooks-productivity"
+            ]
+          },
+          {
+            "text": "• The conclusion cannot be reconstructed from cue, action, duration, completion evidence, interruption, result, and one design adjustment.",
+            "sourceIds": [
+              "atomic-habits",
+              "cal-newport-deep-work",
+              "actionablebooks-productivity"
+            ]
+          },
+          {
+            "text": "• No one has accepted ownership for record the result, unresolved risk, and next review date.",
+            "sourceIds": [
+              "atomic-habits",
+              "cal-newport-deep-work",
+              "actionablebooks-productivity"
+            ]
+          },
+          {
+            "text": "When one of these 5 Books Everyone Should Read signals appears, stop the active step, protect the people and property involved, and preserve the evidence. Return to the earliest failed checkpoint. Change one variable or obtain the missing qualified guidance before another bounded test.",
+            "sourceIds": [
+              "atomic-habits",
+              "cal-newport-deep-work",
+              "actionablebooks-productivity"
+            ]
+          }
+        ]
+      },
+      {
+        "heading": "Boundaries, cautions, and source checks",
+        "body": [
+          {
+            "text": "For this 5 Books Everyone Should Read review: This is an implementation framework, not medical or mental-health treatment. Reduce the workload when the system creates sustained distress, and seek qualified support when health or disability affects execution.",
+            "sourceIds": [
+              "atomic-habits",
+              "cal-newport-deep-work",
+              "actionablebooks-productivity"
+            ]
+          },
+          {
+            "text": "Use these authoritative pages as starting points:",
+            "sourceIds": [
+              "atomic-habits",
+              "cal-newport-deep-work",
+              "actionablebooks-productivity"
+            ]
+          },
+          {
+            "text": "• CDC shared-goals worksheet",
+            "sourceIds": [
+              "atomic-habits",
+              "cal-newport-deep-work",
+              "actionablebooks-productivity"
+            ]
+          },
+          {
+            "text": "• NIH behavior-change overview",
+            "sourceIds": [
+              "atomic-habits",
+              "cal-newport-deep-work",
+              "actionablebooks-productivity"
+            ]
+          },
+          {
+            "text": "For 5 Books Everyone Should Read, check each source's publication date, jurisdiction, model, audience, and scope. A general official page may establish the baseline while the relevant manufacturer, land manager, clinician, attorney, tax adviser, supplier, accreditor, or other qualified professional resolves the exact case.",
+            "sourceIds": [
+              "atomic-habits",
+              "cal-newport-deep-work",
+              "actionablebooks-productivity"
+            ]
+          }
+        ]
+      },
+      {
+        "heading": "Your next 20 minutes",
+        "body": [
+          {
+            "text": "Write the result promised by 5 Books Everyone Should Read in one measurable sentence. Complete the first checkpoint and gather one item from the evidence packet. If the high-consequence facts are clear, prepare one week or one deliberately bounded work cycle; otherwise send one focused question to the person or authority who can resolve the blocker.",
+            "sourceIds": [
+              "atomic-habits",
+              "cal-newport-deep-work",
+              "actionablebooks-productivity"
+            ]
+          },
+          {
+            "text": "The goal for 5 Books Everyone Should Read is a defensible next action, not artificial momentum. End the session by naming the person who can change the commitment or environment as the owner and recording the first review date.",
+            "sourceIds": [
+              "atomic-habits",
+              "cal-newport-deep-work",
+              "actionablebooks-productivity"
+            ]
+          }
+        ]
+      },
+      {
+        "heading": "Related guides",
+        "body": [
+          {
+            "text": "• 14-day productivity experiment",
+            "sourceIds": [
+              "atomic-habits",
+              "cal-newport-deep-work",
+              "actionablebooks-productivity"
+            ]
+          },
+          {
+            "text": "• weekly review template",
+            "sourceIds": [
+              "atomic-habits",
+              "cal-newport-deep-work",
+              "actionablebooks-productivity"
+            ]
+          },
+          {
+            "text": "• results resource library",
+            "sourceIds": [
+              "atomic-habits",
+              "cal-newport-deep-work",
+              "actionablebooks-productivity"
+            ]
+          }
+        ]
+      },
+      {
+        "heading": "FAQ",
+        "body": [
+          {
+            "text": "What is the first fact to verify for 5 Books Everyone Should Read?.",
+            "sourceIds": [
+              "atomic-habits",
+              "cal-newport-deep-work",
+              "actionablebooks-productivity"
+            ]
+          },
+          {
+            "text": "Start with this checkpoint: state the reader's decision and desired outcome for “5 Books Everyone Should Read”. It defines the scope of the answer and prevents a general claim from being applied to the wrong setting.",
+            "sourceIds": [
+              "atomic-habits",
+              "cal-newport-deep-work",
+              "actionablebooks-productivity"
+            ]
+          },
+          {
+            "text": "What makes the evidence strong enough to continue?.",
+            "sourceIds": [
+              "atomic-habits",
+              "cal-newport-deep-work",
+              "actionablebooks-productivity"
+            ]
+          },
+          {
+            "text": "For 5 Books Everyone Should Read, the evidence should describe the real setting and include cue, action, duration, completion evidence, interruption, result, and one design adjustment. It should also show that a system that adds tracking but not progress, depends on ideal motivation, or hides overloaded commitments has not been ignored or averaged against convenience.",
+            "sourceIds": [
+              "atomic-habits",
+              "cal-newport-deep-work",
+              "actionablebooks-productivity"
+            ]
+          },
+          {
+            "text": "What should happen after the first test?.",
+            "sourceIds": [
+              "atomic-habits",
+              "cal-newport-deep-work",
+              "actionablebooks-productivity"
+            ]
+          },
+          {
+            "text": "Compare the 5 Books Everyone Should Read result with its original success condition. Decide whether to adopt the method, revise one variable, seek qualified guidance, or stop. Then complete the final checkpoint: record the result, unresolved risk, and next review date.",
+            "sourceIds": [
+              "atomic-habits",
+              "cal-newport-deep-work",
+              "actionablebooks-productivity"
+            ]
+          }
+        ]
+      }
+    ],
+    "sourceIds": [
+      "atomic-habits",
+      "cal-newport-deep-work",
+      "actionablebooks-productivity"
+    ],
+    "takeaway": "A professional 5 books everyone should read workflow makes uncertainty visible. It gives the person doing the work a sequence, a stopping rule, and a record that can be reviewed later. A useful productivity system converts an important result into a small observable behavior that survives a normal week."
+  },
+  {
     "title": "Deep Work vs Atomic Habits Comparison",
     "slug": "deep-work-vs-atomic-habits-comparison",
     "publishDate": "2026-07-31",
@@ -5129,516 +5639,6 @@ export const approvedResourceArticles: ResourceArticle[] = [
       "actionablebooks-productivity"
     ],
     "takeaway": "how to set and achieve business goals often looks like a single task. In practice, the outcome depends on a chain of small choices, and the earliest unchecked choice usually creates the most expensive correction. A useful productivity system converts an important result into a small observable behavior that survives a normal week."
-  },
-  {
-    "title": "5 Books Everyone Should Read",
-    "slug": "5-books-everyone-should-read",
-    "publishDate": "2026-07-29",
-    "publishAt": "2026-07-29T09:00:00-04:00",
-    "category": "Productivity",
-    "image": "https://images.unsplash.com/photo-1544716278-ca5e3f4abd8c?auto=format&fit=crop&w=1200&q=80",
-    "excerpt": "5 Books Everyone Should Read: a practical, evidence-aware guide with implementation steps, decision criteria, cautions, and a reusable checklist for best pro...",
-    "keywords": [
-      "5 books everyone should read"
-    ],
-    "sections": [
-      {
-        "heading": "Start here",
-        "body": [
-          {
-            "text": "A professional 5 books everyone should read workflow makes uncertainty visible. It gives the person doing the work a sequence, a stopping rule, and a record that can be reviewed later. A useful productivity system converts an important result into a small observable behavior that survives a normal week.",
-            "sourceIds": [
-              "atomic-habits",
-              "cal-newport-deep-work",
-              "actionablebooks-productivity"
-            ]
-          },
-          {
-            "text": "This guide answers the decision implied by 5 Books Everyone Should Read. It shows what to verify, how to make a representative test, and how to recognize a limit before a confident recommendation becomes an avoidable problem.",
-            "sourceIds": [
-              "atomic-habits",
-              "cal-newport-deep-work",
-              "actionablebooks-productivity"
-            ]
-          },
-          {
-            "text": "By Mitch Russo · Updated 2026-07-29",
-            "sourceIds": [
-              "atomic-habits",
-              "cal-newport-deep-work",
-              "actionablebooks-productivity"
-            ]
-          }
-        ]
-      },
-      {
-        "heading": "At a glance: the decision path",
-        "body": [
-          {
-            "text": "1. State the reader's decision and desired outcome for “5 Books Everyone Should Read”.",
-            "sourceIds": [
-              "atomic-habits",
-              "cal-newport-deep-work",
-              "actionablebooks-productivity"
-            ]
-          },
-          {
-            "text": "2. Name the exact execution problem the reader is trying to solve, with special attention to 5.",
-            "sourceIds": [
-              "atomic-habits",
-              "cal-newport-deep-work",
-              "actionablebooks-productivity"
-            ]
-          },
-          {
-            "text": "3. Separate the book's central mechanism from memorable slogans, with special attention to books.",
-            "sourceIds": [
-              "atomic-habits",
-              "cal-newport-deep-work",
-              "actionablebooks-productivity"
-            ]
-          },
-          {
-            "text": "4. Turn one recommendation into a calendar action with a baseline and deadline, with special attention to everyone.",
-            "sourceIds": [
-              "atomic-habits",
-              "cal-newport-deep-work",
-              "actionablebooks-productivity"
-            ]
-          },
-          {
-            "text": "5. Run a 14-day experiment and keep only the behavior that changes the result, with special attention to should.",
-            "sourceIds": [
-              "atomic-habits",
-              "cal-newport-deep-work",
-              "actionablebooks-productivity"
-            ]
-          },
-          {
-            "text": "6. Record the result, unresolved risk, and next review date.",
-            "sourceIds": [
-              "atomic-habits",
-              "cal-newport-deep-work",
-              "actionablebooks-productivity"
-            ]
-          },
-          {
-            "text": "For 5 Books Everyone Should Read, start at checkpoint one even if a later checkpoint appears more interesting. This comparison, recommendation, tutorial, or explainer is useful only when the reader can see its evidence chain.",
-            "sourceIds": [
-              "atomic-habits",
-              "cal-newport-deep-work",
-              "actionablebooks-productivity"
-            ]
-          }
-        ]
-      },
-      {
-        "heading": "What this article must help you decide",
-        "body": [
-          {
-            "text": "The practical question is not whether 5 books everyone should read is a popular search. It is whether the idea fits a particular person, material, environment, business, photograph, food, child, or mobility need. Write the intended result and one unacceptable result before evaluating the options.",
-            "sourceIds": [
-              "atomic-habits",
-              "cal-newport-deep-work",
-              "actionablebooks-productivity"
-            ]
-          },
-          {
-            "text": "The evidence packet for 5 Books Everyone Should Read is calendar history, completed-work evidence, workload constraints, baseline behavior, and a clearly defined result. Some items will be controlling requirements; others will be preferences. Mark the difference. If a missing fact could reverse this decision or create a system that adds tracking but not progress, depends on ideal motivation, or hides overloaded commitments, it must be resolved before the recommendation advances.",
-            "sourceIds": [
-              "atomic-habits",
-              "cal-newport-deep-work",
-              "actionablebooks-productivity"
-            ]
-          }
-        ]
-      },
-      {
-        "heading": "A complete evidence-led walkthrough",
-        "body": [
-          {
-            "text": "Checkpoint 1: State the reader's decision and desired outcome for “5 Books Everyone Should Read”.",
-            "sourceIds": [
-              "atomic-habits",
-              "cal-newport-deep-work",
-              "actionablebooks-productivity"
-            ]
-          },
-          {
-            "text": "Make “state the reader's decision and desired outcome for “5 Books Everyone Should Read”” a pass/fail gate. State the acceptable range, then compare it with calendar history, completed-work evidence, workload constraints, baseline behavior, and a clearly defined result. Do not average a failed constraint against convenience. The right response to a conflict is to pause 5 books everyone should read, resolve the source of truth, and document the decision. Apply this checkpoint to 5 Books Everyone Should Read, not to the topic cluster in the abstract.",
-            "sourceIds": [
-              "atomic-habits",
-              "cal-newport-deep-work",
-              "actionablebooks-productivity"
-            ]
-          },
-          {
-            "text": "For 5 Books Everyone Should Read, save a short note containing cue, action, duration, completion evidence, interruption, result, and one design adjustment. That note is the evidence for checkpoint 1; completion without evidence is only an assumption.",
-            "sourceIds": [
-              "atomic-habits",
-              "cal-newport-deep-work",
-              "actionablebooks-productivity"
-            ]
-          },
-          {
-            "text": "Checkpoint 2: Name the exact execution problem the reader is trying to solve, with special attention to 5.",
-            "sourceIds": [
-              "atomic-habits",
-              "cal-newport-deep-work",
-              "actionablebooks-productivity"
-            ]
-          },
-          {
-            "text": "Practice this step on one week or one deliberately bounded work cycle: name the exact execution problem the reader is trying to solve, with special attention to 5. Change one variable, keep the other conditions stable, and inspect the result before expanding the scope. A small test is useful only when it represents the difficult condition that the full workflow must handle. Apply this checkpoint to 5 Books Everyone Should Read, not to the topic cluster in the abstract.",
-            "sourceIds": [
-              "atomic-habits",
-              "cal-newport-deep-work",
-              "actionablebooks-productivity"
-            ]
-          },
-          {
-            "text": "For 5 Books Everyone Should Read, save a short note containing cue, action, duration, completion evidence, interruption, result, and one design adjustment. That note is the evidence for checkpoint 2; completion without evidence is only an assumption.",
-            "sourceIds": [
-              "atomic-habits",
-              "cal-newport-deep-work",
-              "actionablebooks-productivity"
-            ]
-          },
-          {
-            "text": "Checkpoint 3: Separate the book's central mechanism from memorable slogans, with special attention to books.",
-            "sourceIds": [
-              "atomic-habits",
-              "cal-newport-deep-work",
-              "actionablebooks-productivity"
-            ]
-          },
-          {
-            "text": "Before performing this step, say the plan aloud: separate the book's central mechanism from memorable slogans, with special attention to books. Name the expected change, the maximum exposure or effort, and the stop signal. This short briefing matters because 5 books everyone should read can drift when people improvise without noticing that the original conditions changed. Apply this checkpoint to 5 Books Everyone Should Read, not to the topic cluster in the abstract.",
-            "sourceIds": [
-              "atomic-habits",
-              "cal-newport-deep-work",
-              "actionablebooks-productivity"
-            ]
-          },
-          {
-            "text": "For 5 Books Everyone Should Read, save a short note containing cue, action, duration, completion evidence, interruption, result, and one design adjustment. That note is the evidence for checkpoint 3; completion without evidence is only an assumption.",
-            "sourceIds": [
-              "atomic-habits",
-              "cal-newport-deep-work",
-              "actionablebooks-productivity"
-            ]
-          },
-          {
-            "text": "Checkpoint 4: Turn one recommendation into a calendar action with a baseline and deadline, with special attention to everyone.",
-            "sourceIds": [
-              "atomic-habits",
-              "cal-newport-deep-work",
-              "actionablebooks-productivity"
-            ]
-          },
-          {
-            "text": "Ask what would make this action wrong in the present setting, then turn one recommendation into a calendar action with a baseline and deadline, with special attention to everyone. Compare the answer with calendar history, completed-work evidence, workload constraints, baseline behavior, and a clearly defined result. This counter-check is especially valuable when a familiar method is being reused with a different person, product, location, or workload. Apply this checkpoint to 5 Books Everyone Should Read, not to the topic cluster in the abstract.",
-            "sourceIds": [
-              "atomic-habits",
-              "cal-newport-deep-work",
-              "actionablebooks-productivity"
-            ]
-          },
-          {
-            "text": "For 5 Books Everyone Should Read, save a short note containing cue, action, duration, completion evidence, interruption, result, and one design adjustment. That note is the evidence for checkpoint 4; completion without evidence is only an assumption.",
-            "sourceIds": [
-              "atomic-habits",
-              "cal-newport-deep-work",
-              "actionablebooks-productivity"
-            ]
-          },
-          {
-            "text": "Checkpoint 5: Run a 14-day experiment and keep only the behavior that changes the result, with special attention to should.",
-            "sourceIds": [
-              "atomic-habits",
-              "cal-newport-deep-work",
-              "actionablebooks-productivity"
-            ]
-          },
-          {
-            "text": "Use a two-person check when the consequence is meaningful. One person should run a 14-day experiment and keep only the behavior that changes the result, with special attention to should; the other should compare the action with calendar history, completed-work evidence, workload constraints, baseline behavior, and a clearly defined result. The second check is not bureaucracy—it catches a mismatch while the work is still reversible. Apply this checkpoint to 5 Books Everyone Should Read, not to the topic cluster in the abstract.",
-            "sourceIds": [
-              "atomic-habits",
-              "cal-newport-deep-work",
-              "actionablebooks-productivity"
-            ]
-          },
-          {
-            "text": "For 5 Books Everyone Should Read, save a short note containing cue, action, duration, completion evidence, interruption, result, and one design adjustment. That note is the evidence for checkpoint 5; completion without evidence is only an assumption.",
-            "sourceIds": [
-              "atomic-habits",
-              "cal-newport-deep-work",
-              "actionablebooks-productivity"
-            ]
-          },
-          {
-            "text": "Checkpoint 6: Record the result, unresolved risk, and next review date.",
-            "sourceIds": [
-              "atomic-habits",
-              "cal-newport-deep-work",
-              "actionablebooks-productivity"
-            ]
-          },
-          {
-            "text": "Ask what would make this action wrong in the present setting, then record the result, unresolved risk, and next review date. Compare the answer with calendar history, completed-work evidence, workload constraints, baseline behavior, and a clearly defined result. This counter-check is especially valuable when a familiar method is being reused with a different person, product, location, or workload. Apply this checkpoint to 5 Books Everyone Should Read, not to the topic cluster in the abstract.",
-            "sourceIds": [
-              "atomic-habits",
-              "cal-newport-deep-work",
-              "actionablebooks-productivity"
-            ]
-          },
-          {
-            "text": "For 5 Books Everyone Should Read, save a short note containing cue, action, duration, completion evidence, interruption, result, and one design adjustment. That note is the evidence for checkpoint 6; completion without evidence is only an assumption.",
-            "sourceIds": [
-              "atomic-habits",
-              "cal-newport-deep-work",
-              "actionablebooks-productivity"
-            ]
-          }
-        ]
-      },
-      {
-        "heading": "A representative scenario to test",
-        "body": [
-          {
-            "text": "Picture the easiest version of the decision and then add the condition most likely to break it. For 5 books everyone should read, begin with state the reader's decision and desired outcome for “5 Books Everyone Should Read”. Then use one week or one deliberately bounded work cycle to see whether you can separate the book's central mechanism from memorable slogans, with special attention to books. The attempt ends immediately if a system that adds tracking but not progress, depends on ideal motivation, or hides overloaded commitments appears. A passing result must still show that the final checkpoint—record the result, unresolved risk, and next review date—is practical for normal use.",
-            "sourceIds": [
-              "atomic-habits",
-              "cal-newport-deep-work",
-              "actionablebooks-productivity"
-            ]
-          },
-          {
-            "text": "Record the baseline before testing 5 Books Everyone Should Read. Make it observable and short enough to collect again. Do not improve the conditions merely to obtain a passing result; the purpose is to learn whether this advice survives its actual setting.",
-            "sourceIds": [
-              "atomic-habits",
-              "cal-newport-deep-work",
-              "actionablebooks-productivity"
-            ]
-          }
-        ]
-      },
-      {
-        "heading": "Failure signals and recovery",
-        "body": [
-          {
-            "text": "These are not cosmetic defects; each one changes the decision.",
-            "sourceIds": [
-              "atomic-habits",
-              "cal-newport-deep-work",
-              "actionablebooks-productivity"
-            ]
-          },
-          {
-            "text": "• The article's promise is broader than the evidence available for 5 books everyone should read.",
-            "sourceIds": [
-              "atomic-habits",
-              "cal-newport-deep-work",
-              "actionablebooks-productivity"
-            ]
-          },
-          {
-            "text": "• The test avoids the real constraint described by best productivity books.",
-            "sourceIds": [
-              "atomic-habits",
-              "cal-newport-deep-work",
-              "actionablebooks-productivity"
-            ]
-          },
-          {
-            "text": "• The method continues after a system that adds tracking but not progress, depends on ideal motivation, or hides overloaded commitments is observed.",
-            "sourceIds": [
-              "atomic-habits",
-              "cal-newport-deep-work",
-              "actionablebooks-productivity"
-            ]
-          },
-          {
-            "text": "• The conclusion cannot be reconstructed from cue, action, duration, completion evidence, interruption, result, and one design adjustment.",
-            "sourceIds": [
-              "atomic-habits",
-              "cal-newport-deep-work",
-              "actionablebooks-productivity"
-            ]
-          },
-          {
-            "text": "• No one has accepted ownership for record the result, unresolved risk, and next review date.",
-            "sourceIds": [
-              "atomic-habits",
-              "cal-newport-deep-work",
-              "actionablebooks-productivity"
-            ]
-          },
-          {
-            "text": "When one of these 5 Books Everyone Should Read signals appears, stop the active step, protect the people and property involved, and preserve the evidence. Return to the earliest failed checkpoint. Change one variable or obtain the missing qualified guidance before another bounded test.",
-            "sourceIds": [
-              "atomic-habits",
-              "cal-newport-deep-work",
-              "actionablebooks-productivity"
-            ]
-          }
-        ]
-      },
-      {
-        "heading": "Boundaries, cautions, and source checks",
-        "body": [
-          {
-            "text": "For this 5 Books Everyone Should Read review: This is an implementation framework, not medical or mental-health treatment. Reduce the workload when the system creates sustained distress, and seek qualified support when health or disability affects execution.",
-            "sourceIds": [
-              "atomic-habits",
-              "cal-newport-deep-work",
-              "actionablebooks-productivity"
-            ]
-          },
-          {
-            "text": "Use these authoritative pages as starting points:",
-            "sourceIds": [
-              "atomic-habits",
-              "cal-newport-deep-work",
-              "actionablebooks-productivity"
-            ]
-          },
-          {
-            "text": "• CDC shared-goals worksheet",
-            "sourceIds": [
-              "atomic-habits",
-              "cal-newport-deep-work",
-              "actionablebooks-productivity"
-            ]
-          },
-          {
-            "text": "• NIH behavior-change overview",
-            "sourceIds": [
-              "atomic-habits",
-              "cal-newport-deep-work",
-              "actionablebooks-productivity"
-            ]
-          },
-          {
-            "text": "For 5 Books Everyone Should Read, check each source's publication date, jurisdiction, model, audience, and scope. A general official page may establish the baseline while the relevant manufacturer, land manager, clinician, attorney, tax adviser, supplier, accreditor, or other qualified professional resolves the exact case.",
-            "sourceIds": [
-              "atomic-habits",
-              "cal-newport-deep-work",
-              "actionablebooks-productivity"
-            ]
-          }
-        ]
-      },
-      {
-        "heading": "Your next 20 minutes",
-        "body": [
-          {
-            "text": "Write the result promised by 5 Books Everyone Should Read in one measurable sentence. Complete the first checkpoint and gather one item from the evidence packet. If the high-consequence facts are clear, prepare one week or one deliberately bounded work cycle; otherwise send one focused question to the person or authority who can resolve the blocker.",
-            "sourceIds": [
-              "atomic-habits",
-              "cal-newport-deep-work",
-              "actionablebooks-productivity"
-            ]
-          },
-          {
-            "text": "The goal for 5 Books Everyone Should Read is a defensible next action, not artificial momentum. End the session by naming the person who can change the commitment or environment as the owner and recording the first review date.",
-            "sourceIds": [
-              "atomic-habits",
-              "cal-newport-deep-work",
-              "actionablebooks-productivity"
-            ]
-          }
-        ]
-      },
-      {
-        "heading": "Related guides",
-        "body": [
-          {
-            "text": "• 14-day productivity experiment",
-            "sourceIds": [
-              "atomic-habits",
-              "cal-newport-deep-work",
-              "actionablebooks-productivity"
-            ]
-          },
-          {
-            "text": "• weekly review template",
-            "sourceIds": [
-              "atomic-habits",
-              "cal-newport-deep-work",
-              "actionablebooks-productivity"
-            ]
-          },
-          {
-            "text": "• results resource library",
-            "sourceIds": [
-              "atomic-habits",
-              "cal-newport-deep-work",
-              "actionablebooks-productivity"
-            ]
-          }
-        ]
-      },
-      {
-        "heading": "FAQ",
-        "body": [
-          {
-            "text": "What is the first fact to verify for 5 Books Everyone Should Read?.",
-            "sourceIds": [
-              "atomic-habits",
-              "cal-newport-deep-work",
-              "actionablebooks-productivity"
-            ]
-          },
-          {
-            "text": "Start with this checkpoint: state the reader's decision and desired outcome for “5 Books Everyone Should Read”. It defines the scope of the answer and prevents a general claim from being applied to the wrong setting.",
-            "sourceIds": [
-              "atomic-habits",
-              "cal-newport-deep-work",
-              "actionablebooks-productivity"
-            ]
-          },
-          {
-            "text": "What makes the evidence strong enough to continue?.",
-            "sourceIds": [
-              "atomic-habits",
-              "cal-newport-deep-work",
-              "actionablebooks-productivity"
-            ]
-          },
-          {
-            "text": "For 5 Books Everyone Should Read, the evidence should describe the real setting and include cue, action, duration, completion evidence, interruption, result, and one design adjustment. It should also show that a system that adds tracking but not progress, depends on ideal motivation, or hides overloaded commitments has not been ignored or averaged against convenience.",
-            "sourceIds": [
-              "atomic-habits",
-              "cal-newport-deep-work",
-              "actionablebooks-productivity"
-            ]
-          },
-          {
-            "text": "What should happen after the first test?.",
-            "sourceIds": [
-              "atomic-habits",
-              "cal-newport-deep-work",
-              "actionablebooks-productivity"
-            ]
-          },
-          {
-            "text": "Compare the 5 Books Everyone Should Read result with its original success condition. Decide whether to adopt the method, revise one variable, seek qualified guidance, or stop. Then complete the final checkpoint: record the result, unresolved risk, and next review date.",
-            "sourceIds": [
-              "atomic-habits",
-              "cal-newport-deep-work",
-              "actionablebooks-productivity"
-            ]
-          }
-        ]
-      }
-    ],
-    "sourceIds": [
-      "atomic-habits",
-      "cal-newport-deep-work",
-      "actionablebooks-productivity"
-    ],
-    "takeaway": "A professional 5 books everyone should read workflow makes uncertainty visible. It gives the person doing the work a sequence, a stopping rule, and a record that can be reviewed later. A useful productivity system converts an important result into a small observable behavior that survives a normal week."
   }
 ];
 
