@@ -6,6 +6,9 @@ import { ArrowLeft, ArrowRight, Check, Minus, ShieldCheck, ShoppingBag, X } from
 import { getProductDecision, getProductFaqs, getRelatedProducts, getReviewProductBySlug, reviewProducts } from "@/lib/reviews";
 import { absoluteUrl, jsonLd, siteName } from "@/lib/seo";
 
+const reviewDatePublished = "2026-07-08T00:00:00-04:00";
+const reviewDateModified = "2026-08-25T00:00:00-04:00";
+
 type ReviewPageProps = {
   params: Promise<{
     slug: string;
@@ -36,6 +39,8 @@ export async function generateMetadata({ params }: ReviewPageProps): Promise<Met
       title: `${product.name} Buying Guide | ${siteName}`,
       description: product.summary,
       url: absoluteUrl(`/reviews/${product.slug}`),
+      publishedTime: reviewDatePublished,
+      modifiedTime: reviewDateModified,
       images: [{ url: absoluteUrl(product.image), alt: product.name }],
       type: "article",
     },
@@ -81,10 +86,14 @@ export default async function ReviewPage({ params }: ReviewPageProps) {
         headline: `${product.name} Buying Guide`,
         description: product.summary,
         image: absoluteUrl(product.image),
+        datePublished: reviewDatePublished,
+        dateModified: reviewDateModified,
         author: { "@id": absoluteUrl("/#organization") },
         publisher: { "@id": absoluteUrl("/#organization") },
         mainEntityOfPage: reviewUrl,
+        articleSection: product.category,
         keywords: [product.category, product.bestFor, "entrepreneur productivity shopping guide", decision.searchIntent].join(", "),
+        isAccessibleForFree: true,
         inLanguage: "en-US",
       },
       {

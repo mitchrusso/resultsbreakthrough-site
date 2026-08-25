@@ -47,6 +47,12 @@ const websiteJsonLd = {
       name: siteName,
       url: siteUrl,
       description: defaultDescription,
+      contactPoint: {
+        "@type": "ContactPoint",
+        contactType: "customer support",
+        url: absoluteUrl("/contact"),
+        availableLanguage: "en-US",
+      },
     },
     {
       "@type": "WebSite",
@@ -54,11 +60,6 @@ const websiteJsonLd = {
       name: siteName,
       url: siteUrl,
       publisher: { "@id": absoluteUrl("/#organization") },
-      potentialAction: {
-        "@type": "SearchAction",
-        target: `${siteUrl}/resources?search={search_term_string}`,
-        "query-input": "required name=search_term_string",
-      },
     },
   ],
 };

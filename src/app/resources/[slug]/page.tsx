@@ -172,7 +172,9 @@ export default async function ArticlePage({ params }: ArticlePageProps) {
           "@id": absoluteUrl("/#organization"),
         },
         mainEntityOfPage: articleUrl,
+        articleSection: article.category,
         keywords: article.keywords.join(", "),
+        citation: sources.map((source) => source.url),
         inLanguage: "en-US",
       },
       {
