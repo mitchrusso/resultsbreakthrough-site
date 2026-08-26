@@ -1,5 +1,20 @@
 import type { NextConfig } from "next";
 
+const contentSecurityPolicy = [
+  "default-src 'self'",
+  "base-uri 'self'",
+  "object-src 'none'",
+  "frame-ancestors 'none'",
+  "form-action 'self'",
+  "img-src 'self' data: blob: https:",
+  "font-src 'self' data: https:",
+  "style-src 'self' 'unsafe-inline' https:",
+  "script-src 'self' 'unsafe-inline' 'unsafe-eval' https://app.rybbit.io",
+  "connect-src 'self' https: https://app.rybbit.io",
+  "frame-src 'self' https:",
+  "upgrade-insecure-requests",
+].join("; ");
+
 const nextConfig: NextConfig = {
   poweredByHeader: false,
   images: {
@@ -22,6 +37,7 @@ const nextConfig: NextConfig = {
         source: "/:path*",
         headers: [
           { key: "X-DNS-Prefetch-Control", value: "on" },
+          { key: "Content-Security-Policy", value: contentSecurityPolicy },
           { key: "X-Content-Type-Options", value: "nosniff" },
           { key: "X-Frame-Options", value: "DENY" },
           { key: "X-Permitted-Cross-Domain-Policies", value: "none" },
