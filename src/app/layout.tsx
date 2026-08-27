@@ -25,7 +25,7 @@ export const metadata: Metadata = {
     "weekly review planner",
     "remote work gear",
   ],
-  alternates: { canonical: "/" },
+  alternates: { canonical: "/", types: { "application/rss+xml": absoluteUrl("/feed.xml") } },
   openGraph: {
     type: "website",
     url: siteUrl,
