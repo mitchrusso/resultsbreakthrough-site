@@ -30,6 +30,10 @@ const quickMatchCards = [
   { title: "I keep getting distracted", answer: "Compare physical timers and focus tools.", href: "/resources/topics/focus-and-deep-work", icon: Clock3 },
   { title: "My office setup slows me down", answer: "Look at desk, monitor, light, and camera upgrades.", href: "/resources/topics/entrepreneur-desk-setup", icon: Laptop },
   { title: "I want stronger execution habits", answer: "Use scorecards, books, and accountability tools.", href: "/resources/topics/habit-trackers", icon: BarChart3 },
+  { title: "I need visible project flow", answer: "Compare Kanban boards, pads, and weekly scorecards.", href: "/reviews/desktop-kanban-board-kit", icon: Target },
+  { title: "I travel and need a better setup", answer: "Compare portable monitors, stands, keyboards, and docks.", href: "/resources/topics/remote-work-gear", icon: Laptop },
+  { title: "My calls need to look professional", answer: "Start with camera, light, microphone, and desk position.", href: "/reviews/usb-podcast-microphone", icon: Sparkles },
+  { title: "My energy drops during the week", answer: "Compare sleep, movement, hydration, and reset tools.", href: "/resources/topics/personal-performance", icon: BarChart3 },
 ];
 
 const categoryLinks = [

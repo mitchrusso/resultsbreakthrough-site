@@ -16,11 +16,14 @@ export type ResourceArticle = {
 
 export const keywordPlan = [
   { cluster: "Goal planners", keywords: ["goal planner for entrepreneurs", "weekly review planner", "quarterly goal planner", "accountability planner"] },
+  { cluster: "Time blocking and visible workflow", keywords: ["time blocking planner pad", "personal Kanban board", "desktop Kanban board", "weekly scorecard"] },
   { cluster: "Focus timers", keywords: ["best focus timer", "pomodoro timer for productivity", "deep work tools", "time blocking timer"] },
+  { cluster: "Distraction control", keywords: ["phone lock box for productivity", "noise canceling headphones vs earplugs", "blue light glasses computer work"] },
   { cluster: "Home office setup", keywords: ["entrepreneur desk setup", "standing desk for home office", "monitor arm setup", "productivity desk gear"] },
-  { cluster: "Remote work gear", keywords: ["video call setup", "webcam lighting for consultants", "remote work gear", "home office camera setup"] },
+  { cluster: "Remote work gear", keywords: ["video call setup", "webcam lighting for consultants", "remote work gear", "home office camera setup", "portable monitor for laptop", "USB-C docking station home office"] },
   { cluster: "Business books", keywords: ["business books for entrepreneurs", "productivity books", "execution books", "habit books"] },
-  { cluster: "Accountability systems", keywords: ["weekly scorecard", "habit tracker for entrepreneurs", "12 week year planner", "accountability tools"] },
+  { cluster: "Accountability systems", keywords: ["weekly scorecard", "habit tracker for entrepreneurs", "12 week year planner", "accountability tools", "OKR workbook", "vision board kit"] },
+  { cluster: "Personal performance", keywords: ["sleep tracker for entrepreneurs", "fitness tracker watch", "smart hydration bottle", "meditation breathing device"] },
 ];
 
 const images = {

@@ -7,9 +7,20 @@ const importantRoutes = [
   "/",
   "/resources",
   "/resources/topics/business-books",
+  "/resources/topics/productivity-tools",
+  "/resources/topics/remote-work-gear",
+  "/resources/topics/personal-performance",
   "/resources/turn-a-productivity-book-into-a-14-day-experiment",
   "/reviews/full-focus-planner",
+  "/reviews/time-blocking-planner-pad",
+  "/reviews/desktop-kanban-board-kit",
+  "/reviews/distraction-blocking-lock-box",
+  "/reviews/usb-c-docking-station",
+  "/reviews/fitness-tracker-watch",
   "/compare/business-books-vs-execution-planners",
+  "/compare/visual-timer-vs-digital-pomodoro-timer",
+  "/compare/laptop-stand-vs-portable-monitor",
+  "/compare/okr-workbook-vs-90-day-planner",
   "/contact",
   "/privacy-policy",
 ];
@@ -53,6 +64,10 @@ test.describe("SEO discovery and metadata", () => {
     const sitemapText = await sitemap.text();
     expect(sitemapText).toContain(`${productionOrigin}/resources/topics/business-books`);
     expect(sitemapText).toContain(`${productionOrigin}/reviews/full-focus-planner`);
+    expect(sitemapText).toContain(`${productionOrigin}/reviews/time-blocking-planner-pad`);
+    expect(sitemapText).toContain(`${productionOrigin}/reviews/desktop-kanban-board-kit`);
+    expect(sitemapText).toContain(`${productionOrigin}/compare/visual-timer-vs-digital-pomodoro-timer`);
+    expect(sitemapText).toContain(`${productionOrigin}/compare/laptop-stand-vs-portable-monitor`);
 
     const llms = await request.get("/llms.txt");
     expect(llms.ok()).toBeTruthy();
@@ -103,6 +118,30 @@ test.describe("Affiliate and mobile behavior", () => {
     expect(combined).toContain('"@type":"CollectionPage"');
     expect(combined).toContain('"@id":"https://resultsbreakthrough.com/resources/topics/business-books#comparison-guides"');
     expect(combined).toContain('"name":"Business Books vs Execution Planners"');
+  });
+
+  test("new high-intent product pages are discoverable and conversion-ready", async ({ page }) => {
+    await page.goto("/");
+
+    await expect(page.getByRole("link", { name: /I need visible project flow/ })).toHaveAttribute(
+      "href",
+      "/reviews/desktop-kanban-board-kit",
+    );
+    await expect(page.getByRole("link", { name: /I travel and need a better setup/ })).toHaveAttribute(
+      "href",
+      "/resources/topics/remote-work-gear",
+    );
+
+    await page.goto("/resources/topics/focus-and-deep-work");
+    await expect(page.getByRole("link", { name: /Visual Timer vs Digital Pomodoro Timer/ })).toBeVisible();
+    await expect(page.getByRole("link", { name: /Noise-Canceling Headphones vs Earplugs/ })).toBeVisible();
+
+    await page.goto("/reviews/distraction-blocking-lock-box");
+    await expect(page.getByRole("heading", { name: /Distraction-Blocking Lock Box Buying Guide/ })).toBeVisible();
+    await expect(page.getByRole("link", { name: /Compare on Amazon/ }).first()).toHaveAttribute(
+      "href",
+      /tag=rb10f-20/,
+    );
   });
 
   test("homepage mobile navigation exposes core sections", async ({ page, isMobile }) => {

@@ -34,15 +34,15 @@ const amazonSearch = (query: string) => `https://www.amazon.com/s?k=${encodeURIC
 const anchorId = (value: string) => value.toLowerCase().replace(/[^a-z0-9]+/g, "-").replace(/(^-|-$)/g, "");
 
 const comparisonByHubSlug: Record<string, string[]> = {
-  "productivity-tools": ["paper-planner-vs-digital-task-manager", "pomodoro-timer-vs-time-blocking", "business-books-vs-execution-planners"],
-  "goal-planners": ["paper-planner-vs-digital-task-manager", "business-books-vs-execution-planners"],
-  "focus-and-deep-work": ["pomodoro-timer-vs-time-blocking", "paper-planner-vs-digital-task-manager"],
-  "entrepreneur-desk-setup": ["standing-desk-vs-desk-converter", "pomodoro-timer-vs-time-blocking"],
+  "productivity-tools": ["paper-planner-vs-digital-task-manager", "visual-timer-vs-digital-pomodoro-timer", "business-books-vs-execution-planners"],
+  "goal-planners": ["paper-planner-vs-digital-task-manager", "okr-workbook-vs-90-day-planner", "business-books-vs-execution-planners"],
+  "focus-and-deep-work": ["visual-timer-vs-digital-pomodoro-timer", "noise-canceling-headphones-vs-earplugs", "pomodoro-timer-vs-time-blocking"],
+  "entrepreneur-desk-setup": ["standing-desk-vs-desk-converter", "laptop-stand-vs-portable-monitor", "noise-canceling-headphones-vs-earplugs"],
   "business-books": ["business-books-vs-execution-planners", "paper-planner-vs-digital-task-manager"],
-  "goal-achievement-systems": ["business-books-vs-execution-planners", "paper-planner-vs-digital-task-manager"],
-  "remote-work-gear": ["standing-desk-vs-desk-converter", "pomodoro-timer-vs-time-blocking"],
-  "habit-trackers": ["paper-planner-vs-digital-task-manager", "business-books-vs-execution-planners"],
-  "personal-performance": ["pomodoro-timer-vs-time-blocking", "business-books-vs-execution-planners"],
+  "goal-achievement-systems": ["okr-workbook-vs-90-day-planner", "business-books-vs-execution-planners", "paper-planner-vs-digital-task-manager"],
+  "remote-work-gear": ["laptop-stand-vs-portable-monitor", "standing-desk-vs-desk-converter", "noise-canceling-headphones-vs-earplugs"],
+  "habit-trackers": ["okr-workbook-vs-90-day-planner", "paper-planner-vs-digital-task-manager", "business-books-vs-execution-planners"],
+  "personal-performance": ["noise-canceling-headphones-vs-earplugs", "pomodoro-timer-vs-time-blocking", "business-books-vs-execution-planners"],
 };
 
 function getHubComparisons(slug: string): ComparisonPage[] {

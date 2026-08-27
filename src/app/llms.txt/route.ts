@@ -21,6 +21,8 @@ ResultsBreakthrough is an affiliate shopping and research guide for entrepreneur
 - Standing desks, monitor arms, webcams, lighting, headphones, and remote-work gear
 - Business books, including Mitch Russo titles, and execution systems that support measurable weekly behavior
 - Goal-achievement systems, Kanban boards, OKR workbooks, portable monitors, USB microphones, sleep trackers, hydration tools, and personal performance tools
+- High-intent buyer pages for time-blocking pads, desktop Kanban boards, distraction-blocking lock boxes, monitor light bars, compact travel keyboards, USB-C docks, fitness trackers, and vision board kits
+- Comparison pages for visual timers vs digital Pomodoro timers, laptop stands vs portable monitors, noise-canceling headphones vs earplugs, and OKR workbooks vs 90-day planners
 
 ## Important Notes
 - ResultsBreakthrough does not sell products directly.
