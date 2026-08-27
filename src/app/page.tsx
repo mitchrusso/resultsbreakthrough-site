@@ -6,6 +6,7 @@ import { useMemo, useState } from "react";
 import { ArrowRight, BadgeCheck, BarChart3, BookOpen, Check, Clock3, Laptop, Menu, NotebookPen, ShoppingBag, Sparkles, Target, X, Zap } from "lucide-react";
 import { comparisonPages } from "@/lib/comparisons";
 import { reviewProducts } from "@/lib/reviews";
+import { getArticlePublishTime, getPublishedArticles } from "@/lib/resources";
 import { siteFaqs } from "@/lib/trust";
 import { absoluteUrl, jsonLd, siteName } from "@/lib/seo";
 
@@ -93,6 +94,9 @@ const breakthroughRules = [
 export default function Home() {
   const [menuOpen, setMenuOpen] = useState(false);
   const topProducts = reviewProducts.slice(0, 9);
+  const latestArticles = getPublishedArticles()
+    .sort((a, b) => new Date(getArticlePublishTime(b)).getTime() - new Date(getArticlePublishTime(a)).getTime())
+    .slice(0, 3);
   const pageJsonLd = useMemo(() => ({
     "@context": "https://schema.org",
     "@graph": [
@@ -270,6 +274,28 @@ export default function Home() {
         <Link href="/faq" className="mt-6 inline-flex min-h-11 items-center rounded-md border border-[#cdd4ca] bg-white px-4 py-2 text-sm font-black text-[#172427] hover:border-[#256f63]">
           View full FAQ
         </Link>
+      </section>
+
+      <section className="border-t border-[#d9ddd4] bg-white py-14">
+        <div className="mx-auto max-w-7xl px-5">
+          <div className="flex flex-col justify-between gap-4 sm:flex-row sm:items-end">
+            <div>
+              <p className="text-sm font-black uppercase tracking-[0.18em] text-[#256f63]">Latest Resources</p>
+              <h2 className="mt-3 text-3xl font-black leading-tight sm:text-4xl">New guides for sharper execution and better tools.</h2>
+            </div>
+            <Link href="/resources" className="text-sm font-black text-[#256f63] hover:text-[#1e5a51]">All resources</Link>
+          </div>
+          <div className="mt-8 grid gap-5 md:grid-cols-3">
+            {latestArticles.map((article) => (
+              <Link key={article.slug} href={`/resources/${article.slug}`} className="group rounded-lg border border-[#d9ddd4] bg-[#f2f5f1] p-5 shadow-sm hover:border-[#256f63]">
+                <p className="text-xs font-black uppercase tracking-[0.14em] text-[#256f63]">{article.category}</p>
+                <h3 className="mt-3 text-xl font-black leading-tight group-hover:text-[#256f63]">{article.title}</h3>
+                <p className="mt-3 text-sm leading-7 text-[#53605c]">{article.excerpt}</p>
+                <span className="mt-4 inline-flex items-center gap-2 text-sm font-black text-[#256f63]">Read guide <ArrowRight className="h-4 w-4" aria-hidden /></span>
+              </Link>
+            ))}
+          </div>
+        </div>
       </section>
 
       <footer className="border-t border-[#d9ddd4] bg-[#f2f5f1]">
