@@ -25,7 +25,7 @@ export const metadata: Metadata = {
     "weekly review planner",
     "remote work gear",
   ],
-  alternates: { canonical: "/", types: { "application/rss+xml": absoluteUrl("/feed.xml") } },
+  alternates: { canonical: "/" },
   openGraph: {
     type: "website",
     url: siteUrl,
@@ -68,6 +68,7 @@ export default function RootLayout({ children }: Readonly<{ children: React.Reac
   return (
     <html lang="en" className={`${geistSans.variable} ${geistMono.variable} h-full antialiased`} suppressHydrationWarning>
       <head>
+        <link rel="alternate" type="application/rss+xml" title={`${siteName} RSS Feed`} href={absoluteUrl("/feed.xml")} />
         <script src="https://app.rybbit.io/api/script.js" data-site-id="6ab9d2374e06" defer />
       </head>
       <body className="min-h-full flex flex-col" suppressHydrationWarning>
