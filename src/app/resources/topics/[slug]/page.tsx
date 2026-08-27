@@ -3,6 +3,7 @@ import Image from "next/image";
 import Link from "next/link";
 import { notFound } from "next/navigation";
 import { ArrowLeft, ArrowRight, CheckCircle2, ShieldCheck } from "lucide-react";
+import { comparisonPages, type ComparisonPage } from "@/lib/comparisons";
 import { getTopicHubBySlug, topicHubs } from "@/lib/hubs";
 import { getArticleBySlug, isArticlePublished, type ResourceArticle } from "@/lib/resources";
 import { reviewProducts, type ReviewProduct } from "@/lib/reviews";
@@ -31,6 +32,26 @@ type BookSubcategory = {
 const amazonTag = "rb10f-20";
 const amazonSearch = (query: string) => `https://www.amazon.com/s?k=${encodeURIComponent(query)}&tag=${amazonTag}`;
 const anchorId = (value: string) => value.toLowerCase().replace(/[^a-z0-9]+/g, "-").replace(/(^-|-$)/g, "");
+
+const comparisonByHubSlug: Record<string, string[]> = {
+  "productivity-tools": ["paper-planner-vs-digital-task-manager", "pomodoro-timer-vs-time-blocking", "business-books-vs-execution-planners"],
+  "goal-planners": ["paper-planner-vs-digital-task-manager", "business-books-vs-execution-planners"],
+  "focus-and-deep-work": ["pomodoro-timer-vs-time-blocking", "paper-planner-vs-digital-task-manager"],
+  "entrepreneur-desk-setup": ["standing-desk-vs-desk-converter", "pomodoro-timer-vs-time-blocking"],
+  "business-books": ["business-books-vs-execution-planners", "paper-planner-vs-digital-task-manager"],
+  "goal-achievement-systems": ["business-books-vs-execution-planners", "paper-planner-vs-digital-task-manager"],
+  "remote-work-gear": ["standing-desk-vs-desk-converter", "pomodoro-timer-vs-time-blocking"],
+  "habit-trackers": ["paper-planner-vs-digital-task-manager", "business-books-vs-execution-planners"],
+  "personal-performance": ["pomodoro-timer-vs-time-blocking", "business-books-vs-execution-planners"],
+};
+
+function getHubComparisons(slug: string): ComparisonPage[] {
+  const slugs = comparisonByHubSlug[slug] ?? [];
+
+  return slugs
+    .map((comparisonSlug) => comparisonPages.find((comparison) => comparison.slug === comparisonSlug))
+    .filter((comparison): comparison is ComparisonPage => Boolean(comparison));
+}
 
 const productCategoryMatches: Record<string, string[]> = {
   "productivity-tools": ["Goal Planners", "Focus Timers", "Productivity Tools"],
@@ -206,6 +227,7 @@ export default async function HubPage({ params }: HubPageProps) {
             .filter((product): product is ReviewProduct => Boolean(product)),
         }))
       : [];
+  const relatedComparisons = getHubComparisons(hub.slug);
   const relatedHubs = topicHubs.filter((topic) => topic.slug !== hub.slug).slice(0, 4);
   const hubUrl = absoluteUrl(`/resources/topics/${hub.slug}`);
   const hubJsonLd = {
@@ -234,6 +256,21 @@ export default async function HubPage({ params }: HubPageProps) {
           url: absoluteUrl(`/reviews/${product.slug}`),
         })),
       },
+      ...(relatedComparisons.length > 0
+        ? [
+            {
+              "@type": "ItemList",
+              "@id": `${hubUrl}#comparison-guides`,
+              name: `${hub.title} comparison guides`,
+              itemListElement: relatedComparisons.map((comparison, index) => ({
+                "@type": "ListItem",
+                position: index + 1,
+                name: comparison.title,
+                url: absoluteUrl(`/compare/${comparison.slug}`),
+              })),
+            },
+          ]
+        : []),
       {
         "@type": "FAQPage",
         mainEntity: hub.faqs.map((faq) => ({
@@ -432,6 +469,38 @@ export default async function HubPage({ params }: HubPageProps) {
                     ))}
                   </div>
                 </section>
+              ))}
+            </div>
+          </div>
+        </section>
+      )}
+
+      {relatedComparisons.length > 0 && (
+        <section className="border-b border-[#dce5dc] bg-white">
+          <div className="mx-auto max-w-5xl px-5 py-10">
+            <div className="flex flex-col justify-between gap-4 sm:flex-row sm:items-end">
+              <div>
+                <p className="text-sm font-black uppercase tracking-[0.16em] text-[#0e7a5f]">Compare Before You Buy</p>
+                <h2 className="mt-2 text-3xl font-black leading-tight">Match the tool to the way you actually execute.</h2>
+              </div>
+              <Link href="/#compare" className="inline-flex min-h-11 items-center gap-2 rounded-md border border-[#cbd8cf] bg-white px-4 py-2 text-sm font-black text-[#10231f] hover:border-[#0e7a5f]">
+                All comparisons
+                <ArrowRight className="h-4 w-4" aria-hidden />
+              </Link>
+            </div>
+            <div className="mt-6 grid gap-4 md:grid-cols-2">
+              {relatedComparisons.map((comparison) => (
+                <Link
+                  key={comparison.slug}
+                  href={`/compare/${comparison.slug}`}
+                  className="group rounded-lg border border-[#dce5dc] bg-[#fbfcf8] p-5 shadow-sm hover:border-[#0e7a5f]"
+                >
+                  <span className="flex items-start justify-between gap-4">
+                    <span className="text-lg font-black leading-tight group-hover:text-[#0e7a5f]">{comparison.title}</span>
+                    <ArrowRight className="mt-1 h-4 w-4 flex-none text-[#0e7a5f]" aria-hidden />
+                  </span>
+                  <span className="mt-3 block text-sm leading-6 text-[#5d6d66]">{comparison.description}</span>
+                </Link>
               ))}
             </div>
           </div>

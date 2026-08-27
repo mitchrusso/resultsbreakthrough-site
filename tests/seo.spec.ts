@@ -74,6 +74,9 @@ test.describe("Affiliate and mobile behavior", () => {
   test("Amazon affiliate links open safely with the ResultsBreakthrough tag", async ({ page }) => {
     await page.goto("/resources/topics/business-books");
 
+    await expect(page.getByRole("heading", { name: "Match the tool to the way you actually execute." })).toBeVisible();
+    await expect(page.getByRole("link", { name: /Business Books vs Execution Planners/ })).toBeVisible();
+
     const links = await page.locator('a[href*="amazon.com"]').evaluateAll((anchors) =>
       anchors.map((anchor) => ({
         href: anchor.getAttribute("href") ?? "",
@@ -90,6 +93,16 @@ test.describe("Affiliate and mobile behavior", () => {
       expect(link.rel).toContain("nofollow");
       expect(link.rel).toContain("noreferrer");
     }
+  });
+
+  test("topic hubs expose comparison structured data", async ({ page }) => {
+    await page.goto("/resources/topics/business-books");
+    const jsonLdText = await page.locator('script[type="application/ld+json"]').allTextContents();
+    const combined = jsonLdText.join("\n");
+
+    expect(combined).toContain('"@type":"CollectionPage"');
+    expect(combined).toContain('"@id":"https://resultsbreakthrough.com/resources/topics/business-books#comparison-guides"');
+    expect(combined).toContain('"name":"Business Books vs Execution Planners"');
   });
 
   test("homepage mobile navigation exposes core sections", async ({ page, isMobile }) => {
