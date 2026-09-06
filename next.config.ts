@@ -17,6 +17,36 @@ const contentSecurityPolicy = [
 
 const nextConfig: NextConfig = {
   poweredByHeader: false,
+  async redirects() {
+    return [
+      {
+        source: "/:path*",
+        has: [{ type: "host", value: "www.resultsbreakthrough.com" }],
+        destination: "https://resultsbreakthrough.com/:path*",
+        permanent: true,
+      },
+      {
+        source: "/resources/topics/remote-work",
+        destination: "/resources/topics/remote-work-gear",
+        permanent: true,
+      },
+      {
+        source: "/resources/topics/planners",
+        destination: "/resources/topics/goal-planners",
+        permanent: true,
+      },
+      {
+        source: "/tools",
+        destination: "/resources",
+        permanent: true,
+      },
+      {
+        source: "/tool-picks",
+        destination: "/resources",
+        permanent: true,
+      },
+    ];
+  },
   images: {
     formats: ["image/avif", "image/webp"],
     minimumCacheTTL: 31536000,

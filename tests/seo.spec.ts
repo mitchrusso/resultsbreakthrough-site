@@ -1,4 +1,5 @@
 import { expect, test } from "@playwright/test";
+import { readFileSync } from "node:fs";
 
 const productionOrigin = "https://resultsbreakthrough.com";
 const amazonTag = "rb10f-20";
@@ -82,6 +83,16 @@ test.describe("SEO discovery and metadata", () => {
     await page.goto("/");
     const script = page.locator('script[src="https://app.rybbit.io/api/script.js"]');
     await expect(script).toHaveAttribute("data-site-id", "6ab9d2374e06");
+  });
+
+  test("legacy and www variants are redirected to canonical routes", () => {
+    const nextConfig = readFileSync("next.config.ts", "utf8");
+
+    expect(nextConfig).toContain("www.resultsbreakthrough.com");
+    expect(nextConfig).toContain("https://resultsbreakthrough.com/:path*");
+    expect(nextConfig).toContain("/resources/topics/remote-work-gear");
+    expect(nextConfig).toContain("/resources/topics/goal-planners");
+    expect(nextConfig).toContain('destination: "/resources"');
   });
 });
 
