@@ -274,6 +274,19 @@ export default async function ArticlePage({ params }: ArticlePageProps) {
           </div>
 
           <div className="mt-10 rounded-lg border border-[#dce5dc] bg-white p-6 shadow-sm sm:p-8">
+            {article.table ? (
+              <figure className="mb-9 overflow-hidden rounded-lg border border-[#dce5dc]">
+                <figcaption className="bg-[#eef6ed] px-5 py-4 text-lg font-black text-[#18211f]">{article.table.caption}</figcaption>
+                <div className="overflow-x-auto">
+                  <table className="w-full border-collapse text-left text-sm">
+                    <thead className="bg-[#f7faf7]">
+                      <tr>{article.table.columns.map((column) => <th key={column} scope="col" className="border-b border-[#dce5dc] px-4 py-3 font-black">{column}</th>)}</tr>
+                    </thead>
+                    <tbody>{article.table.rows.map((row) => <tr key={row.join("|")} className="border-b border-[#e6ece5] last:border-0">{row.map((cell, index) => <td key={cell} className="px-4 py-3 align-top leading-6">{index === 0 ? <strong>{cell}</strong> : cell}</td>)}</tr>)}</tbody>
+                  </table>
+                </div>
+              </figure>
+            ) : null}
             {article.sections.map((section) => (
               <section key={section.heading} className="border-b border-[#e6ece5] py-7 first:pt-0 last:border-b-0 last:pb-0">
                 <h2 className="text-2xl font-black leading-tight">{section.heading}</h2>

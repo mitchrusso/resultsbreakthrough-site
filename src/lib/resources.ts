@@ -10,6 +10,7 @@ export type ResourceArticle = {
   excerpt: string;
   keywords: string[];
   sections: { heading: string; body: { text: string; sourceIds: string[] }[] }[];
+  table?: { caption: string; columns: string[]; rows: string[][] };
   sourceIds: string[];
   takeaway: string;
 };
