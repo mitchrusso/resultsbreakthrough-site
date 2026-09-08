@@ -5639,8 +5639,8 @@ export const approvedResourceArticles: ResourceArticle[] = [
       "actionablebooks-productivity"
     ],
     "takeaway": "how to set and achieve business goals often looks like a single task. In practice, the outcome depends on a chain of small choices, and the earliest unchecked choice usually creates the most expensive correction. A useful productivity system converts an important result into a small observable behavior that survives a normal week."
-  }
-  ,{
+  },
+  {
     "title": "Weekly Business Review: A 30-Minute Leading-Indicator System",
     "slug": "weekly-business-review-leading-indicators",
     "publishDate": "2026-09-07",
@@ -5648,21 +5648,815 @@ export const approvedResourceArticles: ResourceArticle[] = [
     "category": "Accountability Systems",
     "image": "/images/weekly-review-leading-lagging-scorecard.svg",
     "excerpt": "Build a weekly business review that separates controllable actions from delayed outcomes and converts the numbers into one clear commitment.",
-    "keywords": ["weekly business review", "weekly scorecard", "leading indicators"],
-    "table": {"caption":"A scorecard that leads to decisions","columns":["Signal","Example","Weekly decision"],"rows":[["Lagging result","Revenue, gross margin, renewals","Is the strategy producing the intended result?"],["Leading action","Qualified conversations, proposals, follow-ups","Did we execute the behavior likely to move the result?"],["Constraint","Capacity, cycle time, blocked approval","What prevents the next unit of progress?"],["Commitment","One owner, action, due date, evidence","What will be visibly different by next review?"]]},
+    "keywords": [
+      "weekly business review",
+      "weekly scorecard",
+      "leading indicators"
+    ],
+    "table": {
+      "caption": "A scorecard that leads to decisions",
+      "columns": [
+        "Signal",
+        "Example",
+        "Weekly decision"
+      ],
+      "rows": [
+        [
+          "Lagging result",
+          "Revenue, gross margin, renewals",
+          "Is the strategy producing the intended result?"
+        ],
+        [
+          "Leading action",
+          "Qualified conversations, proposals, follow-ups",
+          "Did we execute the behavior likely to move the result?"
+        ],
+        [
+          "Constraint",
+          "Capacity, cycle time, blocked approval",
+          "What prevents the next unit of progress?"
+        ],
+        [
+          "Commitment",
+          "One owner, action, due date, evidence",
+          "What will be visibly different by next review?"
+        ]
+      ]
+    },
     "sections": [
-      {"heading":"The short answer","body":[{"text":"A weekly business review should take 30 minutes and answer four questions: What result changed? Which controllable actions preceded it? What constraint matters most now? What will one named owner complete before the next review? The meeting is not a tour of every metric. It is a decision system.","sourceIds":["atomic-habits","cal-newport-deep-work"]},{"text":"Use a one-page scorecard with no more than three outcome measures and three action measures for the current priority. Capture trends across several weeks, because one noisy week rarely proves that a strategy works or fails.","sourceIds":["actionablebooks-productivity","amazon-12-week-year"]}]},
-      {"heading":"Separate leading actions from lagging results","body":[{"text":"Lagging indicators tell you what already happened: revenue, margin, churn, delivery time, customer satisfaction, or completed projects. They matter, but they often arrive too late to manage directly. Leading indicators are behaviors the team can execute now: qualified calls, proposals sent, renewal conversations, defects reviewed, or hours protected for priority work.","sourceIds":["amazon-12-week-year","atomic-habits"]},{"text":"Do not label an activity as leading merely because it happens first. It should have a plausible relationship to the outcome and be measurable without heroic administration. If more sales calls do not create qualified opportunities, the measure may reward motion rather than progress.","sourceIds":["atomic-habits","actionablebooks-productivity"]}]},
-      {"heading":"Choose one operating priority","body":[{"text":"Begin the review by restating the current 6- to 12-week result in one sentence. A useful result includes a number, deadline, and boundary: for example, improve renewal rate for the core service without discounting or increasing delivery hours. That boundary prevents a local win from damaging the rest of the business.","sourceIds":["amazon-12-week-year"]},{"text":"If the team has five equal priorities, the scorecard becomes reporting theater. Choose the constraint whose improvement would make the largest difference now, then allow supporting work only when it protects that priority or keeps the operation healthy.","sourceIds":["cal-newport-deep-work","actionablebooks-productivity"]}]},
-      {"heading":"Build the scorecard in 10 minutes","body":[{"text":"Create six rows: three lagging results and three leading actions. For each row, name the definition, source, owner, weekly target, actual value, and four-week trend. Definitions matter: a qualified conversation, active customer, or completed project must mean the same thing every Friday.","sourceIds":["amazon-12-week-year","atomic-habits"]},{"text":"Use the simplest reliable source. A CRM report is useful only if the team maintains it. For a small business, a shared sheet updated by one owner at a fixed time can outperform an elaborate dashboard nobody trusts.","sourceIds":["actionablebooks-productivity"]}]},
-      {"heading":"Run the 30-minute review","body":[{"text":"Minutes 0–5: read the outcome and action trends without explanation. Minutes 5–12: identify the largest meaningful variance. Minutes 12–20: ask what changed in the system, not who deserves blame. Minutes 20–27: choose one response. Minutes 27–30: record owner, due date, evidence, and the first calendar block.","sourceIds":["cal-newport-deep-work","amazon-12-week-year"]},{"text":"Protect the meeting from status narration. Details that do not change a decision go into an asynchronous note. Deep Work’s emphasis on protecting focused attention applies here: a short, bounded review creates more value than an hour of fragmented updates.","sourceIds":["cal-newport-deep-work"]}]},
-      {"heading":"Use a decision rule instead of reacting","body":[{"text":"Write the threshold before seeing the result. For example: if qualified conversations stay below target for two consecutive weeks, review list quality and outreach blocks; if conversations hit target but proposals do not, inspect qualification and offer fit; if proposals rise but sales do not, review proof, pricing, and decision friction.","sourceIds":["atomic-habits","amazon-12-week-year"]},{"text":"This prevents one bad week from triggering a complete strategy change. It also prevents endless patience with a tactic that repeatedly misses. The review becomes an experiment log: prediction, action, evidence, and next adjustment.","sourceIds":["atomic-habits"]}]},
-      {"heading":"Close the loop on Monday","body":[{"text":"A Friday commitment that never reaches the calendar is only a wish. Before the review ends, schedule the first work block, define the smallest finished artifact, and decide where evidence will appear. A proposal draft, list of 20 accounts, revised onboarding step, or tested landing-page section is easier to verify than work on marketing.","sourceIds":["cal-newport-deep-work","atomic-habits"]},{"text":"On Monday, spend five minutes confirming that owners still have the capacity and inputs they need. Do not reopen the whole decision unless material facts changed. Consistency creates a comparable weekly signal; constant redesign destroys it.","sourceIds":["atomic-habits","amazon-12-week-year"]}]},
-      {"heading":"What to improve after four weeks","body":[{"text":"Remove measures that never affect decisions, clarify definitions people interpret differently, and replace actions that show no plausible relationship to the result. Keep a brief decision history so the team can distinguish a new problem from a recurring one.","sourceIds":["actionablebooks-productivity","atomic-habits"]},{"text":"The goal is not a prettier dashboard. It is a reliable cadence in which evidence changes behavior. When the weekly review consistently produces one focused commitment and the trend becomes clearer, the system is doing its job.","sourceIds":["cal-newport-deep-work","amazon-12-week-year"]}]}
-      ,{"heading":"Use the review when numbers are incomplete","body":[{"text":"Small businesses often begin without clean historical data. Do not postpone the operating rhythm while building a perfect dashboard. Mark uncertain values as estimates, name the source, and improve one definition each week. Visible uncertainty is more useful than false precision.","sourceIds":["actionablebooks-productivity"]},{"text":"When a metric cannot be reconstructed reliably, start a forward-looking baseline. For four weeks, collect the same value at the same time using the same definition. Avoid comparing a manually counted number with an automated report until differences are reconciled.","sourceIds":["atomic-habits","amazon-12-week-year"]},{"text":"Qualitative evidence can support, but should not silently replace, the measure. Customer objections, delivery incidents, and team observations belong beside the trend with dates and examples. They help explain a change and design the next test.","sourceIds":["actionablebooks-productivity"]}]},
-      {"heading":"Facilitate without turning the review into blame","body":[{"text":"The owner of a number is responsible for its definition and next action, not personally guilty for every variance. Ask what the process made easy, what it made difficult, and which assumption failed. That language keeps attention on controllable system changes.","sourceIds":["atomic-habits"]},{"text":"When the team disagrees, write competing explanations and choose the smallest test that can distinguish them. A week of targeted customer interviews may be more useful than another hour of debate; a revised qualification field may reveal whether lead quality or sales execution is the constraint.","sourceIds":["cal-newport-deep-work","actionablebooks-productivity"]}]
-    }],
-    "sourceIds": ["atomic-habits","cal-newport-deep-work","actionablebooks-productivity","amazon-12-week-year"],
+      {
+        "heading": "The short answer",
+        "body": [
+          {
+            "text": "A weekly business review should take 30 minutes and answer four questions: What result changed? Which controllable actions preceded it? What constraint matters most now? What will one named owner complete before the next review? The meeting is not a tour of every metric. It is a decision system.",
+            "sourceIds": [
+              "atomic-habits",
+              "cal-newport-deep-work"
+            ]
+          },
+          {
+            "text": "Use a one-page scorecard with no more than three outcome measures and three action measures for the current priority. Capture trends across several weeks, because one noisy week rarely proves that a strategy works or fails.",
+            "sourceIds": [
+              "actionablebooks-productivity",
+              "amazon-12-week-year"
+            ]
+          }
+        ]
+      },
+      {
+        "heading": "Separate leading actions from lagging results",
+        "body": [
+          {
+            "text": "Lagging indicators tell you what already happened: revenue, margin, churn, delivery time, customer satisfaction, or completed projects. They matter, but they often arrive too late to manage directly. Leading indicators are behaviors the team can execute now: qualified calls, proposals sent, renewal conversations, defects reviewed, or hours protected for priority work.",
+            "sourceIds": [
+              "amazon-12-week-year",
+              "atomic-habits"
+            ]
+          },
+          {
+            "text": "Do not label an activity as leading merely because it happens first. It should have a plausible relationship to the outcome and be measurable without heroic administration. If more sales calls do not create qualified opportunities, the measure may reward motion rather than progress.",
+            "sourceIds": [
+              "atomic-habits",
+              "actionablebooks-productivity"
+            ]
+          }
+        ]
+      },
+      {
+        "heading": "Choose one operating priority",
+        "body": [
+          {
+            "text": "Begin the review by restating the current 6- to 12-week result in one sentence. A useful result includes a number, deadline, and boundary: for example, improve renewal rate for the core service without discounting or increasing delivery hours. That boundary prevents a local win from damaging the rest of the business.",
+            "sourceIds": [
+              "amazon-12-week-year"
+            ]
+          },
+          {
+            "text": "If the team has five equal priorities, the scorecard becomes reporting theater. Choose the constraint whose improvement would make the largest difference now, then allow supporting work only when it protects that priority or keeps the operation healthy.",
+            "sourceIds": [
+              "cal-newport-deep-work",
+              "actionablebooks-productivity"
+            ]
+          }
+        ]
+      },
+      {
+        "heading": "Build the scorecard in 10 minutes",
+        "body": [
+          {
+            "text": "Create six rows: three lagging results and three leading actions. For each row, name the definition, source, owner, weekly target, actual value, and four-week trend. Definitions matter: a qualified conversation, active customer, or completed project must mean the same thing every Friday.",
+            "sourceIds": [
+              "amazon-12-week-year",
+              "atomic-habits"
+            ]
+          },
+          {
+            "text": "Use the simplest reliable source. A CRM report is useful only if the team maintains it. For a small business, a shared sheet updated by one owner at a fixed time can outperform an elaborate dashboard nobody trusts.",
+            "sourceIds": [
+              "actionablebooks-productivity"
+            ]
+          }
+        ]
+      },
+      {
+        "heading": "Run the 30-minute review",
+        "body": [
+          {
+            "text": "Minutes 0–5: read the outcome and action trends without explanation. Minutes 5–12: identify the largest meaningful variance. Minutes 12–20: ask what changed in the system, not who deserves blame. Minutes 20–27: choose one response. Minutes 27–30: record owner, due date, evidence, and the first calendar block.",
+            "sourceIds": [
+              "cal-newport-deep-work",
+              "amazon-12-week-year"
+            ]
+          },
+          {
+            "text": "Protect the meeting from status narration. Details that do not change a decision go into an asynchronous note. Deep Work’s emphasis on protecting focused attention applies here: a short, bounded review creates more value than an hour of fragmented updates.",
+            "sourceIds": [
+              "cal-newport-deep-work"
+            ]
+          }
+        ]
+      },
+      {
+        "heading": "Use a decision rule instead of reacting",
+        "body": [
+          {
+            "text": "Write the threshold before seeing the result. For example: if qualified conversations stay below target for two consecutive weeks, review list quality and outreach blocks; if conversations hit target but proposals do not, inspect qualification and offer fit; if proposals rise but sales do not, review proof, pricing, and decision friction.",
+            "sourceIds": [
+              "atomic-habits",
+              "amazon-12-week-year"
+            ]
+          },
+          {
+            "text": "This prevents one bad week from triggering a complete strategy change. It also prevents endless patience with a tactic that repeatedly misses. The review becomes an experiment log: prediction, action, evidence, and next adjustment.",
+            "sourceIds": [
+              "atomic-habits"
+            ]
+          }
+        ]
+      },
+      {
+        "heading": "Close the loop on Monday",
+        "body": [
+          {
+            "text": "A Friday commitment that never reaches the calendar is only a wish. Before the review ends, schedule the first work block, define the smallest finished artifact, and decide where evidence will appear. A proposal draft, list of 20 accounts, revised onboarding step, or tested landing-page section is easier to verify than work on marketing.",
+            "sourceIds": [
+              "cal-newport-deep-work",
+              "atomic-habits"
+            ]
+          },
+          {
+            "text": "On Monday, spend five minutes confirming that owners still have the capacity and inputs they need. Do not reopen the whole decision unless material facts changed. Consistency creates a comparable weekly signal; constant redesign destroys it.",
+            "sourceIds": [
+              "atomic-habits",
+              "amazon-12-week-year"
+            ]
+          }
+        ]
+      },
+      {
+        "heading": "What to improve after four weeks",
+        "body": [
+          {
+            "text": "Remove measures that never affect decisions, clarify definitions people interpret differently, and replace actions that show no plausible relationship to the result. Keep a brief decision history so the team can distinguish a new problem from a recurring one.",
+            "sourceIds": [
+              "actionablebooks-productivity",
+              "atomic-habits"
+            ]
+          },
+          {
+            "text": "The goal is not a prettier dashboard. It is a reliable cadence in which evidence changes behavior. When the weekly review consistently produces one focused commitment and the trend becomes clearer, the system is doing its job.",
+            "sourceIds": [
+              "cal-newport-deep-work",
+              "amazon-12-week-year"
+            ]
+          }
+        ]
+      },
+      {
+        "heading": "Use the review when numbers are incomplete",
+        "body": [
+          {
+            "text": "Small businesses often begin without clean historical data. Do not postpone the operating rhythm while building a perfect dashboard. Mark uncertain values as estimates, name the source, and improve one definition each week. Visible uncertainty is more useful than false precision.",
+            "sourceIds": [
+              "actionablebooks-productivity"
+            ]
+          },
+          {
+            "text": "When a metric cannot be reconstructed reliably, start a forward-looking baseline. For four weeks, collect the same value at the same time using the same definition. Avoid comparing a manually counted number with an automated report until differences are reconciled.",
+            "sourceIds": [
+              "atomic-habits",
+              "amazon-12-week-year"
+            ]
+          },
+          {
+            "text": "Qualitative evidence can support, but should not silently replace, the measure. Customer objections, delivery incidents, and team observations belong beside the trend with dates and examples. They help explain a change and design the next test.",
+            "sourceIds": [
+              "actionablebooks-productivity"
+            ]
+          }
+        ]
+      },
+      {
+        "heading": "Facilitate without turning the review into blame",
+        "body": [
+          {
+            "text": "The owner of a number is responsible for its definition and next action, not personally guilty for every variance. Ask what the process made easy, what it made difficult, and which assumption failed. That language keeps attention on controllable system changes.",
+            "sourceIds": [
+              "atomic-habits"
+            ]
+          },
+          {
+            "text": "When the team disagrees, write competing explanations and choose the smallest test that can distinguish them. A week of targeted customer interviews may be more useful than another hour of debate; a revised qualification field may reveal whether lead quality or sales execution is the constraint.",
+            "sourceIds": [
+              "cal-newport-deep-work",
+              "actionablebooks-productivity"
+            ]
+          }
+        ]
+      }
+    ],
+    "sourceIds": [
+      "atomic-habits",
+      "cal-newport-deep-work",
+      "actionablebooks-productivity",
+      "amazon-12-week-year"
+    ],
     "takeaway": "Track a few outcomes, pair them with controllable actions, define thresholds before reacting, and end every review with one owned, dated, visible commitment."
+  },
+  {
+    "title": "Time-Block a Founder Week Around Three Outcomes",
+    "slug": "time-block-a-founder-week-around-three-outcomes",
+    "publishDate": "2026-09-08",
+    "publishAt": "2026-09-08T09:00:00-04:00",
+    "category": "Productivity",
+    "image": "https://images.unsplash.com/photo-1544716278-ca5e3f4abd8c?auto=format&fit=crop&w=1200&q=80",
+    "excerpt": "Plan time blocking with a practical six-step workflow, evidence checks, implementation guidance, cautions, and a reusable review checklist.",
+    "keywords": [
+      "founder weekly time blocking"
+    ],
+    "sections": [
+      {
+        "heading": "Start here",
+        "body": [
+          {
+            "text": "Treat time blocking as a field procedure rather than a collection of tips. The procedure should still work when the day is busy, the easy option is unavailable, or another person takes over. A useful productivity system converts an important result into a small observable behavior that survives a normal week.",
+            "sourceIds": [
+              "atomic-habits",
+              "cal-newport-deep-work",
+              "actionablebooks-productivity"
+            ]
+          },
+          {
+            "text": "This guide is for a reader who has a real time-block a founder week around three outcomes decision in front of them. It focuses on the sequence, evidence, and recovery path—not on claiming that one answer fits every material, person, location, organization, or appetite.",
+            "sourceIds": [
+              "atomic-habits",
+              "cal-newport-deep-work",
+              "actionablebooks-productivity"
+            ]
+          },
+          {
+            "text": "By Mitch Russo · Updated 2026-09-08",
+            "sourceIds": [
+              "atomic-habits",
+              "cal-newport-deep-work",
+              "actionablebooks-productivity"
+            ]
+          }
+        ]
+      },
+      {
+        "heading": "At a glance: six checkpoints for time blocking",
+        "body": [
+          {
+            "text": "1. Estimate work from recent evidence.",
+            "sourceIds": [
+              "atomic-habits",
+              "cal-newport-deep-work",
+              "actionablebooks-productivity"
+            ]
+          },
+          {
+            "text": "2. Block outcomes rather than vague categories.",
+            "sourceIds": [
+              "atomic-habits",
+              "cal-newport-deep-work",
+              "actionablebooks-productivity"
+            ]
+          },
+          {
+            "text": "3. Include setup, communication, and recovery time.",
+            "sourceIds": [
+              "atomic-habits",
+              "cal-newport-deep-work",
+              "actionablebooks-productivity"
+            ]
+          },
+          {
+            "text": "4. Protect a buffer for uncertainty.",
+            "sourceIds": [
+              "atomic-habits",
+              "cal-newport-deep-work",
+              "actionablebooks-productivity"
+            ]
+          },
+          {
+            "text": "5. Define what can interrupt the block.",
+            "sourceIds": [
+              "atomic-habits",
+              "cal-newport-deep-work",
+              "actionablebooks-productivity"
+            ]
+          },
+          {
+            "text": "6. Compare plan and reality at day’s end.",
+            "sourceIds": [
+              "atomic-habits",
+              "cal-newport-deep-work",
+              "actionablebooks-productivity"
+            ]
+          },
+          {
+            "text": "Read the list once before acting. Circle the checkpoint with the weakest evidence. That is where the plan needs attention; polishing a later step cannot compensate for an unresolved early constraint.",
+            "sourceIds": [
+              "atomic-habits",
+              "cal-newport-deep-work",
+              "actionablebooks-productivity"
+            ]
+          }
+        ]
+      },
+      {
+        "heading": "Define the result and the stop rule",
+        "body": [
+          {
+            "text": "Describe the result in observable terms. Include the person, object, or business process affected; the real environment; the acceptable range; and the point at which the work must stop. For time blocking, an unacceptable outcome includes a system that adds tracking but not progress, depends on ideal motivation, or hides overloaded commitments.",
+            "sourceIds": [
+              "atomic-habits",
+              "cal-newport-deep-work",
+              "actionablebooks-productivity"
+            ]
+          },
+          {
+            "text": "Separate hard constraints from preferences. A hard constraint can disqualify the method even when it is faster or cheaper. Write assumptions as assumptions, attach an owner, and give high-consequence unknowns a deadline for resolution.",
+            "sourceIds": [
+              "atomic-habits",
+              "cal-newport-deep-work",
+              "actionablebooks-productivity"
+            ]
+          }
+        ]
+      },
+      {
+        "heading": "Prepare with evidence that can change the decision",
+        "body": [
+          {
+            "text": "Before scheduling the work, assemble calendar history, completed-work evidence, workload constraints, baseline behavior, and a clearly defined result. Ask which single missing fact could reverse the decision. Resolve that item first; lower-impact questions can remain in the test log.",
+            "sourceIds": [
+              "atomic-habits",
+              "cal-newport-deep-work",
+              "actionablebooks-productivity"
+            ]
+          },
+          {
+            "text": "Set up the workspace and communication path before the demanding step. Estimate work from recent evidence; then confirm that block outcomes rather than vague categories. Make the stop authority explicit. The person who notices a problem should not need to negotiate permission while the exposure or failure is growing.",
+            "sourceIds": [
+              "atomic-habits",
+              "cal-newport-deep-work",
+              "actionablebooks-productivity"
+            ]
+          }
+        ]
+      },
+      {
+        "heading": "The complete walkthrough",
+        "body": [
+          {
+            "text": "1. Estimate work from recent evidence.",
+            "sourceIds": [
+              "atomic-habits",
+              "cal-newport-deep-work",
+              "actionablebooks-productivity"
+            ]
+          },
+          {
+            "text": "Use a two-person check when the consequence is meaningful. One person should estimate work from recent evidence; the other should compare the action with calendar history, completed-work evidence, workload constraints, baseline behavior, and a clearly defined result. The second check is not bureaucracy—it catches a mismatch while the work is still reversible.",
+            "sourceIds": [
+              "atomic-habits",
+              "cal-newport-deep-work",
+              "actionablebooks-productivity"
+            ]
+          },
+          {
+            "text": "Checkpoint: before moving to “block outcomes rather than vague categories,” write one sentence describing what passed, what did not, and who owns the unresolved item.",
+            "sourceIds": [
+              "atomic-habits",
+              "cal-newport-deep-work",
+              "actionablebooks-productivity"
+            ]
+          },
+          {
+            "text": "2. Block outcomes rather than vague categories.",
+            "sourceIds": [
+              "atomic-habits",
+              "cal-newport-deep-work",
+              "actionablebooks-productivity"
+            ]
+          },
+          {
+            "text": "Start by turning “block outcomes rather than vague categories” into a fact someone can verify. Use calendar history, completed-work evidence, workload constraints, baseline behavior, and a clearly defined result. Write the source and date beside the conclusion; otherwise the team cannot distinguish evidence from memory. For time blocking, this checkpoint is complete only when the next operator knows what is confirmed and what remains unknown.",
+            "sourceIds": [
+              "atomic-habits",
+              "cal-newport-deep-work",
+              "actionablebooks-productivity"
+            ]
+          },
+          {
+            "text": "Checkpoint: before moving to “include setup, communication, and recovery time,” write one sentence describing what passed, what did not, and who owns the unresolved item.",
+            "sourceIds": [
+              "atomic-habits",
+              "cal-newport-deep-work",
+              "actionablebooks-productivity"
+            ]
+          },
+          {
+            "text": "3. Include setup, communication, and recovery time.",
+            "sourceIds": [
+              "atomic-habits",
+              "cal-newport-deep-work",
+              "actionablebooks-productivity"
+            ]
+          },
+          {
+            "text": "Do not treat “include setup, communication, and recovery time” as a box to tick. Explain what the step protects and what evidence will prove it worked. Capture cue, action, duration, completion evidence, interruption, result, and one design adjustment, then compare the observation with the stated result. Continue only when the evidence supports the next checkpoint.",
+            "sourceIds": [
+              "atomic-habits",
+              "cal-newport-deep-work",
+              "actionablebooks-productivity"
+            ]
+          },
+          {
+            "text": "Checkpoint: before moving to “protect a buffer for uncertainty,” write one sentence describing what passed, what did not, and who owns the unresolved item.",
+            "sourceIds": [
+              "atomic-habits",
+              "cal-newport-deep-work",
+              "actionablebooks-productivity"
+            ]
+          },
+          {
+            "text": "4. Protect a buffer for uncertainty.",
+            "sourceIds": [
+              "atomic-habits",
+              "cal-newport-deep-work",
+              "actionablebooks-productivity"
+            ]
+          },
+          {
+            "text": "Do not treat “protect a buffer for uncertainty” as a box to tick. Explain what the step protects and what evidence will prove it worked. Capture cue, action, duration, completion evidence, interruption, result, and one design adjustment, then compare the observation with the stated result. Continue only when the evidence supports the next checkpoint.",
+            "sourceIds": [
+              "atomic-habits",
+              "cal-newport-deep-work",
+              "actionablebooks-productivity"
+            ]
+          },
+          {
+            "text": "Checkpoint: before moving to “define what can interrupt the block,” write one sentence describing what passed, what did not, and who owns the unresolved item.",
+            "sourceIds": [
+              "atomic-habits",
+              "cal-newport-deep-work",
+              "actionablebooks-productivity"
+            ]
+          },
+          {
+            "text": "5. Define what can interrupt the block.",
+            "sourceIds": [
+              "atomic-habits",
+              "cal-newport-deep-work",
+              "actionablebooks-productivity"
+            ]
+          },
+          {
+            "text": "For this checkpoint, define what can interrupt the block. Observe the real condition rather than the ideal one. A practical record includes cue, action, duration, completion evidence, interruption, result, and one design adjustment. If one of those details is unavailable, note the consequence of guessing before continuing.",
+            "sourceIds": [
+              "atomic-habits",
+              "cal-newport-deep-work",
+              "actionablebooks-productivity"
+            ]
+          },
+          {
+            "text": "Checkpoint: before moving to “compare plan and reality at day’s end,” write one sentence describing what passed, what did not, and who owns the unresolved item.",
+            "sourceIds": [
+              "atomic-habits",
+              "cal-newport-deep-work",
+              "actionablebooks-productivity"
+            ]
+          },
+          {
+            "text": "6. Compare plan and reality at day’s end.",
+            "sourceIds": [
+              "atomic-habits",
+              "cal-newport-deep-work",
+              "actionablebooks-productivity"
+            ]
+          },
+          {
+            "text": "Make “compare plan and reality at day’s end” a pass/fail gate. State the acceptable range, then compare it with calendar history, completed-work evidence, workload constraints, baseline behavior, and a clearly defined result. Do not average a failed constraint against convenience. The right response to a conflict is to pause time blocking, resolve the source of truth, and document the decision.",
+            "sourceIds": [
+              "atomic-habits",
+              "cal-newport-deep-work",
+              "actionablebooks-productivity"
+            ]
+          },
+          {
+            "text": "Checkpoint: before moving to “schedule the next inspection or review,” write one sentence describing what passed, what did not, and who owns the unresolved item.",
+            "sourceIds": [
+              "atomic-habits",
+              "cal-newport-deep-work",
+              "actionablebooks-productivity"
+            ]
+          }
+        ]
+      },
+      {
+        "heading": "Run one representative small test",
+        "body": [
+          {
+            "text": "Do not launch the whole plan as the experiment. Trial one week or one deliberately bounded work cycle, observe without coaching the result toward success, and stop when a system that adds tracking but not progress, depends on ideal motivation, or hides overloaded commitments is present. A bounded failure is useful evidence.",
+            "sourceIds": [
+              "atomic-habits",
+              "cal-newport-deep-work",
+              "actionablebooks-productivity"
+            ]
+          },
+          {
+            "text": "Keep the test honest. Do not add help, favorable conditions, or expert intervention that will be absent during normal use. If the difficult case cannot be tested responsibly, escalate it to the qualified person or authority who can evaluate it.",
+            "sourceIds": [
+              "atomic-habits",
+              "cal-newport-deep-work",
+              "actionablebooks-productivity"
+            ]
+          }
+        ]
+      },
+      {
+        "heading": "Five mistakes that weaken a time blocking plan",
+        "body": [
+          {
+            "text": "• Choosing a tool, product, setting, contract form, or template before the time blocking requirement is defined.",
+            "sourceIds": [
+              "atomic-habits",
+              "cal-newport-deep-work",
+              "actionablebooks-productivity"
+            ]
+          },
+          {
+            "text": "• Testing only the easiest condition and assuming the result represents normal time blocking use.",
+            "sourceIds": [
+              "atomic-habits",
+              "cal-newport-deep-work",
+              "actionablebooks-productivity"
+            ]
+          },
+          {
+            "text": "• Changing several variables together, which hides the cause of success or failure.",
+            "sourceIds": [
+              "atomic-habits",
+              "cal-newport-deep-work",
+              "actionablebooks-productivity"
+            ]
+          },
+          {
+            "text": "• Continuing after a system that adds tracking but not progress, depends on ideal motivation, or hides overloaded commitments because time or money has already been invested.",
+            "sourceIds": [
+              "atomic-habits",
+              "cal-newport-deep-work",
+              "actionablebooks-productivity"
+            ]
+          },
+          {
+            "text": "• Finishing the visible task without recording cue, action, duration, completion evidence, interruption, result, and one design adjustment.",
+            "sourceIds": [
+              "atomic-habits",
+              "cal-newport-deep-work",
+              "actionablebooks-productivity"
+            ]
+          },
+          {
+            "text": "When a mistake appears, stabilize first. Protect the person, material, rights, equipment, food, environment, or client experience involved. Return to the first checkpoint contradicted by the evidence, revise one variable, and create a new stop rule before trying again.",
+            "sourceIds": [
+              "atomic-habits",
+              "cal-newport-deep-work",
+              "actionablebooks-productivity"
+            ]
+          }
+        ]
+      },
+      {
+        "heading": "Safety, permission, and professional boundaries",
+        "body": [
+          {
+            "text": "This is an implementation framework, not medical or mental-health treatment. Reduce the workload when the system creates sustained distress, and seek qualified support when health or disability affects execution.",
+            "sourceIds": [
+              "atomic-habits",
+              "cal-newport-deep-work",
+              "actionablebooks-productivity"
+            ]
+          },
+          {
+            "text": "Authoritative starting points:",
+            "sourceIds": [
+              "atomic-habits",
+              "cal-newport-deep-work",
+              "actionablebooks-productivity"
+            ]
+          },
+          {
+            "text": "• CDC shared-goals worksheet",
+            "sourceIds": [
+              "atomic-habits",
+              "cal-newport-deep-work",
+              "actionablebooks-productivity"
+            ]
+          },
+          {
+            "text": "• NIH behavior-change overview",
+            "sourceIds": [
+              "atomic-habits",
+              "cal-newport-deep-work",
+              "actionablebooks-productivity"
+            ]
+          },
+          {
+            "text": "Confirm that a source applies to the exact model, jurisdiction, land manager, product category, transaction, clinical situation, or activity. Save the access date and pair general guidance with current manufacturer instructions or individualized professional advice when appropriate.",
+            "sourceIds": [
+              "atomic-habits",
+              "cal-newport-deep-work",
+              "actionablebooks-productivity"
+            ]
+          }
+        ]
+      },
+      {
+        "heading": "Review the result and make it reusable",
+        "body": [
+          {
+            "text": "Close the work with a short audit owned by the person who can change the commitment or environment. Preserve cue, action, duration, completion evidence, interruption, result, and one design adjustment. That record is the starting point for maintenance, training, renewal, or the next controlled test.",
+            "sourceIds": [
+              "atomic-habits",
+              "cal-newport-deep-work",
+              "actionablebooks-productivity"
+            ]
+          },
+          {
+            "text": "Turn the final note into a short checklist for the next person. Include the six checkpoints, the approved range, a photograph or example where useful, the stop rule, and the escalation contact. A workflow is not delegated until another person can recognize both a good result and a reason to stop.",
+            "sourceIds": [
+              "atomic-habits",
+              "cal-newport-deep-work",
+              "actionablebooks-productivity"
+            ]
+          }
+        ]
+      },
+      {
+        "heading": "Your next 20 minutes",
+        "body": [
+          {
+            "text": "Write the desired result and the unacceptable outcome. Complete checkpoint one using a current source or direct observation. Then prepare one week or one deliberately bounded work cycle. If the critical evidence is missing, use the time to send one precise question instead of improvising.",
+            "sourceIds": [
+              "atomic-habits",
+              "cal-newport-deep-work",
+              "actionablebooks-productivity"
+            ]
+          },
+          {
+            "text": "The goal of this short session is not to finish time blocking. It is to reach the first defensible action with the stop rule already in place.",
+            "sourceIds": [
+              "atomic-habits",
+              "cal-newport-deep-work",
+              "actionablebooks-productivity"
+            ]
+          }
+        ]
+      },
+      {
+        "heading": "Related practical guides",
+        "body": [
+          {
+            "text": "• 14-day productivity experiment",
+            "sourceIds": [
+              "atomic-habits",
+              "cal-newport-deep-work",
+              "actionablebooks-productivity"
+            ]
+          },
+          {
+            "text": "• weekly review template",
+            "sourceIds": [
+              "atomic-habits",
+              "cal-newport-deep-work",
+              "actionablebooks-productivity"
+            ]
+          },
+          {
+            "text": "• results resource library",
+            "sourceIds": [
+              "atomic-habits",
+              "cal-newport-deep-work",
+              "actionablebooks-productivity"
+            ]
+          }
+        ]
+      },
+      {
+        "heading": "FAQ",
+        "body": [
+          {
+            "text": "What should be verified first?.",
+            "sourceIds": [
+              "atomic-habits",
+              "cal-newport-deep-work",
+              "actionablebooks-productivity"
+            ]
+          },
+          {
+            "text": "Verify the fact that could disqualify the entire approach. In this workflow that usually means estimate work from recent evidence, followed by a check that you can block outcomes rather than vague categories under real conditions.",
+            "sourceIds": [
+              "atomic-habits",
+              "cal-newport-deep-work",
+              "actionablebooks-productivity"
+            ]
+          },
+          {
+            "text": "How detailed should the written plan be?.",
+            "sourceIds": [
+              "atomic-habits",
+              "cal-newport-deep-work",
+              "actionablebooks-productivity"
+            ]
+          },
+          {
+            "text": "Detailed enough that another capable person can perform the next checkpoint and recognize a system that adds tracking but not progress, depends on ideal motivation, or hides overloaded commitments. For most situations, one page plus the controlling sources and cue, action, duration, completion evidence, interruption, result, and one design adjustment is more useful than a long narrative.",
+            "sourceIds": [
+              "atomic-habits",
+              "cal-newport-deep-work",
+              "actionablebooks-productivity"
+            ]
+          },
+          {
+            "text": "When is a small test not appropriate?.",
+            "sourceIds": [
+              "atomic-habits",
+              "cal-newport-deep-work",
+              "actionablebooks-productivity"
+            ]
+          },
+          {
+            "text": "Skip informal testing when a recall, emergency, legal restriction, clinical concern, structural question, food-safety uncertainty, unknown hazardous material, or manufacturer prohibition requires an authoritative response first.",
+            "sourceIds": [
+              "atomic-habits",
+              "cal-newport-deep-work",
+              "actionablebooks-productivity"
+            ]
+          },
+          {
+            "text": "What evidence should be saved afterward?.",
+            "sourceIds": [
+              "atomic-habits",
+              "cal-newport-deep-work",
+              "actionablebooks-productivity"
+            ]
+          },
+          {
+            "text": "Save cue, action, duration, completion evidence, interruption, result, and one design adjustment. Add the source date, the person who approved the result, and the date or trigger for the next review.",
+            "sourceIds": [
+              "atomic-habits",
+              "cal-newport-deep-work",
+              "actionablebooks-productivity"
+            ]
+          },
+          {
+            "text": "What if the first attempt fails?.",
+            "sourceIds": [
+              "atomic-habits",
+              "cal-newport-deep-work",
+              "actionablebooks-productivity"
+            ]
+          },
+          {
+            "text": "Stop, protect the affected people and property, and preserve the evidence. Identify the earliest failed checkpoint, change one variable, and decide whether a second bounded test or qualified professional review is the responsible next step.",
+            "sourceIds": [
+              "atomic-habits",
+              "cal-newport-deep-work",
+              "actionablebooks-productivity"
+            ]
+          }
+        ]
+      }
+    ],
+    "sourceIds": [
+      "atomic-habits",
+      "cal-newport-deep-work",
+      "actionablebooks-productivity"
+    ],
+    "takeaway": "Treat time blocking as a field procedure rather than a collection of tips. The procedure should still work when the day is busy, the easy option is unavailable, or another person takes over. A useful productivity system converts an important result into a small observable behavior that survives a normal week."
   }
 ];
