@@ -5889,7 +5889,7 @@ export const approvedResourceArticles: ResourceArticle[] = [
     "publishDate": "2026-09-08",
     "publishAt": "2026-09-08T09:00:00-04:00",
     "category": "Productivity",
-    "image": "https://images.unsplash.com/photo-1544716278-ca5e3f4abd8c?auto=format&fit=crop&w=1200&q=80",
+    "image": "/images/time-block-a-founder-week-around-three-outcomes.svg",
     "excerpt": "Plan time blocking with a practical six-step workflow, evidence checks, implementation guidance, cautions, and a reusable review checklist.",
     "keywords": [
       "founder weekly time blocking"
@@ -6465,7 +6465,7 @@ export const approvedResourceArticles: ResourceArticle[] = [
     "publishDate": "2026-09-09",
     "publishAt": "2026-09-09T09:00:00-04:00",
     "category": "Productivity",
-    "image": "https://images.unsplash.com/photo-1544716278-ca5e3f4abd8c?auto=format&fit=crop&w=1200&q=80",
+    "image": "/images/build-a-decision-log-that-prevents-repeated-debates.svg",
     "excerpt": "Plan decision systems with a practical six-step workflow, evidence checks, implementation guidance, cautions, and a reusable review checklist.",
     "keywords": [
       "business decision log"
@@ -7041,7 +7041,7 @@ export const approvedResourceArticles: ResourceArticle[] = [
     "publishDate": "2026-09-10",
     "publishAt": "2026-09-10T09:00:00-04:00",
     "category": "Productivity",
-    "image": "https://images.unsplash.com/photo-1544716278-ca5e3f4abd8c?auto=format&fit=crop&w=1200&q=80",
+    "image": "/images/project-finish-criteria-define-done-before-starting.svg",
     "excerpt": "Plan execution with a practical six-step workflow, evidence checks, implementation guidance, cautions, and a reusable review checklist.",
     "keywords": [
       "project definition of done"
@@ -7617,7 +7617,7 @@ export const approvedResourceArticles: ResourceArticle[] = [
     "publishDate": "2026-09-11",
     "publishAt": "2026-09-11T09:00:00-04:00",
     "category": "Productivity",
-    "image": "https://images.unsplash.com/photo-1544716278-ca5e3f4abd8c?auto=format&fit=crop&w=1200&q=80",
+    "image": "/images/quarterly-goal-reset-keep-change-or-stop.svg",
     "excerpt": "Plan goal systems with a practical six-step workflow, evidence checks, implementation guidance, cautions, and a reusable review checklist.",
     "keywords": [
       "quarterly goal reset"
@@ -8193,7 +8193,7 @@ export const approvedResourceArticles: ResourceArticle[] = [
     "publishDate": "2026-09-14",
     "publishAt": "2026-09-14T09:00:00-04:00",
     "category": "Productivity",
-    "image": "https://images.unsplash.com/photo-1544716278-ca5e3f4abd8c?auto=format&fit=crop&w=1200&q=80",
+    "image": "/images/meeting-cost-audit-reclaim-focus-without-chaos.svg",
     "excerpt": "Plan focus systems with a practical six-step workflow, evidence checks, implementation guidance, cautions, and a reusable review checklist.",
     "keywords": [
       "meeting cost audit"
@@ -8769,7 +8769,7 @@ export const approvedResourceArticles: ResourceArticle[] = [
     "publishDate": "2026-09-15",
     "publishAt": "2026-09-15T09:00:00-04:00",
     "category": "Productivity",
-    "image": "https://images.unsplash.com/photo-1544716278-ca5e3f4abd8c?auto=format&fit=crop&w=1200&q=80",
+    "image": "/images/accountability-partner-check-in-a-15-minute-agenda.svg",
     "excerpt": "Plan accountability systems with a practical six-step workflow, evidence checks, implementation guidance, cautions, and a reusable review checklist.",
     "keywords": [
       "accountability partner agenda"
@@ -9345,7 +9345,7 @@ export const approvedResourceArticles: ResourceArticle[] = [
     "publishDate": "2026-09-16",
     "publishAt": "2026-09-16T09:00:00-04:00",
     "category": "Productivity",
-    "image": "https://images.unsplash.com/photo-1544716278-ca5e3f4abd8c?auto=format&fit=crop&w=1200&q=80",
+    "image": "/images/backlog-triage-choose-the-next-five-projects.svg",
     "excerpt": "Plan execution with a practical six-step workflow, evidence checks, implementation guidance, cautions, and a reusable review checklist.",
     "keywords": [
       "project backlog prioritization"
@@ -9921,7 +9921,7 @@ export const approvedResourceArticles: ResourceArticle[] = [
     "publishDate": "2026-09-17",
     "publishAt": "2026-09-17T09:00:00-04:00",
     "category": "Productivity",
-    "image": "https://images.unsplash.com/photo-1544716278-ca5e3f4abd8c?auto=format&fit=crop&w=1200&q=80",
+    "image": "/images/leading-vs-lagging-indicators-for-a-small-team.svg",
     "excerpt": "Plan goal systems with a practical six-step workflow, evidence checks, implementation guidance, cautions, and a reusable review checklist.",
     "keywords": [
       "leading vs lagging indicators"
@@ -10497,7 +10497,7 @@ export const approvedResourceArticles: ResourceArticle[] = [
     "publishDate": "2026-09-18",
     "publishAt": "2026-09-18T09:00:00-04:00",
     "category": "Productivity",
-    "image": "https://images.unsplash.com/photo-1544716278-ca5e3f4abd8c?auto=format&fit=crop&w=1200&q=80",
+    "image": "/images/weekly-planning-when-every-task-feels-urgent.svg",
     "excerpt": "Plan decision fatigue with a practical six-step workflow, evidence checks, implementation guidance, cautions, and a reusable review checklist.",
     "keywords": [
       "weekly planning priorities"
@@ -11073,7 +11073,7 @@ export const approvedResourceArticles: ResourceArticle[] = [
     "publishDate": "2026-09-21",
     "publishAt": "2026-09-21T09:00:00-04:00",
     "category": "Productivity",
-    "image": "https://images.unsplash.com/photo-1544716278-ca5e3f4abd8c?auto=format&fit=crop&w=1200&q=80",
+    "image": "/images/four-week-execution-retrospective-learn-without-blame.svg",
     "excerpt": "Plan accountability systems with a practical six-step workflow, evidence checks, implementation guidance, cautions, and a reusable review checklist.",
     "keywords": [
       "execution retrospective"
@@ -11642,5 +11642,1157 @@ export const approvedResourceArticles: ResourceArticle[] = [
       "actionablebooks-productivity"
     ],
     "takeaway": "Planning accountability systems is an exercise in controlled execution. The goal is a repeatable result without overrunning safety, permission, fit, quality, or capacity limits. A useful productivity system converts an important result into a small observable behavior that survives a normal week."
+  },
+  {
+    "title": "One-Page Operating Plan for a 30-Day Sprint",
+    "slug": "one-page-operating-plan-for-a-30-day-sprint",
+    "publishDate": "2026-09-22",
+    "publishAt": "2026-09-22T09:00:00-04:00",
+    "category": "Productivity",
+    "image": "/images/one-page-operating-plan-for-a-30-day-sprint.svg",
+    "excerpt": "Plan execution with a practical six-step workflow, evidence checks, implementation guidance, cautions, and a reusable review checklist.",
+    "keywords": [
+      "30 day operating plan"
+    ],
+    "sections": [
+      {
+        "heading": "Start here",
+        "body": [
+          {
+            "text": "A professional execution workflow makes uncertainty visible. It gives the person doing the work a sequence, a stopping rule, and a record that can be reviewed later. A useful productivity system converts an important result into a small observable behavior that survives a normal week.",
+            "sourceIds": [
+              "atomic-habits",
+              "cal-newport-deep-work",
+              "actionablebooks-productivity"
+            ]
+          },
+          {
+            "text": "This guide is for a reader who has a real one-page operating plan for a 30-day sprint decision in front of them. It focuses on the sequence, evidence, and recovery path—not on claiming that one answer fits every material, person, location, organization, or appetite.",
+            "sourceIds": [
+              "atomic-habits",
+              "cal-newport-deep-work",
+              "actionablebooks-productivity"
+            ]
+          },
+          {
+            "text": "By Mitch Russo · Updated 2026-09-22",
+            "sourceIds": [
+              "atomic-habits",
+              "cal-newport-deep-work",
+              "actionablebooks-productivity"
+            ]
+          }
+        ]
+      },
+      {
+        "heading": "At a glance: six checkpoints for execution",
+        "body": [
+          {
+            "text": "1. Define three observable outcomes.",
+            "sourceIds": [
+              "atomic-habits",
+              "cal-newport-deep-work",
+              "actionablebooks-productivity"
+            ]
+          },
+          {
+            "text": "2. Use recent evidence to estimate effort.",
+            "sourceIds": [
+              "atomic-habits",
+              "cal-newport-deep-work",
+              "actionablebooks-productivity"
+            ]
+          },
+          {
+            "text": "3. Protect focused work on the calendar.",
+            "sourceIds": [
+              "atomic-habits",
+              "cal-newport-deep-work",
+              "actionablebooks-productivity"
+            ]
+          },
+          {
+            "text": "4. Assign communication and interruption rules.",
+            "sourceIds": [
+              "atomic-habits",
+              "cal-newport-deep-work",
+              "actionablebooks-productivity"
+            ]
+          },
+          {
+            "text": "5. Capture completion evidence.",
+            "sourceIds": [
+              "atomic-habits",
+              "cal-newport-deep-work",
+              "actionablebooks-productivity"
+            ]
+          },
+          {
+            "text": "6. Review the week and change one design variable.",
+            "sourceIds": [
+              "atomic-habits",
+              "cal-newport-deep-work",
+              "actionablebooks-productivity"
+            ]
+          },
+          {
+            "text": "Read the list once before acting. Circle the checkpoint with the weakest evidence. That is where the plan needs attention; polishing a later step cannot compensate for an unresolved early constraint.",
+            "sourceIds": [
+              "atomic-habits",
+              "cal-newport-deep-work",
+              "actionablebooks-productivity"
+            ]
+          }
+        ]
+      },
+      {
+        "heading": "Define the result and the stop rule",
+        "body": [
+          {
+            "text": "Describe the result in observable terms. Include the person, object, or business process affected; the real environment; the acceptable range; and the point at which the work must stop. For execution, an unacceptable outcome includes a system that adds tracking but not progress, depends on ideal motivation, or hides overloaded commitments.",
+            "sourceIds": [
+              "atomic-habits",
+              "cal-newport-deep-work",
+              "actionablebooks-productivity"
+            ]
+          },
+          {
+            "text": "Separate hard constraints from preferences. A hard constraint can disqualify the method even when it is faster or cheaper. Write assumptions as assumptions, attach an owner, and give high-consequence unknowns a deadline for resolution.",
+            "sourceIds": [
+              "atomic-habits",
+              "cal-newport-deep-work",
+              "actionablebooks-productivity"
+            ]
+          }
+        ]
+      },
+      {
+        "heading": "Prepare with evidence that can change the decision",
+        "body": [
+          {
+            "text": "Before scheduling the work, assemble calendar history, completed-work evidence, workload constraints, baseline behavior, and a clearly defined result. Ask which single missing fact could reverse the decision. Resolve that item first; lower-impact questions can remain in the test log.",
+            "sourceIds": [
+              "atomic-habits",
+              "cal-newport-deep-work",
+              "actionablebooks-productivity"
+            ]
+          },
+          {
+            "text": "Set up the workspace and communication path before the demanding step. Define three observable outcomes; then confirm that use recent evidence to estimate effort. Make the stop authority explicit. The person who notices a problem should not need to negotiate permission while the exposure or failure is growing.",
+            "sourceIds": [
+              "atomic-habits",
+              "cal-newport-deep-work",
+              "actionablebooks-productivity"
+            ]
+          }
+        ]
+      },
+      {
+        "heading": "The complete walkthrough",
+        "body": [
+          {
+            "text": "1. Define three observable outcomes.",
+            "sourceIds": [
+              "atomic-habits",
+              "cal-newport-deep-work",
+              "actionablebooks-productivity"
+            ]
+          },
+          {
+            "text": "Close the loop after you define three observable outcomes. Record the actual outcome, including friction and near misses, rather than only marking the task complete. Use that result to revise the next execution attempt while the details are still fresh.",
+            "sourceIds": [
+              "atomic-habits",
+              "cal-newport-deep-work",
+              "actionablebooks-productivity"
+            ]
+          },
+          {
+            "text": "Checkpoint: before moving to “use recent evidence to estimate effort,” write one sentence describing what passed, what did not, and who owns the unresolved item.",
+            "sourceIds": [
+              "atomic-habits",
+              "cal-newport-deep-work",
+              "actionablebooks-productivity"
+            ]
+          },
+          {
+            "text": "2. Use recent evidence to estimate effort.",
+            "sourceIds": [
+              "atomic-habits",
+              "cal-newport-deep-work",
+              "actionablebooks-productivity"
+            ]
+          },
+          {
+            "text": "Practice this step on one week or one deliberately bounded work cycle: use recent evidence to estimate effort. Change one variable, keep the other conditions stable, and inspect the result before expanding the scope. A small test is useful only when it represents the difficult condition that the full workflow must handle.",
+            "sourceIds": [
+              "atomic-habits",
+              "cal-newport-deep-work",
+              "actionablebooks-productivity"
+            ]
+          },
+          {
+            "text": "Checkpoint: before moving to “protect focused work on the calendar,” write one sentence describing what passed, what did not, and who owns the unresolved item.",
+            "sourceIds": [
+              "atomic-habits",
+              "cal-newport-deep-work",
+              "actionablebooks-productivity"
+            ]
+          },
+          {
+            "text": "3. Protect focused work on the calendar.",
+            "sourceIds": [
+              "atomic-habits",
+              "cal-newport-deep-work",
+              "actionablebooks-productivity"
+            ]
+          },
+          {
+            "text": "For this checkpoint, protect focused work on the calendar. Observe the real condition rather than the ideal one. A practical record includes cue, action, duration, completion evidence, interruption, result, and one design adjustment. If one of those details is unavailable, note the consequence of guessing before continuing.",
+            "sourceIds": [
+              "atomic-habits",
+              "cal-newport-deep-work",
+              "actionablebooks-productivity"
+            ]
+          },
+          {
+            "text": "Checkpoint: before moving to “assign communication and interruption rules,” write one sentence describing what passed, what did not, and who owns the unresolved item.",
+            "sourceIds": [
+              "atomic-habits",
+              "cal-newport-deep-work",
+              "actionablebooks-productivity"
+            ]
+          },
+          {
+            "text": "4. Assign communication and interruption rules.",
+            "sourceIds": [
+              "atomic-habits",
+              "cal-newport-deep-work",
+              "actionablebooks-productivity"
+            ]
+          },
+          {
+            "text": "Close the loop after you assign communication and interruption rules. Record the actual outcome, including friction and near misses, rather than only marking the task complete. Use that result to revise the next execution attempt while the details are still fresh.",
+            "sourceIds": [
+              "atomic-habits",
+              "cal-newport-deep-work",
+              "actionablebooks-productivity"
+            ]
+          },
+          {
+            "text": "Checkpoint: before moving to “capture completion evidence,” write one sentence describing what passed, what did not, and who owns the unresolved item.",
+            "sourceIds": [
+              "atomic-habits",
+              "cal-newport-deep-work",
+              "actionablebooks-productivity"
+            ]
+          },
+          {
+            "text": "5. Capture completion evidence.",
+            "sourceIds": [
+              "atomic-habits",
+              "cal-newport-deep-work",
+              "actionablebooks-productivity"
+            ]
+          },
+          {
+            "text": "Practice this step on one week or one deliberately bounded work cycle: capture completion evidence. Change one variable, keep the other conditions stable, and inspect the result before expanding the scope. A small test is useful only when it represents the difficult condition that the full workflow must handle.",
+            "sourceIds": [
+              "atomic-habits",
+              "cal-newport-deep-work",
+              "actionablebooks-productivity"
+            ]
+          },
+          {
+            "text": "Checkpoint: before moving to “review the week and change one design variable,” write one sentence describing what passed, what did not, and who owns the unresolved item.",
+            "sourceIds": [
+              "atomic-habits",
+              "cal-newport-deep-work",
+              "actionablebooks-productivity"
+            ]
+          },
+          {
+            "text": "6. Review the week and change one design variable.",
+            "sourceIds": [
+              "atomic-habits",
+              "cal-newport-deep-work",
+              "actionablebooks-productivity"
+            ]
+          },
+          {
+            "text": "Treat this as the handoff checkpoint: review the week and change one design variable. The person receiving the work should be able to state the result, the remaining risk, and the next review date. If the handoff requires hidden context, the execution instruction is not finished.",
+            "sourceIds": [
+              "atomic-habits",
+              "cal-newport-deep-work",
+              "actionablebooks-productivity"
+            ]
+          },
+          {
+            "text": "Checkpoint: before moving to “schedule the next inspection or review,” write one sentence describing what passed, what did not, and who owns the unresolved item.",
+            "sourceIds": [
+              "atomic-habits",
+              "cal-newport-deep-work",
+              "actionablebooks-productivity"
+            ]
+          }
+        ]
+      },
+      {
+        "heading": "Run one representative small test",
+        "body": [
+          {
+            "text": "Do not launch the whole plan as the experiment. Trial one week or one deliberately bounded work cycle, observe without coaching the result toward success, and stop when a system that adds tracking but not progress, depends on ideal motivation, or hides overloaded commitments is present. A bounded failure is useful evidence.",
+            "sourceIds": [
+              "atomic-habits",
+              "cal-newport-deep-work",
+              "actionablebooks-productivity"
+            ]
+          },
+          {
+            "text": "Keep the test honest. Do not add help, favorable conditions, or expert intervention that will be absent during normal use. If the difficult case cannot be tested responsibly, escalate it to the qualified person or authority who can evaluate it.",
+            "sourceIds": [
+              "atomic-habits",
+              "cal-newport-deep-work",
+              "actionablebooks-productivity"
+            ]
+          }
+        ]
+      },
+      {
+        "heading": "Five mistakes that weaken a execution plan",
+        "body": [
+          {
+            "text": "• Choosing a tool, product, setting, contract form, or template before the execution requirement is defined.",
+            "sourceIds": [
+              "atomic-habits",
+              "cal-newport-deep-work",
+              "actionablebooks-productivity"
+            ]
+          },
+          {
+            "text": "• Testing only the easiest condition and assuming the result represents normal execution use.",
+            "sourceIds": [
+              "atomic-habits",
+              "cal-newport-deep-work",
+              "actionablebooks-productivity"
+            ]
+          },
+          {
+            "text": "• Changing several variables together, which hides the cause of success or failure.",
+            "sourceIds": [
+              "atomic-habits",
+              "cal-newport-deep-work",
+              "actionablebooks-productivity"
+            ]
+          },
+          {
+            "text": "• Continuing after a system that adds tracking but not progress, depends on ideal motivation, or hides overloaded commitments because time or money has already been invested.",
+            "sourceIds": [
+              "atomic-habits",
+              "cal-newport-deep-work",
+              "actionablebooks-productivity"
+            ]
+          },
+          {
+            "text": "• Finishing the visible task without recording cue, action, duration, completion evidence, interruption, result, and one design adjustment.",
+            "sourceIds": [
+              "atomic-habits",
+              "cal-newport-deep-work",
+              "actionablebooks-productivity"
+            ]
+          },
+          {
+            "text": "When a mistake appears, stabilize first. Protect the person, material, rights, equipment, food, environment, or client experience involved. Return to the first checkpoint contradicted by the evidence, revise one variable, and create a new stop rule before trying again.",
+            "sourceIds": [
+              "atomic-habits",
+              "cal-newport-deep-work",
+              "actionablebooks-productivity"
+            ]
+          }
+        ]
+      },
+      {
+        "heading": "Safety, permission, and professional boundaries",
+        "body": [
+          {
+            "text": "This is an implementation framework, not medical or mental-health treatment. Reduce the workload when the system creates sustained distress, and seek qualified support when health or disability affects execution.",
+            "sourceIds": [
+              "atomic-habits",
+              "cal-newport-deep-work",
+              "actionablebooks-productivity"
+            ]
+          },
+          {
+            "text": "Authoritative starting points:",
+            "sourceIds": [
+              "atomic-habits",
+              "cal-newport-deep-work",
+              "actionablebooks-productivity"
+            ]
+          },
+          {
+            "text": "• CDC shared-goals worksheet",
+            "sourceIds": [
+              "atomic-habits",
+              "cal-newport-deep-work",
+              "actionablebooks-productivity"
+            ]
+          },
+          {
+            "text": "• NIH behavior-change overview",
+            "sourceIds": [
+              "atomic-habits",
+              "cal-newport-deep-work",
+              "actionablebooks-productivity"
+            ]
+          },
+          {
+            "text": "Confirm that a source applies to the exact model, jurisdiction, land manager, product category, transaction, clinical situation, or activity. Save the access date and pair general guidance with current manufacturer instructions or individualized professional advice when appropriate.",
+            "sourceIds": [
+              "atomic-habits",
+              "cal-newport-deep-work",
+              "actionablebooks-productivity"
+            ]
+          }
+        ]
+      },
+      {
+        "heading": "Review the result and make it reusable",
+        "body": [
+          {
+            "text": "Close the work with a short audit owned by the person who can change the commitment or environment. Preserve cue, action, duration, completion evidence, interruption, result, and one design adjustment. That record is the starting point for maintenance, training, renewal, or the next controlled test.",
+            "sourceIds": [
+              "atomic-habits",
+              "cal-newport-deep-work",
+              "actionablebooks-productivity"
+            ]
+          },
+          {
+            "text": "Turn the final note into a short checklist for the next person. Include the six checkpoints, the approved range, a photograph or example where useful, the stop rule, and the escalation contact. A workflow is not delegated until another person can recognize both a good result and a reason to stop.",
+            "sourceIds": [
+              "atomic-habits",
+              "cal-newport-deep-work",
+              "actionablebooks-productivity"
+            ]
+          }
+        ]
+      },
+      {
+        "heading": "Your next 20 minutes",
+        "body": [
+          {
+            "text": "Write the desired result and the unacceptable outcome. Complete checkpoint one using a current source or direct observation. Then prepare one week or one deliberately bounded work cycle. If the critical evidence is missing, use the time to send one precise question instead of improvising.",
+            "sourceIds": [
+              "atomic-habits",
+              "cal-newport-deep-work",
+              "actionablebooks-productivity"
+            ]
+          },
+          {
+            "text": "The goal of this short session is not to finish execution. It is to reach the first defensible action with the stop rule already in place.",
+            "sourceIds": [
+              "atomic-habits",
+              "cal-newport-deep-work",
+              "actionablebooks-productivity"
+            ]
+          }
+        ]
+      },
+      {
+        "heading": "Related practical guides",
+        "body": [
+          {
+            "text": "• 14-day productivity experiment",
+            "sourceIds": [
+              "atomic-habits",
+              "cal-newport-deep-work",
+              "actionablebooks-productivity"
+            ]
+          },
+          {
+            "text": "• weekly review template",
+            "sourceIds": [
+              "atomic-habits",
+              "cal-newport-deep-work",
+              "actionablebooks-productivity"
+            ]
+          },
+          {
+            "text": "• results resource library",
+            "sourceIds": [
+              "atomic-habits",
+              "cal-newport-deep-work",
+              "actionablebooks-productivity"
+            ]
+          }
+        ]
+      },
+      {
+        "heading": "FAQ",
+        "body": [
+          {
+            "text": "What should be verified first?.",
+            "sourceIds": [
+              "atomic-habits",
+              "cal-newport-deep-work",
+              "actionablebooks-productivity"
+            ]
+          },
+          {
+            "text": "Verify the fact that could disqualify the entire approach. In this workflow that usually means define three observable outcomes, followed by a check that you can use recent evidence to estimate effort under real conditions.",
+            "sourceIds": [
+              "atomic-habits",
+              "cal-newport-deep-work",
+              "actionablebooks-productivity"
+            ]
+          },
+          {
+            "text": "How detailed should the written plan be?.",
+            "sourceIds": [
+              "atomic-habits",
+              "cal-newport-deep-work",
+              "actionablebooks-productivity"
+            ]
+          },
+          {
+            "text": "Detailed enough that another capable person can perform the next checkpoint and recognize a system that adds tracking but not progress, depends on ideal motivation, or hides overloaded commitments. For most situations, one page plus the controlling sources and cue, action, duration, completion evidence, interruption, result, and one design adjustment is more useful than a long narrative.",
+            "sourceIds": [
+              "atomic-habits",
+              "cal-newport-deep-work",
+              "actionablebooks-productivity"
+            ]
+          },
+          {
+            "text": "When is a small test not appropriate?.",
+            "sourceIds": [
+              "atomic-habits",
+              "cal-newport-deep-work",
+              "actionablebooks-productivity"
+            ]
+          },
+          {
+            "text": "Skip informal testing when a recall, emergency, legal restriction, clinical concern, structural question, food-safety uncertainty, unknown hazardous material, or manufacturer prohibition requires an authoritative response first.",
+            "sourceIds": [
+              "atomic-habits",
+              "cal-newport-deep-work",
+              "actionablebooks-productivity"
+            ]
+          },
+          {
+            "text": "What evidence should be saved afterward?.",
+            "sourceIds": [
+              "atomic-habits",
+              "cal-newport-deep-work",
+              "actionablebooks-productivity"
+            ]
+          },
+          {
+            "text": "Save cue, action, duration, completion evidence, interruption, result, and one design adjustment. Add the source date, the person who approved the result, and the date or trigger for the next review.",
+            "sourceIds": [
+              "atomic-habits",
+              "cal-newport-deep-work",
+              "actionablebooks-productivity"
+            ]
+          },
+          {
+            "text": "What if the first attempt fails?.",
+            "sourceIds": [
+              "atomic-habits",
+              "cal-newport-deep-work",
+              "actionablebooks-productivity"
+            ]
+          },
+          {
+            "text": "Stop, protect the affected people and property, and preserve the evidence. Identify the earliest failed checkpoint, change one variable, and decide whether a second bounded test or qualified professional review is the responsible next step.",
+            "sourceIds": [
+              "atomic-habits",
+              "cal-newport-deep-work",
+              "actionablebooks-productivity"
+            ]
+          }
+        ]
+      }
+    ],
+    "sourceIds": [
+      "atomic-habits",
+      "cal-newport-deep-work",
+      "actionablebooks-productivity"
+    ],
+    "takeaway": "A professional execution workflow makes uncertainty visible. It gives the person doing the work a sequence, a stopping rule, and a record that can be reviewed later. A useful productivity system converts an important result into a small observable behavior that survives a normal week."
+  },
+  {
+    "title": "Delegation Checkpoints That Preserve Ownership",
+    "slug": "delegation-checkpoints-that-preserve-ownership",
+    "publishDate": "2026-09-23",
+    "publishAt": "2026-09-23T09:00:00-04:00",
+    "category": "Productivity",
+    "image": "/images/delegation-checkpoints-that-preserve-ownership.svg",
+    "excerpt": "Plan accountability systems with a practical six-step workflow, evidence checks, implementation guidance, cautions, and a reusable review checklist.",
+    "keywords": [
+      "delegation checkpoints"
+    ],
+    "sections": [
+      {
+        "heading": "Start here",
+        "body": [
+          {
+            "text": "Most accountability systems failures begin before the visible work starts: the wrong constraint is assumed, the real environment is not measured, or nobody defines what would trigger a stop. A useful productivity system converts an important result into a small observable behavior that survives a normal week.",
+            "sourceIds": [
+              "atomic-habits",
+              "cal-newport-deep-work",
+              "actionablebooks-productivity"
+            ]
+          },
+          {
+            "text": "This guide is for a reader who has a real delegation checkpoints that preserve ownership decision in front of them. It focuses on the sequence, evidence, and recovery path—not on claiming that one answer fits every material, person, location, organization, or appetite.",
+            "sourceIds": [
+              "atomic-habits",
+              "cal-newport-deep-work",
+              "actionablebooks-productivity"
+            ]
+          },
+          {
+            "text": "By Mitch Russo · Updated 2026-09-23",
+            "sourceIds": [
+              "atomic-habits",
+              "cal-newport-deep-work",
+              "actionablebooks-productivity"
+            ]
+          }
+        ]
+      },
+      {
+        "heading": "At a glance: six checkpoints for accountability systems",
+        "body": [
+          {
+            "text": "1. Define the observable commitment.",
+            "sourceIds": [
+              "atomic-habits",
+              "cal-newport-deep-work",
+              "actionablebooks-productivity"
+            ]
+          },
+          {
+            "text": "2. Choose a partner with relevant context.",
+            "sourceIds": [
+              "atomic-habits",
+              "cal-newport-deep-work",
+              "actionablebooks-productivity"
+            ]
+          },
+          {
+            "text": "3. Set evidence and check-in timing.",
+            "sourceIds": [
+              "atomic-habits",
+              "cal-newport-deep-work",
+              "actionablebooks-productivity"
+            ]
+          },
+          {
+            "text": "4. Discuss barriers before adding pressure.",
+            "sourceIds": [
+              "atomic-habits",
+              "cal-newport-deep-work",
+              "actionablebooks-productivity"
+            ]
+          },
+          {
+            "text": "5. Agree on recovery after a miss.",
+            "sourceIds": [
+              "atomic-habits",
+              "cal-newport-deep-work",
+              "actionablebooks-productivity"
+            ]
+          },
+          {
+            "text": "6. End the arrangement when it stops helping.",
+            "sourceIds": [
+              "atomic-habits",
+              "cal-newport-deep-work",
+              "actionablebooks-productivity"
+            ]
+          },
+          {
+            "text": "Read the list once before acting. Circle the checkpoint with the weakest evidence. That is where the plan needs attention; polishing a later step cannot compensate for an unresolved early constraint.",
+            "sourceIds": [
+              "atomic-habits",
+              "cal-newport-deep-work",
+              "actionablebooks-productivity"
+            ]
+          }
+        ]
+      },
+      {
+        "heading": "Define the result and the stop rule",
+        "body": [
+          {
+            "text": "Describe the result in observable terms. Include the person, object, or business process affected; the real environment; the acceptable range; and the point at which the work must stop. For accountability systems, an unacceptable outcome includes a system that adds tracking but not progress, depends on ideal motivation, or hides overloaded commitments.",
+            "sourceIds": [
+              "atomic-habits",
+              "cal-newport-deep-work",
+              "actionablebooks-productivity"
+            ]
+          },
+          {
+            "text": "Separate hard constraints from preferences. A hard constraint can disqualify the method even when it is faster or cheaper. Write assumptions as assumptions, attach an owner, and give high-consequence unknowns a deadline for resolution.",
+            "sourceIds": [
+              "atomic-habits",
+              "cal-newport-deep-work",
+              "actionablebooks-productivity"
+            ]
+          }
+        ]
+      },
+      {
+        "heading": "Prepare with evidence that can change the decision",
+        "body": [
+          {
+            "text": "Build the evidence packet around calendar history, completed-work evidence, workload constraints, baseline behavior, and a clearly defined result. Keep it small enough to use during the work. Label each source with its date and scope, and separate a controlling requirement from a preference.",
+            "sourceIds": [
+              "atomic-habits",
+              "cal-newport-deep-work",
+              "actionablebooks-productivity"
+            ]
+          },
+          {
+            "text": "Set up the workspace and communication path before the demanding step. Define the observable commitment; then confirm that choose a partner with relevant context. Make the stop authority explicit. The person who notices a problem should not need to negotiate permission while the exposure or failure is growing.",
+            "sourceIds": [
+              "atomic-habits",
+              "cal-newport-deep-work",
+              "actionablebooks-productivity"
+            ]
+          }
+        ]
+      },
+      {
+        "heading": "The complete walkthrough",
+        "body": [
+          {
+            "text": "1. Define the observable commitment.",
+            "sourceIds": [
+              "atomic-habits",
+              "cal-newport-deep-work",
+              "actionablebooks-productivity"
+            ]
+          },
+          {
+            "text": "Treat this as the handoff checkpoint: define the observable commitment. The person receiving the work should be able to state the result, the remaining risk, and the next review date. If the handoff requires hidden context, the accountability systems instruction is not finished.",
+            "sourceIds": [
+              "atomic-habits",
+              "cal-newport-deep-work",
+              "actionablebooks-productivity"
+            ]
+          },
+          {
+            "text": "Checkpoint: before moving to “choose a partner with relevant context,” write one sentence describing what passed, what did not, and who owns the unresolved item.",
+            "sourceIds": [
+              "atomic-habits",
+              "cal-newport-deep-work",
+              "actionablebooks-productivity"
+            ]
+          },
+          {
+            "text": "2. Choose a partner with relevant context.",
+            "sourceIds": [
+              "atomic-habits",
+              "cal-newport-deep-work",
+              "actionablebooks-productivity"
+            ]
+          },
+          {
+            "text": "Use a two-person check when the consequence is meaningful. One person should choose a partner with relevant context; the other should compare the action with calendar history, completed-work evidence, workload constraints, baseline behavior, and a clearly defined result. The second check is not bureaucracy—it catches a mismatch while the work is still reversible.",
+            "sourceIds": [
+              "atomic-habits",
+              "cal-newport-deep-work",
+              "actionablebooks-productivity"
+            ]
+          },
+          {
+            "text": "Checkpoint: before moving to “set evidence and check-in timing,” write one sentence describing what passed, what did not, and who owns the unresolved item.",
+            "sourceIds": [
+              "atomic-habits",
+              "cal-newport-deep-work",
+              "actionablebooks-productivity"
+            ]
+          },
+          {
+            "text": "3. Set evidence and check-in timing.",
+            "sourceIds": [
+              "atomic-habits",
+              "cal-newport-deep-work",
+              "actionablebooks-productivity"
+            ]
+          },
+          {
+            "text": "Use a two-person check when the consequence is meaningful. One person should set evidence and check-in timing; the other should compare the action with calendar history, completed-work evidence, workload constraints, baseline behavior, and a clearly defined result. The second check is not bureaucracy—it catches a mismatch while the work is still reversible.",
+            "sourceIds": [
+              "atomic-habits",
+              "cal-newport-deep-work",
+              "actionablebooks-productivity"
+            ]
+          },
+          {
+            "text": "Checkpoint: before moving to “discuss barriers before adding pressure,” write one sentence describing what passed, what did not, and who owns the unresolved item.",
+            "sourceIds": [
+              "atomic-habits",
+              "cal-newport-deep-work",
+              "actionablebooks-productivity"
+            ]
+          },
+          {
+            "text": "4. Discuss barriers before adding pressure.",
+            "sourceIds": [
+              "atomic-habits",
+              "cal-newport-deep-work",
+              "actionablebooks-productivity"
+            ]
+          },
+          {
+            "text": "Start by turning “discuss barriers before adding pressure” into a fact someone can verify. Use calendar history, completed-work evidence, workload constraints, baseline behavior, and a clearly defined result. Write the source and date beside the conclusion; otherwise the team cannot distinguish evidence from memory. For accountability systems, this checkpoint is complete only when the next operator knows what is confirmed and what remains unknown.",
+            "sourceIds": [
+              "atomic-habits",
+              "cal-newport-deep-work",
+              "actionablebooks-productivity"
+            ]
+          },
+          {
+            "text": "Checkpoint: before moving to “agree on recovery after a miss,” write one sentence describing what passed, what did not, and who owns the unresolved item.",
+            "sourceIds": [
+              "atomic-habits",
+              "cal-newport-deep-work",
+              "actionablebooks-productivity"
+            ]
+          },
+          {
+            "text": "5. Agree on recovery after a miss.",
+            "sourceIds": [
+              "atomic-habits",
+              "cal-newport-deep-work",
+              "actionablebooks-productivity"
+            ]
+          },
+          {
+            "text": "Do not treat “agree on recovery after a miss” as a box to tick. Explain what the step protects and what evidence will prove it worked. Capture cue, action, duration, completion evidence, interruption, result, and one design adjustment, then compare the observation with the stated result. Continue only when the evidence supports the next checkpoint.",
+            "sourceIds": [
+              "atomic-habits",
+              "cal-newport-deep-work",
+              "actionablebooks-productivity"
+            ]
+          },
+          {
+            "text": "Checkpoint: before moving to “end the arrangement when it stops helping,” write one sentence describing what passed, what did not, and who owns the unresolved item.",
+            "sourceIds": [
+              "atomic-habits",
+              "cal-newport-deep-work",
+              "actionablebooks-productivity"
+            ]
+          },
+          {
+            "text": "6. End the arrangement when it stops helping.",
+            "sourceIds": [
+              "atomic-habits",
+              "cal-newport-deep-work",
+              "actionablebooks-productivity"
+            ]
+          },
+          {
+            "text": "Do not treat “end the arrangement when it stops helping” as a box to tick. Explain what the step protects and what evidence will prove it worked. Capture cue, action, duration, completion evidence, interruption, result, and one design adjustment, then compare the observation with the stated result. Continue only when the evidence supports the next checkpoint.",
+            "sourceIds": [
+              "atomic-habits",
+              "cal-newport-deep-work",
+              "actionablebooks-productivity"
+            ]
+          },
+          {
+            "text": "Checkpoint: before moving to “schedule the next inspection or review,” write one sentence describing what passed, what did not, and who owns the unresolved item.",
+            "sourceIds": [
+              "atomic-habits",
+              "cal-newport-deep-work",
+              "actionablebooks-productivity"
+            ]
+          }
+        ]
+      },
+      {
+        "heading": "Run one representative small test",
+        "body": [
+          {
+            "text": "Use one week or one deliberately bounded work cycle and change only one meaningful variable. Define the expected result and the stopping signal before beginning. If a system that adds tracking but not progress, depends on ideal motivation, or hides overloaded commitments appears, end the test and return to the last acceptable condition.",
+            "sourceIds": [
+              "atomic-habits",
+              "cal-newport-deep-work",
+              "actionablebooks-productivity"
+            ]
+          },
+          {
+            "text": "Keep the test honest. Do not add help, favorable conditions, or expert intervention that will be absent during normal use. If the difficult case cannot be tested responsibly, escalate it to the qualified person or authority who can evaluate it.",
+            "sourceIds": [
+              "atomic-habits",
+              "cal-newport-deep-work",
+              "actionablebooks-productivity"
+            ]
+          }
+        ]
+      },
+      {
+        "heading": "Five mistakes that weaken a accountability systems plan",
+        "body": [
+          {
+            "text": "• Choosing a tool, product, setting, contract form, or template before the accountability systems requirement is defined.",
+            "sourceIds": [
+              "atomic-habits",
+              "cal-newport-deep-work",
+              "actionablebooks-productivity"
+            ]
+          },
+          {
+            "text": "• Testing only the easiest condition and assuming the result represents normal accountability systems use.",
+            "sourceIds": [
+              "atomic-habits",
+              "cal-newport-deep-work",
+              "actionablebooks-productivity"
+            ]
+          },
+          {
+            "text": "• Changing several variables together, which hides the cause of success or failure.",
+            "sourceIds": [
+              "atomic-habits",
+              "cal-newport-deep-work",
+              "actionablebooks-productivity"
+            ]
+          },
+          {
+            "text": "• Continuing after a system that adds tracking but not progress, depends on ideal motivation, or hides overloaded commitments because time or money has already been invested.",
+            "sourceIds": [
+              "atomic-habits",
+              "cal-newport-deep-work",
+              "actionablebooks-productivity"
+            ]
+          },
+          {
+            "text": "• Finishing the visible task without recording cue, action, duration, completion evidence, interruption, result, and one design adjustment.",
+            "sourceIds": [
+              "atomic-habits",
+              "cal-newport-deep-work",
+              "actionablebooks-productivity"
+            ]
+          },
+          {
+            "text": "When a mistake appears, stabilize first. Protect the person, material, rights, equipment, food, environment, or client experience involved. Return to the first checkpoint contradicted by the evidence, revise one variable, and create a new stop rule before trying again.",
+            "sourceIds": [
+              "atomic-habits",
+              "cal-newport-deep-work",
+              "actionablebooks-productivity"
+            ]
+          }
+        ]
+      },
+      {
+        "heading": "Safety, permission, and professional boundaries",
+        "body": [
+          {
+            "text": "This is an implementation framework, not medical or mental-health treatment. Reduce the workload when the system creates sustained distress, and seek qualified support when health or disability affects execution.",
+            "sourceIds": [
+              "atomic-habits",
+              "cal-newport-deep-work",
+              "actionablebooks-productivity"
+            ]
+          },
+          {
+            "text": "Authoritative starting points:",
+            "sourceIds": [
+              "atomic-habits",
+              "cal-newport-deep-work",
+              "actionablebooks-productivity"
+            ]
+          },
+          {
+            "text": "• CDC shared-goals worksheet",
+            "sourceIds": [
+              "atomic-habits",
+              "cal-newport-deep-work",
+              "actionablebooks-productivity"
+            ]
+          },
+          {
+            "text": "• NIH behavior-change overview",
+            "sourceIds": [
+              "atomic-habits",
+              "cal-newport-deep-work",
+              "actionablebooks-productivity"
+            ]
+          },
+          {
+            "text": "Confirm that a source applies to the exact model, jurisdiction, land manager, product category, transaction, clinical situation, or activity. Save the access date and pair general guidance with current manufacturer instructions or individualized professional advice when appropriate.",
+            "sourceIds": [
+              "atomic-habits",
+              "cal-newport-deep-work",
+              "actionablebooks-productivity"
+            ]
+          }
+        ]
+      },
+      {
+        "heading": "Review the result and make it reusable",
+        "body": [
+          {
+            "text": "Review cue, action, duration, completion evidence, interruption, result, and one design adjustment. Compare the observation with the result statement, not with the effort invested. Decide to adopt, adjust, obtain qualified help, or stop.",
+            "sourceIds": [
+              "atomic-habits",
+              "cal-newport-deep-work",
+              "actionablebooks-productivity"
+            ]
+          },
+          {
+            "text": "Turn the final note into a short checklist for the next person. Include the six checkpoints, the approved range, a photograph or example where useful, the stop rule, and the escalation contact. A workflow is not delegated until another person can recognize both a good result and a reason to stop.",
+            "sourceIds": [
+              "atomic-habits",
+              "cal-newport-deep-work",
+              "actionablebooks-productivity"
+            ]
+          }
+        ]
+      },
+      {
+        "heading": "Your next 20 minutes",
+        "body": [
+          {
+            "text": "Write the desired result and the unacceptable outcome. Complete checkpoint one using a current source or direct observation. Then prepare one week or one deliberately bounded work cycle. If the critical evidence is missing, use the time to send one precise question instead of improvising.",
+            "sourceIds": [
+              "atomic-habits",
+              "cal-newport-deep-work",
+              "actionablebooks-productivity"
+            ]
+          },
+          {
+            "text": "The goal of this short session is not to finish accountability systems. It is to reach the first defensible action with the stop rule already in place.",
+            "sourceIds": [
+              "atomic-habits",
+              "cal-newport-deep-work",
+              "actionablebooks-productivity"
+            ]
+          }
+        ]
+      },
+      {
+        "heading": "Related practical guides",
+        "body": [
+          {
+            "text": "• 14-day productivity experiment",
+            "sourceIds": [
+              "atomic-habits",
+              "cal-newport-deep-work",
+              "actionablebooks-productivity"
+            ]
+          },
+          {
+            "text": "• weekly review template",
+            "sourceIds": [
+              "atomic-habits",
+              "cal-newport-deep-work",
+              "actionablebooks-productivity"
+            ]
+          },
+          {
+            "text": "• results resource library",
+            "sourceIds": [
+              "atomic-habits",
+              "cal-newport-deep-work",
+              "actionablebooks-productivity"
+            ]
+          }
+        ]
+      },
+      {
+        "heading": "FAQ",
+        "body": [
+          {
+            "text": "What should be verified first?.",
+            "sourceIds": [
+              "atomic-habits",
+              "cal-newport-deep-work",
+              "actionablebooks-productivity"
+            ]
+          },
+          {
+            "text": "Verify the fact that could disqualify the entire approach. In this workflow that usually means define the observable commitment, followed by a check that you can choose a partner with relevant context under real conditions.",
+            "sourceIds": [
+              "atomic-habits",
+              "cal-newport-deep-work",
+              "actionablebooks-productivity"
+            ]
+          },
+          {
+            "text": "How detailed should the written plan be?.",
+            "sourceIds": [
+              "atomic-habits",
+              "cal-newport-deep-work",
+              "actionablebooks-productivity"
+            ]
+          },
+          {
+            "text": "Detailed enough that another capable person can perform the next checkpoint and recognize a system that adds tracking but not progress, depends on ideal motivation, or hides overloaded commitments. For most situations, one page plus the controlling sources and cue, action, duration, completion evidence, interruption, result, and one design adjustment is more useful than a long narrative.",
+            "sourceIds": [
+              "atomic-habits",
+              "cal-newport-deep-work",
+              "actionablebooks-productivity"
+            ]
+          },
+          {
+            "text": "When is a small test not appropriate?.",
+            "sourceIds": [
+              "atomic-habits",
+              "cal-newport-deep-work",
+              "actionablebooks-productivity"
+            ]
+          },
+          {
+            "text": "Skip informal testing when a recall, emergency, legal restriction, clinical concern, structural question, food-safety uncertainty, unknown hazardous material, or manufacturer prohibition requires an authoritative response first.",
+            "sourceIds": [
+              "atomic-habits",
+              "cal-newport-deep-work",
+              "actionablebooks-productivity"
+            ]
+          },
+          {
+            "text": "What evidence should be saved afterward?.",
+            "sourceIds": [
+              "atomic-habits",
+              "cal-newport-deep-work",
+              "actionablebooks-productivity"
+            ]
+          },
+          {
+            "text": "Save cue, action, duration, completion evidence, interruption, result, and one design adjustment. Add the source date, the person who approved the result, and the date or trigger for the next review.",
+            "sourceIds": [
+              "atomic-habits",
+              "cal-newport-deep-work",
+              "actionablebooks-productivity"
+            ]
+          },
+          {
+            "text": "What if the first attempt fails?.",
+            "sourceIds": [
+              "atomic-habits",
+              "cal-newport-deep-work",
+              "actionablebooks-productivity"
+            ]
+          },
+          {
+            "text": "Stop, protect the affected people and property, and preserve the evidence. Identify the earliest failed checkpoint, change one variable, and decide whether a second bounded test or qualified professional review is the responsible next step.",
+            "sourceIds": [
+              "atomic-habits",
+              "cal-newport-deep-work",
+              "actionablebooks-productivity"
+            ]
+          }
+        ]
+      }
+    ],
+    "sourceIds": [
+      "atomic-habits",
+      "cal-newport-deep-work",
+      "actionablebooks-productivity"
+    ],
+    "takeaway": "Most accountability systems failures begin before the visible work starts: the wrong constraint is assumed, the real environment is not measured, or nobody defines what would trigger a stop. A useful productivity system converts an important result into a small observable behavior that survives a normal week."
   }
 ];
