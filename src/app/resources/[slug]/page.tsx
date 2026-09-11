@@ -229,7 +229,7 @@ export default async function ArticlePage({ params }: ArticlePageProps) {
     <main className="min-h-screen bg-[#f3f4f6] text-[#18211f]">
       <script type="application/ld+json" dangerouslySetInnerHTML={jsonLd(articleJsonLd)} />
       <header className="border-b border-[#dce5dc] bg-white">
-        <div className="mx-auto flex max-w-4xl items-center justify-between gap-5 px-5 py-4">
+        <div className="mx-auto flex max-w-4xl flex-wrap items-center justify-between gap-5 px-5 py-4 sm:flex-nowrap">
           <Link href="/" className="flex items-center gap-3" aria-label="ResultsBreakthrough home">
             <span className="inline-flex h-11 w-11 items-center justify-center rounded-md bg-[#dff5eb] text-[#0e7a5f]">
               <ShieldCheck className="h-6 w-6" aria-hidden />
