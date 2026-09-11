@@ -2,11 +2,13 @@ import { approvedResourceArticles } from "./approved-articles";
 
 export type ResourceArticle = {
   title: string;
+  seoTitle?: string;
   slug: string;
   publishDate: string;
   publishAt?: string;
   category: string;
   image: string;
+  imageAlt?: string;
   excerpt: string;
   keywords: string[];
   sections: { heading: string; body: { text: string; sourceIds: string[] }[] }[];

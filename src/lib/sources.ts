@@ -1,4 +1,5 @@
 export const articleSources = [
+  {"id": "editorial-56d34b7966f45e", "title": "Research recommendations on planning interventions", "organization": "pubmed.ncbi.nlm.nih.gov", "url": "https://pubmed.ncbi.nlm.nih.gov/26892502/"},
   {
     id: "cleverfox-official",
     title: "Clever Fox Planner",

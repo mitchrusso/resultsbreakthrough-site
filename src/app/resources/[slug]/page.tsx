@@ -104,7 +104,7 @@ export async function generateMetadata({ params }: ArticlePageProps) {
   }
 
   return {
-    title: article.title,
+    title: article.seoTitle ? { absolute: article.seoTitle } : article.title,
     description: article.excerpt,
     alternates: {
       canonical: `/resources/${article.slug}`,
@@ -265,7 +265,7 @@ export default async function ArticlePage({ params }: ArticlePageProps) {
           <div className="flex h-[260px] items-center justify-center rounded-lg bg-white p-5 shadow-sm ring-1 ring-[#dce5dc] sm:h-[340px] sm:p-7 lg:h-[400px]">
             <Image
               src={article.image}
-              alt={`${article.title} resource image`}
+              alt={article.imageAlt ?? `${article.title} resource image`}
               width={1200}
               height={760}
               className="h-full w-full object-contain"
@@ -287,8 +287,12 @@ export default async function ArticlePage({ params }: ArticlePageProps) {
                 </div>
               </figure>
             ) : null}
-            {article.sections.map((section) => (
-              <section key={section.heading} className="border-b border-[#e6ece5] py-7 first:pt-0 last:border-b-0 last:pb-0">
+            <nav aria-label="Article contents" className="mb-8 rounded-lg border p-5">
+              <p className="font-bold">In this guide</p>
+              <ul className="mt-3 space-y-2">{article.sections.map((section, index) => <li key={section.heading}><a className="underline" href={`#article-section-${index}`}>{section.heading}</a></li>)}</ul>
+            </nav>
+            {article.sections.map((section, sectionIndex) => (
+              <section id={`article-section-${sectionIndex}`} key={section.heading} className="border-b border-[#e6ece5] py-7 first:pt-0 last:border-b-0 last:pb-0">
                 <h2 className="text-2xl font-black leading-tight">{section.heading}</h2>
                 <div className="mt-4 space-y-4">
                   {section.body.map((paragraph) => (
