@@ -8058,5 +8058,209 @@ export const approvedResourceArticles: ResourceArticle[] = [
       "editorial-cc364db673741b"
     ],
     "takeaway": "Audit meetings by comparing the time they consume with the decisions, coordination, and support they produce. Start with two ordinary weeks, include preparation and follow-up, and change one recurring meeting at a time. The aim is usable working time with reliable communication, not an impressive count of canceled calendar invitations."
+  },
+  {
+    "title": "Accountability Partner Check-In: A 15-Minute Agenda",
+    "seoTitle": "Accountability Partner Check-In: A 15-Minute Agenda",
+    "slug": "accountability-partner-check-in-a-15-minute-agenda",
+    "publishDate": "2026-09-15",
+    "publishAt": "2026-09-15T09:00:00-04:00",
+    "category": "Productivity",
+    "image": "/images/accountability-partner-check-in-a-15-minute-agenda-original.svg",
+    "imageAlt": "Original clock-like agenda divided into five-minute evidence, obstacle, and next-action sectors, next to a short written commitment card.",
+    "excerpt": "Run a focused accountability check-in with evidence, an obstacle review, and one scheduled action. Includes a practical 15-minute agenda.",
+    "keywords": [
+      "accountability partner agenda"
+    ],
+    "sections": [
+      {
+        "heading": "Start here",
+        "body": [
+          {
+            "text": "Use an accountability check-in to compare one agreed commitment with observable progress and choose the next action. Fifteen minutes is enough for a focused review when both people prepare; it is usually too short for a full coaching conversation or a complex project rescue. Keep the meeting useful by bringing evidence, naming obstacles plainly, and ending with a commitment small enough to schedule.",
+            "sourceIds": []
+          }
+        ]
+      },
+      {
+        "heading": "TL;DR",
+        "body": [
+          {
+            "text": "Before the call, write what you agreed to do, what actually happened, and what you want help deciding. Spend the first five minutes checking the commitment, the next five understanding the obstacle, and the last five choosing an action and recording it. This agenda is a practical design you can test, not a scientifically established optimal meeting duration. Judge it by follow-through and usefulness, not by whether every call feels motivating.",
+            "sourceIds": []
+          }
+        ]
+      },
+      {
+        "heading": "Agree on the relationship before the agenda",
+        "body": [
+          {
+            "text": "Define what each person wants from the arrangement. One person may want a quiet witness to a weekly writing commitment; another may want advice and challenge. Neither preference is inherently wrong, but an unspoken mismatch creates frustration. Agree whether you will ask permission before giving advice, how you will handle missed calls, and whether the partnership is reciprocal or focused on one person's work.",
+            "sourceIds": []
+          },
+          {
+            "text": "Discuss privacy as part of that agreement. Do not place client names, financial records, medical information, or confidential employer material in a shared note unless sharing is appropriate and authorized. Describe progress at a level that protects other people. An accountability partner does not need your customer's confidential document to confirm that you completed an agreed draft; a redacted milestone or your own work log may be enough.",
+            "sourceIds": []
+          }
+        ]
+      },
+      {
+        "heading": "Bring evidence that matches the commitment",
+        "body": [
+          {
+            "text": "If the commitment was to draft an outline, bring the outline. If it was to send three authorized outreach messages, record the count and date without exposing private recipient details. If it was to spend two focused sessions reviewing a proposal, bring the session record and the resulting decisions. Do not switch the measure during the call merely because another activity is easier to report.",
+            "sourceIds": []
+          },
+          {
+            "text": "Separate effort from result. “I worked hard” may be accurate, but it does not explain whether the promised output exists. Equally, an unfavorable external response does not erase a completed action. You can control sending a carefully prepared application; you cannot control being selected. Define the action and the hoped-for outcome separately so the partnership does not reward luck or punish events outside your control.",
+            "sourceIds": []
+          }
+        ]
+      },
+      {
+        "heading": "Use the first five minutes for a factual comparison",
+        "body": [
+          {
+            "text": "Read the previous commitment aloud, then state completed, partial, or not started. Follow with a short description of what exists now. Avoid opening with a long explanation that makes the other person infer the status. For example: “The two-page outline is complete. I have not written the introduction. The next decision is which example belongs first.” That creates a useful starting point in three sentences.",
+            "sourceIds": []
+          },
+          {
+            "text": "The purpose is understanding, not a verdict on character. If the commitment was missed, state that directly and investigate what happened. A partner who treats every miss as laziness can make honest reporting harder. A partner who immediately dismisses every miss as unimportant can remove the reason for meeting. Ask factual questions with a respectful tone and leave room for an answer you did not anticipate.",
+            "sourceIds": []
+          }
+        ]
+      },
+      {
+        "heading": "Find the obstacle that can change next week's plan",
+        "body": [
+          {
+            "text": "Ask where execution stopped. Did the person fail to start, become stuck on a decision, wait for someone else, or discover that the task was larger than expected? These situations call for different next actions. A missing input needs a request or a revised dependency; an oversized draft may need a smaller deliverable; a recurring distraction may need a protected time block and a specific interruption rule.",
+            "sourceIds": []
+          },
+          {
+            "text": "Do not spend the middle five minutes listing every possible explanation. Select the obstacle that most directly affected this commitment. Ask, “What would have needed to be different for this action to happen?” Then distinguish a change you can make from a condition you cannot promise. If the issue needs expertise or a longer discussion, name that need and arrange it separately rather than forcing a rushed solution.",
+            "sourceIds": []
+          }
+        ]
+      },
+      {
+        "heading": "Turn intention into a scheduled action",
+        "body": [
+          {
+            "text": "Write an action with a verb, an output, and a time. “Work on marketing” is difficult to evaluate. “Draft the opening three paragraphs of the service page Tuesday from 10 to 10:30” is easier to schedule and review. Add what will count as completion. The action should fit the person's actual calendar, energy, and available inputs, rather than the week they wish they had.",
+            "sourceIds": []
+          },
+          {
+            "text": "An obstacle plan can help make the commitment more usable. For example: “If the client input has not arrived by Tuesday morning, I will outline the sections that do not depend on it and send one specific clarification request.” This is an illustrative planning choice. It should not become a rigid instruction to work through illness, emergencies, or a change that makes the project inappropriate.",
+            "sourceIds": []
+          }
+        ]
+      },
+      {
+        "heading": "Read back the agreement",
+        "body": [
+          {
+            "text": "End with both people looking at the same short note. Include the action, date or time, completion evidence, and any promised support. If the partner offered a resource, make that a separate commitment with its own timing. Do not bury several new tasks inside a paragraph that began as one action. A useful note can usually be read aloud in less than a minute.",
+            "sourceIds": []
+          },
+          {
+            "text": "Agree on what happens if circumstances change before the next call. A brief revision can preserve honesty: “The appointment moved; I am rescheduling the draft block to Thursday.” Keep a trace of the change so you can notice patterns. Constantly revising a commitment just before review may signal that the scope or partnership needs adjustment, even when each individual explanation sounds reasonable.",
+            "sourceIds": []
+          }
+        ]
+      },
+      {
+        "heading": "What the research does and does not support",
+        "body": [
+          {
+            "text": "A meta-analysis by Harkin and colleagues examined experimental evidence on monitoring goal progress and found benefits for goal attainment on average. That supports paying attention to progress rather than relying only on intentions. It does not prove that this exact agenda, a particular partner, or a fifteen-minute duration will work for everyone.",
+            "sourceIds": [
+              "editorial-4f796a52371bae"
+            ]
+          },
+          {
+            "text": "Treat the agenda as a small practice experiment. After four check-ins, review whether commitments became clearer, whether agreed actions happened more often, and whether both people want to continue. Do not convert four observations into a sweeping performance claim. Use them to make a local decision: keep the format, shorten it, change the commitment size, or seek a different kind of support.",
+            "sourceIds": []
+          }
+        ]
+      },
+      {
+        "heading": "FAQs",
+        "body": [
+          {
+            "text": "What if both partners need equal time?.",
+            "sourceIds": []
+          },
+          {
+            "text": "Use two short turns with smaller scope or book a longer meeting. Do not assume a full fifteen-minute agenda for each person can fit into fifteen minutes total. Agree on the allocation before starting.",
+            "sourceIds": []
+          },
+          {
+            "text": "Should there be a penalty for missing the action?.",
+            "sourceIds": []
+          },
+          {
+            "text": "Start with clarity, realistic scope, and honest review. Avoid financial or public penalties that create pressure to hide problems. Any arrangement should remain voluntary and appropriate to the relationship.",
+            "sourceIds": []
+          },
+          {
+            "text": "When is accountability the wrong tool?.",
+            "sourceIds": []
+          },
+          {
+            "text": "A partner cannot replace clinical care, legal advice, specialist training, or a manager's responsibility to fix an impossible workload. If the obstacle is outside the partnership's competence, identify appropriate help.",
+            "sourceIds": []
+          }
+        ]
+      },
+      {
+        "heading": "Your next check-in",
+        "body": [
+          {
+            "text": "Copy the table into a private note and fill in one current commitment before inviting your partner to use it. Browse our practical execution resources for related planning methods. The useful next step is one clear conversation with one scheduled action, followed by a review of what actually happened.",
+            "sourceIds": []
+          }
+        ]
+      }
+    ],
+    "table": {
+      "caption": "At a glance",
+      "columns": [
+        "Minutes",
+        "Conversation",
+        "Written output"
+      ],
+      "rows": [
+        [
+          "0–2",
+          "Confirm the prior commitment",
+          "Original action and deadline"
+        ],
+        [
+          "2–5",
+          "Compare evidence with the agreement",
+          "Completed, partial, or not started"
+        ],
+        [
+          "5–10",
+          "Identify the obstacle that changed execution",
+          "One obstacle and a decision"
+        ],
+        [
+          "10–13",
+          "Choose the next controllable action",
+          "Action, time, and completion evidence"
+        ],
+        [
+          "13–15",
+          "Read back and confirm support",
+          "Shared note and next check-in"
+        ]
+      ]
+    },
+    "sourceIds": [
+      "editorial-4f796a52371bae"
+    ],
+    "takeaway": "Use an accountability check-in to compare one agreed commitment with observable progress and choose the next action. Fifteen minutes is enough for a focused review when both people prepare; it is usually too short for a full coaching conversation or a complex project rescue. Keep the meeting useful by bringing evidence, naming obstacles plainly, and ending with a commitment small enough to schedule."
   }
 ];
