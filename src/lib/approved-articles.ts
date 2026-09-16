@@ -8262,5 +8262,230 @@ export const approvedResourceArticles: ResourceArticle[] = [
       "editorial-4f796a52371bae"
     ],
     "takeaway": "Use an accountability check-in to compare one agreed commitment with observable progress and choose the next action. Fifteen minutes is enough for a focused review when both people prepare; it is usually too short for a full coaching conversation or a complex project rescue. Keep the meeting useful by bringing evidence, naming obstacles plainly, and ending with a commitment small enough to schedule."
+  },
+  {
+    "title": "Backlog Triage: Choose the Next Five Projects",
+    "seoTitle": "Backlog Triage: Choose the Next Five Projects",
+    "slug": "backlog-triage-choose-the-next-five-projects",
+    "publishDate": "2026-09-16",
+    "publishAt": "2026-09-16T09:00:00-04:00",
+    "category": "Productivity",
+    "image": "/images/backlog-triage-choose-the-next-five-projects-original.svg",
+    "imageAlt": "Original backlog funnel showing incoming requests narrowed to five ordered cards, with one card in a separately labeled active lane; five is a planning example, not a performance guarantee.",
+    "excerpt": "Triage a project backlog into five ordered candidates using outcomes, evidence, dependencies, capacity, and clear acceptance criteria.",
+    "keywords": [
+      "project backlog prioritization"
+    ],
+    "sections": [
+      {
+        "heading": "Start here",
+        "body": [
+          {
+            "text": "Choose the next five projects as an ordered decision queue, then start only the work your team can actually carry. Separate mandatory obligations from discretionary ideas, identify dependencies, and put one named owner and a testable outcome on every candidate before debating its priority.",
+            "sourceIds": []
+          }
+        ]
+      },
+      {
+        "heading": "TL;DR",
+        "body": [
+          {
+            "text": "An ordered shortlist helps a team decide what happens next; it is not an instruction to launch five projects at once. First remove obsolete requests and split vague proposals. Then compare the remaining work against one current goal, available capacity, consequence of delay, and evidence of value. Make uncertainty visible instead of disguising guesses as precise scores.",
+            "sourceIds": []
+          }
+        ]
+      },
+      {
+        "heading": "At a glance",
+        "body": [
+          {
+            "text": "The original backlog illustration uses a funnel leading to five ordered cards and a separate, limited active-work lane. It distinguishes selection from starting. The worksheet below is an editorial planning tool, not a scientifically validated predictor of project success.",
+            "sourceIds": []
+          }
+        ]
+      },
+      {
+        "heading": "Establish what the backlog is for",
+        "body": [
+          {
+            "text": "Write one sentence describing the outcome the team is trying to improve over the next planning period. For example: “Reduce the time between a new customer signing and completing the first usable setup.” A request to add ten dashboard features can then be discussed in relation to that outcome rather than the enthusiasm of its sponsor.",
+            "sourceIds": []
+          },
+          {
+            "text": "This does not mean every obligation must serve the same improvement goal. Contractual, security, safety, and regulatory work may need capacity for independent reasons. Put those obligations in view with the actual requirement and responsible reviewer. Do not allow an unsupported claim that something is “compliance” to settle the argument, but do not let a lightweight scoring exercise overrule a genuine duty either.",
+            "sourceIds": []
+          },
+          {
+            "text": "The 2020 Scrum Guide describes an ordered, evolving Product Backlog and a Product Goal that gives direction. The approach here borrows the useful distinction between a goal and a list of work. It is a general project-triage exercise, not a claim that every organization should implement Scrum or that this five-item format is part of that framework.",
+            "sourceIds": [
+              "editorial-d5ac2c381c4c76"
+            ]
+          }
+        ]
+      },
+      {
+        "heading": "Clean the list before ranking it",
+        "body": [
+          {
+            "text": "Read the backlog once for duplication and expiration. Two requests may describe the same underlying problem with different proposed solutions. Combine their evidence while retaining the people affected. A request whose triggering event has already passed may be removable, or it may need a new statement of why it still matters.",
+            "sourceIds": []
+          },
+          {
+            "text": "For each remaining item, identify the affected person, current difficulty, proposed outcome, and evidence available. “Automate operations” is not ready for comparison. “Reduce the manual re-entry of approved purchase orders between these two systems” gives the team a narrower question. If no one can explain the pain without referring to a proposed feature, send the item back for clarification.",
+            "sourceIds": []
+          },
+          {
+            "text": "Separate a discovery task from a delivery commitment. Interviewing three internal users to learn why a report is ignored is different from rebuilding the reporting system. Discovery can be a small, explicit candidate with a learning outcome, an owner, a time boundary, and a decision it will inform. It should not become an indefinite holding area where uncertain projects quietly consume capacity.",
+            "sourceIds": []
+          }
+        ]
+      },
+      {
+        "heading": "Compare value without false precision",
+        "body": [
+          {
+            "text": "Use a small set of discussion questions: What changes if this succeeds? Who experiences the improvement? What happens if we wait? How confident are we? What capacity and dependencies does it consume? Have the team record answers in plain language before attaching numbers.",
+            "sourceIds": []
+          },
+          {
+            "text": "If you use scores, state what the scale means. A value score of four is not four dollars, four hours saved, or a measured probability of success. Treat closely scored candidates as a conversation requiring judgment. A dramatic multiplication formula can make weak estimates look authoritative without adding any evidence.",
+            "sourceIds": []
+          },
+          {
+            "text": "Consider an illustrative pair: fixing a documented invoice defect versus adding a new sales dashboard requested by one executive. The first has visible error examples and an operational consequence; the second may have strategic value but needs a clearer decision it supports. The right answer depends on the organization, yet the comparison becomes more useful when confidence and evidence are visible alongside the promised benefit.",
+            "sourceIds": []
+          }
+        ]
+      },
+      {
+        "heading": "Inspect dependencies before choosing five",
+        "body": [
+          {
+            "text": "Draw an arrow whenever one candidate needs another decision or deliverable first. A dashboard cannot be accepted if the team has not agreed on the metric definition. A campaign cannot launch if its claims require review that nobody has scheduled. These dependencies should change the order or scope before work begins.",
+            "sourceIds": []
+          },
+          {
+            "text": "Distinguish real prerequisites from habitual sequencing. Ask the owner of a claimed dependency what specifically must be available and whether a smaller version would allow progress. Sometimes a sample dataset is enough for a design test; sometimes an actual approved agreement is essential. Record the answer rather than labeling everything “blocked by another team.”",
+            "sourceIds": []
+          },
+          {
+            "text": "The five selected candidates should therefore form an intelligible order. Item two may be next because it becomes possible after item one, while item five is a useful reserve option if an external dependency delays item three. Do not promise dates for all five unless capacity and uncertainty support those commitments.",
+            "sourceIds": []
+          }
+        ]
+      },
+      {
+        "heading": "Give the active lane a capacity limit",
+        "body": [
+          {
+            "text": "List the people and specialist reviews required for the first candidate. Compare that demand with existing work, leave, support responsibilities, and other commitments. If the same person is already a bottleneck on two projects, adding a third owner label does not create more time.",
+            "sourceIds": []
+          },
+          {
+            "text": "Choose an active-work limit that the team can test and review. Starting one project may be appropriate for a small team; another team may have independent capacity for more. The number should reflect the work system, not the fact that this article asks for a shortlist of five. Keep waiting work visibly queued instead of calling it active to reassure a sponsor.",
+            "sourceIds": []
+          },
+          {
+            "text": "Define what happens when an urgent request arrives. Identify who can change the order, what evidence is required, and which existing commitment will move. An emergency lane with no tradeoff simply becomes an unbounded second backlog. Record the displaced work and communicate the changed expectation to its owner.",
+            "sourceIds": []
+          }
+        ]
+      },
+      {
+        "heading": "Write the acceptance sentence",
+        "body": [
+          {
+            "text": "Before starting, complete this sentence: “We will consider this project complete when this person can verify this outcome using this evidence.” A billing repair might require finance to verify agreed test cases and a documented observation period. A discovery project might end with a decision memo that either supports delivery or explains why the idea should stop.",
+            "sourceIds": []
+          },
+          {
+            "text": "Name the reviewer and book their availability early. Otherwise work can finish technically and remain unresolved because the person who accepts it has not seen it. Acceptance should be specific enough to prevent endless polishing, while leaving room to respond to genuine new information that affects correctness or usefulness.",
+            "sourceIds": []
+          }
+        ]
+      },
+      {
+        "heading": "Review the queue when evidence changes",
+        "body": [
+          {
+            "text": "Hold a short review after completion, a material dependency change, or a significant new obligation. Compare expected and observed effort, waiting time, and outcome. Record why the order changed. The aim is to learn which assumptions were wrong, not to punish the team for updating a forecast.",
+            "sourceIds": []
+          },
+          {
+            "text": "Must the shortlist always contain five items?.",
+            "sourceIds": []
+          },
+          {
+            "text": "No. Five is a practical discussion boundary for this exercise. If only three candidates are clear enough, retain three and clarify the others. Filling empty positions with vague work undermines the purpose of triage.",
+            "sourceIds": []
+          },
+          {
+            "text": "What if two sponsors disagree?.",
+            "sourceIds": []
+          },
+          {
+            "text": "Ask the accountable decision-maker to choose using the shared goal, evidence, and constraints. Record the tradeoff and review trigger. A decision can be explicit even when there is no universally correct ranking.",
+            "sourceIds": []
+          },
+          {
+            "text": "What should I do in the next 20 minutes?.",
+            "sourceIds": []
+          },
+          {
+            "text": "Take ten backlog entries, remove duplicates, and rewrite the five clearest as outcomes with owners. Identify which one could start with current capacity and what would prove it complete. Use the ResultsBreakthrough resource library to support the next execution conversation.",
+            "sourceIds": []
+          },
+          {
+            "text": "This is an evidence-informed planning method, not a guarantee of speed, revenue, or team performance. Test it against your own results and adapt the review cadence to the consequences of the work.",
+            "sourceIds": []
+          }
+        ]
+      }
+    ],
+    "table": {
+      "caption": "At a glance",
+      "columns": [
+        "Candidate",
+        "Outcome and evidence",
+        "Constraint",
+        "Decision"
+      ],
+      "rows": [
+        [
+          "Repair a recurring billing defect",
+          "Fewer corrected invoices; support examples exist",
+          "Needs finance review",
+          "Consider early because harm is ongoing"
+        ],
+        [
+          "Meet a contractual reporting date",
+          "Accepted report by agreed deadline",
+          "Date and reviewer are fixed",
+          "Reserve capacity before optional work"
+        ],
+        [
+          "Redesign the whole website",
+          "Broad promise with no defined user problem",
+          "Scope and benefit unclear",
+          "Replace with a smaller discovery question"
+        ],
+        [
+          "Test an onboarding message",
+          "Learn whether customers understand the first step",
+          "Requires approved audience access",
+          "Queue a bounded experiment"
+        ],
+        [
+          "Replace an internal dashboard",
+          "Faster decisions, if someone uses the data",
+          "Depends on agreed metric definitions",
+          "Resolve dependency before starting"
+        ]
+      ]
+    },
+    "sourceIds": [
+      "editorial-d5ac2c381c4c76"
+    ],
+    "takeaway": "Choose the next five projects as an ordered decision queue, then start only the work your team can actually carry. Separate mandatory obligations from discretionary ideas, identify dependencies, and put one named owner and a testable outcome on every candidate before debating its priority."
   }
 ];

@@ -1,4 +1,5 @@
 export const articleSources = [
+  {"id": "editorial-d5ac2c381c4c76", "title": "2020 Scrum Guide", "organization": "scrumguides.org", "url": "https://scrumguides.org/scrum-guide.html"},
   {"id": "editorial-4f796a52371bae", "title": "meta-analysis by Harkin and colleagues", "organization": "www.apa.org", "url": "https://www.apa.org/pubs/journals/releases/bul-bul0000025.pdf"},
   {"id": "editorial-cc364db673741b", "title": "SBA business management resources", "organization": "www.sba.gov", "url": "https://www.sba.gov/counseling/manage-your-business/"},
   {"id": "editorial-77da557a62597b", "title": "CDC evaluation framework", "organization": "www.cdc.gov", "url": "https://www.cdc.gov/evaluation/php/evaluation-framework/index.html"},
