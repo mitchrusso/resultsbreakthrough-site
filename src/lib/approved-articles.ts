@@ -7,7 +7,7 @@ export const approvedResourceArticles: ResourceArticle[] = [
     "publishDate": "2026-07-27",
     "publishAt": "2026-07-27T13:55:00-04:00",
     "category": "Productivity",
-    "image": "https://images.unsplash.com/photo-1544716278-ca5e3f4abd8c?auto=format&fit=crop&w=1200&q=80",
+    "image": "/images/turn-a-productivity-book-into-a-14-day-experiment.svg",
     "excerpt": "A practical guide to turn a productivity book into a 14-day experiment, with clear decisions, cautions, and next steps.",
     "keywords": [
       "turn a productivity book into a 14-day experiment"
@@ -546,7 +546,7 @@ export const approvedResourceArticles: ResourceArticle[] = [
     "publishDate": "2026-07-28",
     "publishAt": "2026-07-28T09:00:00-04:00",
     "category": "Productivity",
-    "image": "https://images.unsplash.com/photo-1544716278-ca5e3f4abd8c?auto=format&fit=crop&w=1200&q=80",
+    "image": "/images/best-book-for-productivity-overall.svg",
     "excerpt": "Best Book for Productivity Overall: a practical, evidence-aware guide with implementation steps, decision criteria, cautions, and a reusable checklist for be...",
     "keywords": [
       "best book for productivity overall"
@@ -1056,7 +1056,7 @@ export const approvedResourceArticles: ResourceArticle[] = [
     "publishDate": "2026-07-29",
     "publishAt": "2026-07-29T09:00:00-04:00",
     "category": "Productivity",
-    "image": "https://images.unsplash.com/photo-1544716278-ca5e3f4abd8c?auto=format&fit=crop&w=1200&q=80",
+    "image": "/images/5-books-everyone-should-read.svg",
     "excerpt": "5 Books Everyone Should Read: a practical, evidence-aware guide with implementation steps, decision criteria, cautions, and a reusable checklist for best pro...",
     "keywords": [
       "5 books everyone should read"
@@ -1566,7 +1566,7 @@ export const approvedResourceArticles: ResourceArticle[] = [
     "publishDate": "2026-07-30",
     "publishAt": "2026-07-30T09:00:00-04:00",
     "category": "Productivity",
-    "image": "https://images.unsplash.com/photo-1544716278-ca5e3f4abd8c?auto=format&fit=crop&w=1200&q=80",
+    "image": "/images/top-productivity-books-for-entrepreneurs.svg",
     "excerpt": "Top Productivity Books for Entrepreneurs: a practical, evidence-aware guide with implementation steps, decision criteria, cautions, and a reusable checklist...",
     "keywords": [
       "top productivity books for entrepreneurs"
@@ -2076,7 +2076,7 @@ export const approvedResourceArticles: ResourceArticle[] = [
     "publishDate": "2026-07-31",
     "publishAt": "2026-07-31T09:00:00-04:00",
     "category": "Productivity",
-    "image": "https://images.unsplash.com/photo-1544716278-ca5e3f4abd8c?auto=format&fit=crop&w=1200&q=80",
+    "image": "/images/deep-work-vs-atomic-habits-comparison.svg",
     "excerpt": "Deep Work vs Atomic Habits Comparison: a practical, evidence-aware guide with implementation steps, decision criteria, cautions, and a reusable checklist for...",
     "keywords": [
       "deep work vs atomic habits comparison"
@@ -2586,7 +2586,7 @@ export const approvedResourceArticles: ResourceArticle[] = [
     "publishDate": "2026-08-03",
     "publishAt": "2026-08-03T09:00:00-04:00",
     "category": "Productivity",
-    "image": "https://images.unsplash.com/photo-1544716278-ca5e3f4abd8c?auto=format&fit=crop&w=1200&q=80",
+    "image": "/images/productivity-books-that-actually-work.svg",
     "excerpt": "Productivity Books That Actually Work: a practical, evidence-aware guide with implementation steps, decision criteria, cautions, and a reusable checklist for...",
     "keywords": [
       "productivity books that actually work"
@@ -3096,7 +3096,7 @@ export const approvedResourceArticles: ResourceArticle[] = [
     "publishDate": "2026-08-04",
     "publishAt": "2026-08-04T09:00:00-04:00",
     "category": "Productivity",
-    "image": "https://images.unsplash.com/photo-1544716278-ca5e3f4abd8c?auto=format&fit=crop&w=1200&q=80",
+    "image": "/images/productivity-books-ranked-by-experts-2026.svg",
     "excerpt": "Productivity Books Ranked by Experts 2026: a practical, evidence-aware guide with implementation steps, decision criteria, cautions, and a reusable checklist...",
     "keywords": [
       "productivity books ranked by experts 2026"
@@ -3606,7 +3606,7 @@ export const approvedResourceArticles: ResourceArticle[] = [
     "publishDate": "2026-08-05",
     "publishAt": "2026-08-05T09:00:00-04:00",
     "category": "Productivity",
-    "image": "https://images.unsplash.com/photo-1544716278-ca5e3f4abd8c?auto=format&fit=crop&w=1200&q=80",
+    "image": "/images/legitimate-ways-to-get-paid-to-read-books.svg",
     "excerpt": "Legitimate Ways to Get Paid to Read Books: a practical, evidence-aware guide with implementation steps, decision criteria, cautions, and a reusable checklist...",
     "keywords": [
       "legitimate ways to get paid to read books"
@@ -4116,7 +4116,7 @@ export const approvedResourceArticles: ResourceArticle[] = [
     "publishDate": "2026-08-06",
     "publishAt": "2026-08-06T09:00:00-04:00",
     "category": "Productivity",
-    "image": "https://images.unsplash.com/photo-1544716278-ca5e3f4abd8c?auto=format&fit=crop&w=1200&q=80",
+    "image": "/images/how-to-become-a-book-reviewer-for-money.svg",
     "excerpt": "How to Become a Book Reviewer for Money: a practical, evidence-aware guide with implementation steps, decision criteria, cautions, and a reusable checklist f...",
     "keywords": [
       "how to become a book reviewer for money"
@@ -4626,7 +4626,7 @@ export const approvedResourceArticles: ResourceArticle[] = [
     "publishDate": "2026-08-07",
     "publishAt": "2026-08-07T09:00:00-04:00",
     "category": "Productivity",
-    "image": "https://images.unsplash.com/photo-1544716278-ca5e3f4abd8c?auto=format&fit=crop&w=1200&q=80",
+    "image": "/images/turn-reading-into-a-side-hustle.svg",
     "excerpt": "Turn Reading into a Side Hustle: a practical, evidence-aware guide with implementation steps, decision criteria, cautions, and a reusable checklist for get p...",
     "keywords": [
       "turn reading into a side hustle"
@@ -5136,7 +5136,7 @@ export const approvedResourceArticles: ResourceArticle[] = [
     "publishDate": "2026-08-10",
     "publishAt": "2026-08-10T09:00:00-04:00",
     "category": "Productivity",
-    "image": "https://images.unsplash.com/photo-1544716278-ca5e3f4abd8c?auto=format&fit=crop&w=1200&q=80",
+    "image": "/images/how-to-set-and-achieve-business-goals.svg",
     "excerpt": "How to Set and Achieve Business Goals: a practical, evidence-aware guide with implementation steps, decision criteria, cautions, and a reusable checklist for...",
     "keywords": [
       "how to set and achieve business goals"
@@ -5646,7 +5646,7 @@ export const approvedResourceArticles: ResourceArticle[] = [
     "publishDate": "2026-09-07",
     "publishAt": "2026-09-07T09:00:00-04:00",
     "category": "Accountability Systems",
-    "image": "/images/weekly-review-leading-lagging-scorecard.svg",
+    "image": "/images/weekly-business-review-leading-indicators.svg",
     "excerpt": "Build a weekly business review that separates controllable actions from delayed outcomes and converts the numbers into one clear commitment.",
     "keywords": [
       "weekly business review",
@@ -7618,7 +7618,7 @@ export const approvedResourceArticles: ResourceArticle[] = [
     "publishDate": "2026-09-11",
     "publishAt": "2026-09-11T09:00:00-04:00",
     "category": "Productivity",
-    "image": "/images/quarterly-goal-reset-keep-change-or-stop-original.svg",
+    "image": "/images/quarterly-goal-reset-keep-change-or-stop.svg",
     "imageAlt": "Branching quarterly review diagram leading to keep, change, or stop, with an evidence checkpoint above.",
     "excerpt": "Review quarterly goals using results, remaining work, and capacity. Decide what to keep, change, or stop, then assign a concrete next action.",
     "keywords": [
@@ -7833,7 +7833,7 @@ export const approvedResourceArticles: ResourceArticle[] = [
     "publishDate": "2026-09-14",
     "publishAt": "2026-09-14T09:00:00-04:00",
     "category": "Productivity",
-    "image": "/images/meeting-cost-audit-reclaim-focus-without-chaos-original.svg",
+    "image": "/images/meeting-cost-audit-reclaim-focus-without-chaos.svg",
     "imageAlt": "Original meeting audit visualization showing eight participant markers around a 45-minute clock, with preparation adding two person-hours.",
     "excerpt": "Meeting Cost Audit: Reclaim Focus Without Chaos: a practical, researched guide with decisions, implementation steps, a comparison table, an original visual, sou",
     "keywords": [
@@ -8066,7 +8066,7 @@ export const approvedResourceArticles: ResourceArticle[] = [
     "publishDate": "2026-09-15",
     "publishAt": "2026-09-15T09:00:00-04:00",
     "category": "Productivity",
-    "image": "/images/accountability-partner-check-in-a-15-minute-agenda-original.svg",
+    "image": "/images/accountability-partner-check-in-a-15-minute-agenda.svg",
     "imageAlt": "Original clock-like agenda divided into five-minute evidence, obstacle, and next-action sectors, next to a short written commitment card.",
     "excerpt": "Run a focused accountability check-in with evidence, an obstacle review, and one scheduled action. Includes a practical 15-minute agenda.",
     "keywords": [
@@ -8270,7 +8270,7 @@ export const approvedResourceArticles: ResourceArticle[] = [
     "publishDate": "2026-09-16",
     "publishAt": "2026-09-16T09:00:00-04:00",
     "category": "Productivity",
-    "image": "/images/backlog-triage-choose-the-next-five-projects-original.svg",
+    "image": "/images/backlog-triage-choose-the-next-five-projects.svg",
     "imageAlt": "Original backlog funnel showing incoming requests narrowed to five ordered cards, with one card in a separately labeled active lane; five is a planning example, not a performance guarantee.",
     "excerpt": "Triage a project backlog into five ordered candidates using outcomes, evidence, dependencies, capacity, and clear acceptance criteria.",
     "keywords": [
