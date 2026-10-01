@@ -12267,5 +12267,320 @@ export const approvedResourceArticles: ResourceArticle[] = [
       "editorial-c0a19ac0112123"
     ],
     "takeaway": "Treat weekly planning as a field procedure rather than a collection of tips. The procedure should still work when the day is busy, the easy option is unavailable, or another person takes over. A useful productivity system converts an important result into a small observable behavior that survives a normal week."
+  },
+  {
+    "title": "Task Estimates: Compare Planned Time With Actual Evidence",
+    "seoTitle": "Task Estimates: Compare Planned Time With Actual Evidence",
+    "slug": "task-estimates-compare-planned-time-with-actual-evidence",
+    "publishDate": "2026-10-15",
+    "publishAt": "2026-10-15T09:00:00-04:00",
+    "category": "Productivity",
+    "image": "/images/task-estimates-compare-planned-time-with-actual-evidence.svg",
+    "imageAlt": "Task Estimates: Compare Planned Time With Actual Evidence topic field map",
+    "excerpt": "Plan planning accuracy with a practical six-step workflow, evidence checks, implementation guidance, cautions, and a reusable review checklist.",
+    "keywords": [
+      "task estimation review"
+    ],
+    "sections": [
+      {
+        "heading": "Start here",
+        "body": [
+          {
+            "text": "Most planning accuracy failures begin before the visible work starts: the wrong constraint is assumed, the real environment is not measured, or nobody defines what would trigger a stop. A useful productivity system converts an important result into a small observable behavior that survives a normal week.",
+            "sourceIds": []
+          },
+          {
+            "text": "Use this guide when a concrete task estimates: compare planned time with actual evidence decision is already on the table. It focuses on the sequence, evidence, and recovery path—not on claiming that one answer fits every material, person, location, organization, or appetite.",
+            "sourceIds": []
+          }
+        ]
+      },
+      {
+        "heading": "At a glance: six checkpoints for planning accuracy",
+        "body": [
+          {
+            "text": "1. Define three observable outcomes. 2. Use recent evidence to estimate effort. 3. Protect focused work on the calendar. 4. Assign communication and interruption rules. 5. Capture completion evidence. 6. Review the week and change one design variable.",
+            "sourceIds": []
+          },
+          {
+            "text": "Read the list once before acting. Mark the checkpoint with the weakest evidence. That is where the plan needs attention; later refinement cannot rescue a decision built on an unresolved early constraint.",
+            "sourceIds": []
+          }
+        ]
+      },
+      {
+        "heading": "Define the result and the stop rule",
+        "body": [
+          {
+            "text": "Describe the result in observable terms. Include the person, object, or business process affected; the real environment; the acceptable range; and the point at which the work must stop. For planning accuracy, an unacceptable outcome includes a system that adds tracking but not progress, depends on ideal motivation, or hides overloaded commitments.",
+            "sourceIds": []
+          },
+          {
+            "text": "Separate hard constraints from preferences. A hard constraint can disqualify the method even when it is faster or cheaper. Write assumptions as assumptions, attach an owner, and give high-consequence unknowns a deadline for resolution.",
+            "sourceIds": []
+          }
+        ]
+      },
+      {
+        "heading": "Prepare with evidence that can change the decision",
+        "body": [
+          {
+            "text": "Build the evidence packet around calendar history, completed-work evidence, workload constraints, baseline behavior, and a clearly defined result. Keep it small enough to use during the work. Label each source with its date and scope, and separate a controlling requirement from a preference.",
+            "sourceIds": []
+          },
+          {
+            "text": "Set up the workspace and communication path before the demanding step. Define three observable outcomes; then confirm that use recent evidence to estimate effort. Make the stop authority explicit. The person who notices a problem should not need to negotiate permission while the exposure or failure is growing.",
+            "sourceIds": []
+          }
+        ]
+      },
+      {
+        "heading": "The complete walkthrough",
+        "body": [
+          {
+            "text": "1. Define three observable outcomes.",
+            "sourceIds": []
+          },
+          {
+            "text": "Make “define three observable outcomes” a pass/fail gate. State the acceptable range, then compare it with calendar history, completed-work evidence, workload constraints, baseline behavior, and a clearly defined result. Do not average a failed constraint against convenience. The right response to a conflict is to pause planning accuracy, resolve the source of truth, and document the decision.",
+            "sourceIds": []
+          },
+          {
+            "text": "Checkpoint: before moving to “use recent evidence to estimate effort,” write one sentence describing what passed, what did not, and who owns the unresolved item.",
+            "sourceIds": []
+          },
+          {
+            "text": "2. Use recent evidence to estimate effort.",
+            "sourceIds": []
+          },
+          {
+            "text": "Close the loop after you use recent evidence to estimate effort. Record the actual outcome, including friction and near misses, rather than only marking the task complete. Use that result to revise the next planning accuracy attempt while the details are still fresh.",
+            "sourceIds": []
+          },
+          {
+            "text": "Checkpoint: before moving to “protect focused work on the calendar,” write one sentence describing what passed, what did not, and who owns the unresolved item.",
+            "sourceIds": []
+          },
+          {
+            "text": "3. Protect focused work on the calendar.",
+            "sourceIds": []
+          },
+          {
+            "text": "Close the loop after you protect focused work on the calendar. Record the actual outcome, including friction and near misses, rather than only marking the task complete. Use that result to revise the next planning accuracy attempt while the details are still fresh.",
+            "sourceIds": []
+          },
+          {
+            "text": "Checkpoint: before moving to “assign communication and interruption rules,” write one sentence describing what passed, what did not, and who owns the unresolved item.",
+            "sourceIds": []
+          },
+          {
+            "text": "4. Assign communication and interruption rules.",
+            "sourceIds": []
+          },
+          {
+            "text": "For this checkpoint, assign communication and interruption rules. Observe the real condition rather than the ideal one. A practical record includes cue, action, duration, completion evidence, interruption, result, and one design adjustment. If one of those details is unavailable, note the consequence of guessing before continuing.",
+            "sourceIds": []
+          },
+          {
+            "text": "Checkpoint: before moving to “capture completion evidence,” write one sentence describing what passed, what did not, and who owns the unresolved item.",
+            "sourceIds": []
+          },
+          {
+            "text": "5. Capture completion evidence.",
+            "sourceIds": []
+          },
+          {
+            "text": "Start by turning “capture completion evidence” into a fact someone can verify. Use calendar history, completed-work evidence, workload constraints, baseline behavior, and a clearly defined result. Write the source and date beside the conclusion; otherwise the team cannot distinguish evidence from memory. For planning accuracy, this checkpoint is complete only when the next operator knows what is confirmed and what remains unknown.",
+            "sourceIds": []
+          },
+          {
+            "text": "Checkpoint: before moving to “review the week and change one design variable,” write one sentence describing what passed, what did not, and who owns the unresolved item.",
+            "sourceIds": []
+          },
+          {
+            "text": "6. Review the week and change one design variable.",
+            "sourceIds": []
+          },
+          {
+            "text": "Before performing this step, say the plan aloud: review the week and change one design variable. Name the expected change, the maximum exposure or effort, and the stop signal. This short briefing matters because planning accuracy can drift when people improvise without noticing that the original conditions changed.",
+            "sourceIds": []
+          },
+          {
+            "text": "Checkpoint: before moving to “schedule the next inspection or review,” write one sentence describing what passed, what did not, and who owns the unresolved item.",
+            "sourceIds": []
+          }
+        ]
+      },
+      {
+        "heading": "Run one representative small test",
+        "body": [
+          {
+            "text": "Use one week or one deliberately bounded work cycle and change only one meaningful variable. Define the expected result and the stopping signal before beginning. If a system that adds tracking but not progress, depends on ideal motivation, or hides overloaded commitments appears, end the test and return to the last acceptable condition.",
+            "sourceIds": []
+          },
+          {
+            "text": "Keep the test honest. Do not add help, favorable conditions, or expert intervention that will be absent during normal use. If the difficult case cannot be tested responsibly, escalate it to the qualified person or authority who can evaluate it.",
+            "sourceIds": []
+          }
+        ]
+      },
+      {
+        "heading": "Five mistakes that weaken a planning accuracy plan",
+        "body": [
+          {
+            "text": "- Choosing a tool, product, setting, contract form, or template before the planning accuracy requirement is defined. - Testing only the easiest condition and assuming the result represents normal planning accuracy use. - Changing several variables together, which hides the cause of success or failure. - Continuing after a system that adds tracking but not progress, depends on ideal motivation, or hides overloaded commitments because time or money has already been invested. - Finishing the visible task without recording cue, action, duration, completion evidence, interruption, result, and one design adjustment.",
+            "sourceIds": []
+          },
+          {
+            "text": "When a mistake appears, stabilize first. Protect the person, material, rights, equipment, food, environment, or client experience involved. Return to the first checkpoint contradicted by the evidence, revise one variable, and create a new stop rule before trying again.",
+            "sourceIds": []
+          }
+        ]
+      },
+      {
+        "heading": "Safety, permission, and professional boundaries",
+        "body": [
+          {
+            "text": "This is an implementation framework, not medical or mental-health treatment. Reduce the workload when the system creates sustained distress, and seek qualified support when health or disability affects execution.",
+            "sourceIds": []
+          },
+          {
+            "text": "Authoritative starting points:",
+            "sourceIds": []
+          },
+          {
+            "text": "- CDC shared-goals worksheet - NIH behavior-change overview",
+            "sourceIds": [
+              "editorial-36860d8ac77bbd",
+              "editorial-c0a19ac0112123"
+            ]
+          },
+          {
+            "text": "Confirm that a source applies to the exact model, jurisdiction, land manager, product category, transaction, clinical situation, or activity. Save the access date and pair general guidance with current manufacturer instructions or individualized professional advice when appropriate.",
+            "sourceIds": []
+          }
+        ]
+      },
+      {
+        "heading": "Review the result and make it reusable",
+        "body": [
+          {
+            "text": "Review cue, action, duration, completion evidence, interruption, result, and one design adjustment. Compare the observation with the result statement, not with the effort invested. Decide to adopt, adjust, obtain qualified help, or stop.",
+            "sourceIds": []
+          },
+          {
+            "text": "Turn the final note into a short checklist for the next person. Include the six checkpoints, the approved range, a photograph or example where useful, the stop rule, and the escalation contact. A workflow is not delegated until another person can recognize both a good result and a reason to stop.",
+            "sourceIds": []
+          }
+        ]
+      },
+      {
+        "heading": "Your next 20 minutes",
+        "body": [
+          {
+            "text": "Write the desired result and the unacceptable outcome. Complete checkpoint one using a current source or direct observation. Then prepare one week or one deliberately bounded work cycle. If the critical evidence is missing, use the time to send one precise question instead of improvising.",
+            "sourceIds": []
+          },
+          {
+            "text": "The goal of this short session is not to finish planning accuracy. It is to reach the first defensible action with the stop rule already in place.",
+            "sourceIds": []
+          }
+        ]
+      },
+      {
+        "heading": "Related practical guides",
+        "body": [
+          {
+            "text": "- 14-day productivity experiment - weekly review template - results resource library",
+            "sourceIds": []
+          }
+        ]
+      },
+      {
+        "heading": "FAQ",
+        "body": [
+          {
+            "text": "What should be verified first?.",
+            "sourceIds": []
+          },
+          {
+            "text": "Verify the fact that could disqualify the entire approach. In this workflow that usually means define three observable outcomes, followed by a check that you can use recent evidence to estimate effort under real conditions.",
+            "sourceIds": []
+          },
+          {
+            "text": "How detailed should the written plan be?.",
+            "sourceIds": []
+          },
+          {
+            "text": "Detailed enough that another capable person can perform the next checkpoint and recognize a system that adds tracking but not progress, depends on ideal motivation, or hides overloaded commitments. For most situations, one page plus the controlling sources and cue, action, duration, completion evidence, interruption, result, and one design adjustment is more useful than a long narrative.",
+            "sourceIds": []
+          },
+          {
+            "text": "When is a small test not appropriate?.",
+            "sourceIds": []
+          },
+          {
+            "text": "Skip informal testing when a recall, emergency, legal restriction, clinical concern, structural question, food-safety uncertainty, unknown hazardous material, or manufacturer prohibition requires an authoritative response first.",
+            "sourceIds": []
+          },
+          {
+            "text": "What evidence should be saved afterward?.",
+            "sourceIds": []
+          },
+          {
+            "text": "Save cue, action, duration, completion evidence, interruption, result, and one design adjustment. Add the source date, the person who approved the result, and the date or trigger for the next review.",
+            "sourceIds": []
+          },
+          {
+            "text": "What if the first attempt fails?.",
+            "sourceIds": []
+          },
+          {
+            "text": "Stop, protect the affected people and property, and preserve the evidence. Identify the earliest failed checkpoint, change one variable, and decide whether a second bounded test or qualified professional review is the responsible next step.",
+            "sourceIds": []
+          }
+        ]
+      }
+    ],
+    "table": {
+      "caption": "Decision table for the current attempt",
+      "columns": [
+        "Decision point",
+        "Evidence to check",
+        "Continue when",
+        "Stop when"
+      ],
+      "rows": [
+        [
+          "Opening evidence",
+          "calendar history, completed-work evidence, workload constraints, baseline behavior, and a clearly defined result",
+          "source, date, and scope are recorded",
+          "a controlling fact is missing"
+        ],
+        [
+          "Small test",
+          "one week or one deliberately bounded work cycle",
+          "the test represents the difficult condition",
+          "a system that adds tracking but not progress, depends on ideal motivation, or hides overloaded commitments"
+        ],
+        [
+          "Owner",
+          "the person who can change the commitment or environment",
+          "one person can stop or escalate the work",
+          "ownership is assumed but not named"
+        ],
+        [
+          "Completion record",
+          "cue, action, duration, completion evidence, interruption, result, and one design adjustment",
+          "the next reviewer can repeat the decision",
+          "the result depends on memory"
+        ]
+      ]
+    },
+    "sourceIds": [
+      "editorial-36860d8ac77bbd",
+      "editorial-c0a19ac0112123"
+    ],
+    "takeaway": "Most planning accuracy failures begin before the visible work starts: the wrong constraint is assumed, the real environment is not measured, or nobody defines what would trigger a stop. A useful productivity system converts an important result into a small observable behavior that survives a normal week."
   }
 ];
