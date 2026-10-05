@@ -50,6 +50,10 @@ function countUrls(value: string) {
   return (value.match(/https?:\/\/|www\./gi) || []).length;
 }
 
+function isValidEmail(value: string) {
+  return /^[^\s@]+@[^\s@]+\.[^\s@]+$/.test(value);
+}
+
 export async function POST(request: Request) {
   const formData = await request.formData();
   const honey = clean(formData.get("_honey"));
@@ -69,6 +73,10 @@ export async function POST(request: Request) {
 
   if (!name || !email || !subject || !message) {
     return NextResponse.json({ error: "Please complete all required fields." }, { status: 400 });
+  }
+
+  if (!isValidEmail(email)) {
+    return NextResponse.json({ error: "Please enter a valid email address." }, { status: 400 });
   }
 
   if (message.length > MAX_MESSAGE_LENGTH || countUrls(`${subject}
