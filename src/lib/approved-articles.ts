@@ -16994,8 +16994,8 @@ export const approvedResourceArticles: ResourceArticle[] = [
     "takeaway": "weekly check-in: turn one signal into a clear next step often looks like a single task. In practice, the outcome depends on a chain of small choices, and the earliest unchecked choice usually creates the most expensive correction. A useful productivity system converts an important result into a small observable behavior that survives a normal week."
   },
   {
-    "title": "Decision Follow-Up: Turn One Commitment Into an Observabl...",
-    "seoTitle": "Decision Follow-Up: Turn One Commitment Into an Observabl...",
+    "title": "Decision Follow Up Turn One Commitment Into An Observable Check",
+    "seoTitle": "Decision Follow Up Turn One Commitment Into An Observable Check",
     "slug": "decision-follow-up-turn-one-commitment-into-an-observable-check",
     "publishDate": "2026-11-05",
     "publishAt": "2026-11-05T09:00:00-05:00",
@@ -17011,11 +17011,11 @@ export const approvedResourceArticles: ResourceArticle[] = [
         "heading": "Start here",
         "body": [
           {
-            "text": "Treat decision follow-up: turn one commitment into an observabl... as a field procedure rather than a collection of tips. The procedure should still work when the day is busy, the easy option is unavailable, or another person takes over. A useful productivity system converts an important result into a small observable behavior that survives a normal week.",
+            "text": "The difficult part of decision follow-up: turn one commitment into an observabl... is rarely knowing that action is required. It is deciding what to verify first, what to test, and what evidence is strong enough to continue. A useful productivity system converts an important result into a small observable behavior that survives a normal week.",
             "sourceIds": []
           },
           {
-            "text": "Use this guide when a concrete decision follow-up: turn one commitment into an observabl... decision is already on the table. It focuses on the sequence, evidence, and recovery path—not on claiming that one answer fits every material, person, location, organization, or appetite.",
+            "text": "Use this guide when a concrete decision follow up turn one commitment into an observable check decision is already on the table. It focuses on the sequence, evidence, and recovery path—not on claiming that one answer fits every material, person, location, organization, or appetite.",
             "sourceIds": []
           }
         ]
@@ -17050,7 +17050,7 @@ export const approvedResourceArticles: ResourceArticle[] = [
         "heading": "Prepare with evidence that can change the decision",
         "body": [
           {
-            "text": "Before scheduling the work, assemble calendar history, completed-work evidence, workload constraints, baseline behavior, and a clearly defined result. Ask which single missing fact could reverse the decision. Resolve that item first; lower-impact questions can remain in the test log.",
+            "text": "Walk through the actual setting and gather calendar history, completed-work evidence, workload constraints, baseline behavior, and a clearly defined result. Do not substitute a product page, generic summary, or remembered dimension for something you can observe directly. Photograph or note the condition that is easiest to misremember.",
             "sourceIds": []
           },
           {
@@ -17067,7 +17067,7 @@ export const approvedResourceArticles: ResourceArticle[] = [
             "sourceIds": []
           },
           {
-            "text": "Start by turning “define three observable outcomes” into a fact someone can verify. Use calendar history, completed-work evidence, workload constraints, baseline behavior, and a clearly defined result. Write the source and date beside the conclusion; otherwise the team cannot distinguish evidence from memory. For decision follow-up: turn one commitment into an observabl..., this checkpoint is complete only when the next operator knows what is confirmed and what remains unknown.",
+            "text": "Treat this as the handoff checkpoint: define three observable outcomes. The person receiving the work should be able to state the result, the remaining risk, and the next review date. If the handoff requires hidden context, the decision follow-up: turn one commitment into an observabl... instruction is not finished.",
             "sourceIds": []
           },
           {
@@ -17079,7 +17079,7 @@ export const approvedResourceArticles: ResourceArticle[] = [
             "sourceIds": []
           },
           {
-            "text": "Use a two-person check when the consequence is meaningful. One person should use recent evidence to estimate effort; the other should compare the action with calendar history, completed-work evidence, workload constraints, baseline behavior, and a clearly defined result. The second check is not bureaucracy—it catches a mismatch while the work is still reversible.",
+            "text": "Start by turning “use recent evidence to estimate effort” into a fact someone can verify. Use calendar history, completed-work evidence, workload constraints, baseline behavior, and a clearly defined result. Write the source and date beside the conclusion; otherwise the team cannot distinguish evidence from memory. For decision follow-up: turn one commitment into an observabl..., this checkpoint is complete only when the next operator knows what is confirmed and what remains unknown.",
             "sourceIds": []
           },
           {
@@ -17103,7 +17103,7 @@ export const approvedResourceArticles: ResourceArticle[] = [
             "sourceIds": []
           },
           {
-            "text": "Before performing this step, say the plan aloud: assign communication and interruption rules. Name the expected change, the maximum exposure or effort, and the stop signal. This short briefing matters because decision follow-up: turn one commitment into an observabl... can drift when people improvise without noticing that the original conditions changed.",
+            "text": "For this checkpoint, assign communication and interruption rules. Observe the real condition rather than the ideal one. A practical record includes cue, action, duration, completion evidence, interruption, result, and one design adjustment. If one of those details is unavailable, note the consequence of guessing before continuing.",
             "sourceIds": []
           },
           {
@@ -17115,7 +17115,7 @@ export const approvedResourceArticles: ResourceArticle[] = [
             "sourceIds": []
           },
           {
-            "text": "Practice this step on one week or one deliberately bounded work cycle: capture completion evidence. Change one variable, keep the other conditions stable, and inspect the result before expanding the scope. A small test is useful only when it represents the difficult condition that the full workflow must handle.",
+            "text": "For this checkpoint, capture completion evidence. Observe the real condition rather than the ideal one. A practical record includes cue, action, duration, completion evidence, interruption, result, and one design adjustment. If one of those details is unavailable, note the consequence of guessing before continuing.",
             "sourceIds": []
           },
           {
@@ -17127,7 +17127,7 @@ export const approvedResourceArticles: ResourceArticle[] = [
             "sourceIds": []
           },
           {
-            "text": "Use a two-person check when the consequence is meaningful. One person should review the week and change one design variable; the other should compare the action with calendar history, completed-work evidence, workload constraints, baseline behavior, and a clearly defined result. The second check is not bureaucracy—it catches a mismatch while the work is still reversible.",
+            "text": "Close the loop after you review the week and change one design variable. Record the actual outcome, including friction and near misses, rather than only marking the task complete. Use that result to revise the next decision follow-up: turn one commitment into an observabl... attempt while the details are still fresh.",
             "sourceIds": []
           },
           {
@@ -17140,7 +17140,7 @@ export const approvedResourceArticles: ResourceArticle[] = [
         "heading": "Run one representative small test",
         "body": [
           {
-            "text": "Do not launch the whole plan as the experiment. Trial one week or one deliberately bounded work cycle, observe without coaching the result toward success, and stop when a system that adds tracking but not progress, depends on ideal motivation, or hides overloaded commitments is present. A bounded failure is useful evidence.",
+            "text": "The first implementation should be one week or one deliberately bounded work cycle. Make it realistic enough to expose the hard condition but limited enough to reverse. Record cue, action, duration, completion evidence, interruption, result, and one design adjustment so the result can guide the next attempt.",
             "sourceIds": []
           },
           {
@@ -17190,7 +17190,7 @@ export const approvedResourceArticles: ResourceArticle[] = [
         "heading": "Review the result and make it reusable",
         "body": [
           {
-            "text": "Close the work with a short audit owned by the person who can change the commitment or environment. Preserve cue, action, duration, completion evidence, interruption, result, and one design adjustment. That record is the starting point for maintenance, training, renewal, or the next controlled test.",
+            "text": "At the review, ask three questions: What changed? What remained uncertain? Did a system that adds tracking but not progress, depends on ideal motivation, or hides overloaded commitments occur or nearly occur? Assign one owner and date to every follow-up.",
             "sourceIds": []
           },
           {
@@ -17306,7 +17306,7 @@ export const approvedResourceArticles: ResourceArticle[] = [
       "editorial-36860d8ac77bbd",
       "editorial-c0a19ac0112123"
     ],
-    "takeaway": "Treat decision follow-up: turn one commitment into an observabl... as a field procedure rather than a collection of tips. The procedure should still work when the day is busy, the easy option is unavailable, or another person takes over. A useful productivity system converts an important result into a small observable behavior that survives a normal week."
+    "takeaway": "The difficult part of decision follow-up: turn one commitment into an observabl... is rarely knowing that action is required. It is deciding what to verify first, what to test, and what evidence is strong enough to continue. A useful productivity system converts an important result into a small observable behavior that survives a normal week."
   },
   {
     "title": "Weekly Evidence Note: Capture One Lesson Before Next Week",
@@ -17624,8 +17624,8 @@ export const approvedResourceArticles: ResourceArticle[] = [
     "takeaway": "Planning weekly evidence note: capture one lesson before next week is an exercise in controlled execution. The goal is a repeatable result without overrunning safety, permission, fit, quality, or capacity limits. A useful productivity system converts an important result into a small observable behavior that survives a normal week."
   },
   {
-    "title": "Decision Friction Review: Find the Smallest Constraint to...",
-    "seoTitle": "Decision Friction Review: Find the Smallest Constraint to...",
+    "title": "Decision Friction Review Find The Smallest Constraint To Remove",
+    "seoTitle": "Decision Friction Review Find The Smallest Constraint To Remove",
     "slug": "decision-friction-review-find-the-smallest-constraint-to-remove",
     "publishDate": "2026-11-09",
     "publishAt": "2026-11-09T09:00:00-05:00",
@@ -17641,11 +17641,11 @@ export const approvedResourceArticles: ResourceArticle[] = [
         "heading": "Start here",
         "body": [
           {
-            "text": "The difficult part of decision friction review: find the smallest constraint to... is rarely knowing that action is required. It is deciding what to verify first, what to test, and what evidence is strong enough to continue. A useful productivity system converts an important result into a small observable behavior that survives a normal week.",
+            "text": "decision friction review: find the smallest constraint to... often looks like a single task. In practice, the outcome depends on a chain of small choices, and the earliest unchecked choice usually creates the most expensive correction. A useful productivity system converts an important result into a small observable behavior that survives a normal week.",
             "sourceIds": []
           },
           {
-            "text": "Use this guide when a concrete decision friction review: find the smallest constraint to... decision is already on the table. It focuses on the sequence, evidence, and recovery path—not on claiming that one answer fits every material, person, location, organization, or appetite.",
+            "text": "Use this guide when a concrete decision friction review find the smallest constraint to remove decision is already on the table. It focuses on the sequence, evidence, and recovery path—not on claiming that one answer fits every material, person, location, organization, or appetite.",
             "sourceIds": []
           }
         ]
@@ -17680,7 +17680,7 @@ export const approvedResourceArticles: ResourceArticle[] = [
         "heading": "Prepare with evidence that can change the decision",
         "body": [
           {
-            "text": "Walk through the actual setting and gather calendar history, completed-work evidence, workload constraints, baseline behavior, and a clearly defined result. Do not substitute a product page, generic summary, or remembered dimension for something you can observe directly. Photograph or note the condition that is easiest to misremember.",
+            "text": "Build the evidence packet around calendar history, completed-work evidence, workload constraints, baseline behavior, and a clearly defined result. Keep it small enough to use during the work. Label each source with its date and scope, and separate a controlling requirement from a preference.",
             "sourceIds": []
           },
           {
@@ -17697,7 +17697,7 @@ export const approvedResourceArticles: ResourceArticle[] = [
             "sourceIds": []
           },
           {
-            "text": "Close the loop after you define three observable outcomes. Record the actual outcome, including friction and near misses, rather than only marking the task complete. Use that result to revise the next decision friction review: find the smallest constraint to... attempt while the details are still fresh.",
+            "text": "Document the starting condition before you define three observable outcomes. Without a baseline, the team may notice change but cannot judge whether it is acceptable. The baseline for decision friction review: find the smallest constraint to... should be brief, observable, and saved with cue, action, duration, completion evidence, interruption, result, and one design adjustment.",
             "sourceIds": []
           },
           {
@@ -17709,7 +17709,7 @@ export const approvedResourceArticles: ResourceArticle[] = [
             "sourceIds": []
           },
           {
-            "text": "Document the starting condition before you use recent evidence to estimate effort. Without a baseline, the team may notice change but cannot judge whether it is acceptable. The baseline for decision friction review: find the smallest constraint to... should be brief, observable, and saved with cue, action, duration, completion evidence, interruption, result, and one design adjustment.",
+            "text": "For this checkpoint, use recent evidence to estimate effort. Observe the real condition rather than the ideal one. A practical record includes cue, action, duration, completion evidence, interruption, result, and one design adjustment. If one of those details is unavailable, note the consequence of guessing before continuing.",
             "sourceIds": []
           },
           {
@@ -17733,7 +17733,7 @@ export const approvedResourceArticles: ResourceArticle[] = [
             "sourceIds": []
           },
           {
-            "text": "Treat this as the handoff checkpoint: assign communication and interruption rules. The person receiving the work should be able to state the result, the remaining risk, and the next review date. If the handoff requires hidden context, the decision friction review: find the smallest constraint to... instruction is not finished.",
+            "text": "Make “assign communication and interruption rules” a pass/fail gate. State the acceptable range, then compare it with calendar history, completed-work evidence, workload constraints, baseline behavior, and a clearly defined result. Do not average a failed constraint against convenience. The right response to a conflict is to pause decision friction review: find the smallest constraint to..., resolve the source of truth, and document the decision.",
             "sourceIds": []
           },
           {
@@ -17745,7 +17745,7 @@ export const approvedResourceArticles: ResourceArticle[] = [
             "sourceIds": []
           },
           {
-            "text": "Treat this as the handoff checkpoint: capture completion evidence. The person receiving the work should be able to state the result, the remaining risk, and the next review date. If the handoff requires hidden context, the decision friction review: find the smallest constraint to... instruction is not finished.",
+            "text": "Use a two-person check when the consequence is meaningful. One person should capture completion evidence; the other should compare the action with calendar history, completed-work evidence, workload constraints, baseline behavior, and a clearly defined result. The second check is not bureaucracy—it catches a mismatch while the work is still reversible.",
             "sourceIds": []
           },
           {
@@ -17757,7 +17757,7 @@ export const approvedResourceArticles: ResourceArticle[] = [
             "sourceIds": []
           },
           {
-            "text": "For this checkpoint, review the week and change one design variable. Observe the real condition rather than the ideal one. A practical record includes cue, action, duration, completion evidence, interruption, result, and one design adjustment. If one of those details is unavailable, note the consequence of guessing before continuing.",
+            "text": "Document the starting condition before you review the week and change one design variable. Without a baseline, the team may notice change but cannot judge whether it is acceptable. The baseline for decision friction review: find the smallest constraint to... should be brief, observable, and saved with cue, action, duration, completion evidence, interruption, result, and one design adjustment.",
             "sourceIds": []
           },
           {
@@ -17770,7 +17770,7 @@ export const approvedResourceArticles: ResourceArticle[] = [
         "heading": "Run one representative small test",
         "body": [
           {
-            "text": "The first implementation should be one week or one deliberately bounded work cycle. Make it realistic enough to expose the hard condition but limited enough to reverse. Record cue, action, duration, completion evidence, interruption, result, and one design adjustment so the result can guide the next attempt.",
+            "text": "Use one week or one deliberately bounded work cycle and change only one meaningful variable. Define the expected result and the stopping signal before beginning. If a system that adds tracking but not progress, depends on ideal motivation, or hides overloaded commitments appears, end the test and return to the last acceptable condition.",
             "sourceIds": []
           },
           {
@@ -17820,7 +17820,7 @@ export const approvedResourceArticles: ResourceArticle[] = [
         "heading": "Review the result and make it reusable",
         "body": [
           {
-            "text": "At the review, ask three questions: What changed? What remained uncertain? Did a system that adds tracking but not progress, depends on ideal motivation, or hides overloaded commitments occur or nearly occur? Assign one owner and date to every follow-up.",
+            "text": "Review cue, action, duration, completion evidence, interruption, result, and one design adjustment. Compare the observation with the result statement, not with the effort invested. Decide to adopt, adjust, obtain qualified help, or stop.",
             "sourceIds": []
           },
           {
@@ -17936,11 +17936,11 @@ export const approvedResourceArticles: ResourceArticle[] = [
       "editorial-36860d8ac77bbd",
       "editorial-c0a19ac0112123"
     ],
-    "takeaway": "The difficult part of decision friction review: find the smallest constraint to... is rarely knowing that action is required. It is deciding what to verify first, what to test, and what evidence is strong enough to continue. A useful productivity system converts an important result into a small observable behavior that survives a normal week."
+    "takeaway": "decision friction review: find the smallest constraint to... often looks like a single task. In practice, the outcome depends on a chain of small choices, and the earliest unchecked choice usually creates the most expensive correction. A useful productivity system converts an important result into a small observable behavior that survives a normal week."
   },
   {
     "title": "Decision Evidence Check: Test One Assumption Before You Scale",
-    "seoTitle": "Decision Evidence Check: Test One Assumption Before You S...",
+    "seoTitle": "Decision Evidence Check: Test One Assumption Before You Scale",
     "slug": "decision-evidence-check-test-one-assumption-before-you-scale",
     "publishDate": "2026-11-10",
     "publishAt": "2026-11-10T09:00:00-05:00",
@@ -18885,7 +18885,7 @@ export const approvedResourceArticles: ResourceArticle[] = [
   },
   {
     "title": "Weekly Evidence Check: Keep One Small Experiment for Next Week",
-    "seoTitle": "Weekly Evidence Check: Keep One Small Experiment for Next...",
+    "seoTitle": "Weekly Evidence Check: Keep One Small Experiment for Next Week",
     "slug": "weekly-evidence-check-keep-one-small-experiment-for-next-week",
     "publishDate": "2026-11-13",
     "publishAt": "2026-11-13T09:00:00-05:00",
@@ -19200,7 +19200,7 @@ export const approvedResourceArticles: ResourceArticle[] = [
   },
   {
     "title": "Weekly Priority Reset: Choose the One Constraint That Changes the Plan",
-    "seoTitle": "Weekly Priority Reset: Choose the One Constraint That Cha...",
+    "seoTitle": "Weekly Priority Reset: Choose the One Constraint That Changes the Plan",
     "slug": "weekly-priority-reset-choose-the-one-constraint-that-changes-the-plan",
     "publishDate": "2026-11-16",
     "publishAt": "2026-11-16T09:00:00-05:00",
