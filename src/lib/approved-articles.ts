@@ -19512,5 +19512,1580 @@ export const approvedResourceArticles: ResourceArticle[] = [
       "editorial-c0a19ac0112123"
     ],
     "takeaway": "Most prioritization failures begin before the visible work starts: the wrong constraint is assumed, the real environment is not measured, or nobody defines what would trigger a stop. A useful productivity system converts an important result into a small observable behavior that survives a normal week."
+  },
+  {
+    "title": "Priority Constraint Check: Keep the Plan Small Enough to Finish",
+    "seoTitle": "Priority Constraint Check: Keep the Plan Small Enough to",
+    "slug": "priority-constraint-check-keep-the-plan-small-enough-to-finish",
+    "publishDate": "2026-11-18",
+    "publishAt": "2026-11-18T09:00:00-05:00",
+    "category": "Productivity",
+    "image": "/images/priority-constraint-check-keep-the-plan-small-enough-to-finish.svg",
+    "imageAlt": "Priority Constraint Check: Keep the Plan Small Enough to Finish topic field map",
+    "excerpt": "Practical guidance for priority constraints: evidence checks, cautions, and a reusable review process.",
+    "keywords": [
+      "priority constraint check keep the plan small enough to finish"
+    ],
+    "sections": [
+      {
+        "heading": "Start here",
+        "body": [
+          {
+            "text": "Planning priority constraint check: keep the plan small enough to finish is an exercise in controlled execution. The goal is a repeatable result without overrunning safety, permission, fit, quality, or capacity limits. A useful productivity system converts an important result into a small observable behavior that survives a normal week.",
+            "sourceIds": []
+          },
+          {
+            "text": "Use this guide when a concrete priority constraint check: keep the plan small enough to finish decision is already on the table. It focuses on the sequence, evidence, and recovery path—not on claiming that one answer fits every material, person, location, organization, or appetite.",
+            "sourceIds": []
+          }
+        ]
+      },
+      {
+        "heading": "At a glance: six checkpoints for priority constraint check: keep the plan small enough to finish",
+        "body": [
+          {
+            "text": "1. Define three observable outcomes. 2. Use recent evidence to estimate effort. 3. Protect focused work on the calendar. 4. Assign communication and interruption rules. 5. Capture completion evidence. 6. Review the week and change one design variable.",
+            "sourceIds": []
+          },
+          {
+            "text": "Read the list once before acting. Mark the checkpoint with the weakest evidence. That is where the plan needs attention; later refinement cannot rescue a decision built on an unresolved early constraint.",
+            "sourceIds": []
+          }
+        ]
+      },
+      {
+        "heading": "Define the result and the stop rule",
+        "body": [
+          {
+            "text": "Describe the result in observable terms. Include the person, object, or business process affected; the real environment; the acceptable range; and the point at which the work must stop. For priority constraint check: keep the plan small enough to finish, an unacceptable outcome includes a system that adds tracking but not progress, depends on ideal motivation, or hides overloaded commitments.",
+            "sourceIds": []
+          },
+          {
+            "text": "Separate hard constraints from preferences. A hard constraint can disqualify the method even when it is faster or cheaper. Write assumptions as assumptions, attach an owner, and give high-consequence unknowns a deadline for resolution.",
+            "sourceIds": []
+          }
+        ]
+      },
+      {
+        "heading": "Prepare with evidence that can change the decision",
+        "body": [
+          {
+            "text": "Walk through the actual setting and gather calendar history, completed-work evidence, workload constraints, baseline behavior, and a clearly defined result. Do not substitute a product page, generic summary, or remembered dimension for something you can observe directly. Photograph or note the condition that is easiest to misremember.",
+            "sourceIds": []
+          },
+          {
+            "text": "Set up the workspace and communication path before the demanding step. Define three observable outcomes; then confirm that use recent evidence to estimate effort. Make the stop authority explicit. The person who notices a problem should not need to negotiate permission while the exposure or failure is growing.",
+            "sourceIds": []
+          }
+        ]
+      },
+      {
+        "heading": "The complete walkthrough",
+        "body": [
+          {
+            "text": "1. Define three observable outcomes.",
+            "sourceIds": []
+          },
+          {
+            "text": "Before performing this step, say the plan aloud: define three observable outcomes. Name the expected change, the maximum exposure or effort, and the stop signal. This short briefing matters because priority constraint check: keep the plan small enough to finish can drift when people improvise without noticing that the original conditions changed.",
+            "sourceIds": []
+          },
+          {
+            "text": "Gate check: before moving to “use recent evidence to estimate effort,” write one sentence describing what passed, what did not, and who owns the unresolved item.",
+            "sourceIds": []
+          },
+          {
+            "text": "2. Use recent evidence to estimate effort.",
+            "sourceIds": []
+          },
+          {
+            "text": "Assign this action explicitly to the person who can change the commitment or environment: use recent evidence to estimate effort. Give that person authority to stop the sequence when a system that adds tracking but not progress, depends on ideal motivation, or hides overloaded commitments appears. Clear ownership prevents a common failure in priority constraint check: keep the plan small enough to finish: everyone sees the concern, but each person assumes someone else will make the decision.",
+            "sourceIds": []
+          },
+          {
+            "text": "Gate check: before moving to “protect focused work on the calendar,” write one sentence describing what passed, what did not, and who owns the unresolved item.",
+            "sourceIds": []
+          },
+          {
+            "text": "3. Protect focused work on the calendar.",
+            "sourceIds": []
+          },
+          {
+            "text": "Do not treat “protect focused work on the calendar” as a box to tick. Explain what the step protects and what evidence will prove it worked. Capture cue, action, duration, completion evidence, interruption, result, and one design adjustment, then compare the observation with the stated result. Continue only when the evidence supports the next checkpoint.",
+            "sourceIds": []
+          },
+          {
+            "text": "Gate check: before moving to “assign communication and interruption rules,” write one sentence describing what passed, what did not, and who owns the unresolved item.",
+            "sourceIds": []
+          },
+          {
+            "text": "4. Assign communication and interruption rules.",
+            "sourceIds": []
+          },
+          {
+            "text": "Make “assign communication and interruption rules” a pass/fail gate. State the acceptable range, then compare it with calendar history, completed-work evidence, workload constraints, baseline behavior, and a clearly defined result. Do not average a failed constraint against convenience. The right response to a conflict is to pause priority constraint check: keep the plan small enough to finish, resolve the source of truth, and document the decision.",
+            "sourceIds": []
+          },
+          {
+            "text": "Gate check: before moving to “capture completion evidence,” write one sentence describing what passed, what did not, and who owns the unresolved item.",
+            "sourceIds": []
+          },
+          {
+            "text": "5. Capture completion evidence.",
+            "sourceIds": []
+          },
+          {
+            "text": "Treat this as the handoff checkpoint: capture completion evidence. The person receiving the work should be able to state the result, the remaining risk, and the next review date. If the handoff requires hidden context, the priority constraint check: keep the plan small enough to finish instruction is not finished.",
+            "sourceIds": []
+          },
+          {
+            "text": "Gate check: before moving to “review the week and change one design variable,” write one sentence describing what passed, what did not, and who owns the unresolved item.",
+            "sourceIds": []
+          },
+          {
+            "text": "6. Review the week and change one design variable.",
+            "sourceIds": []
+          },
+          {
+            "text": "Use a two-person check when the consequence is meaningful. One person should review the week and change one design variable; the other should compare the action with calendar history, completed-work evidence, workload constraints, baseline behavior, and a clearly defined result. The second check is not bureaucracy—it catches a mismatch while the work is still reversible.",
+            "sourceIds": []
+          },
+          {
+            "text": "Gate check: before moving to “schedule the next inspection or review,” write one sentence describing what passed, what did not, and who owns the unresolved item.",
+            "sourceIds": []
+          }
+        ]
+      },
+      {
+        "heading": "Run one representative small test",
+        "body": [
+          {
+            "text": "The first implementation should be one week or one deliberately bounded work cycle. Make it realistic enough to expose the hard condition but limited enough to reverse. Record cue, action, duration, completion evidence, interruption, result, and one design adjustment so the result can guide the next attempt.",
+            "sourceIds": []
+          },
+          {
+            "text": "Keep the test honest. Do not add help, favorable conditions, or expert intervention that will be absent during normal use. If the difficult case cannot be tested responsibly, escalate it to the qualified person or authority who can evaluate it.",
+            "sourceIds": []
+          }
+        ]
+      },
+      {
+        "heading": "Five mistakes that weaken a priority constraint check: keep the plan small enough to finish plan",
+        "body": [
+          {
+            "text": "- Choosing a tool, product, setting, contract form, or template before the priority constraint check: keep the plan small enough to finish requirement is defined. - Testing only the easiest condition and assuming the result represents normal priority constraint check: keep the plan small enough to finish use. - Changing several variables together, which hides the cause of success or failure. - Continuing after a system that adds tracking but not progress, depends on ideal motivation, or hides overloaded commitments because time or money has already been invested. - Finishing the visible task without recording cue, action, duration, completion evidence, interruption, result, and one design adjustment.",
+            "sourceIds": []
+          },
+          {
+            "text": "When a mistake appears, stabilize first. Protect the person, material, rights, equipment, food, environment, or client experience involved. Return to the first checkpoint contradicted by the evidence, revise one variable, and create a new stop rule before trying again.",
+            "sourceIds": []
+          }
+        ]
+      },
+      {
+        "heading": "Safety, permission, and professional boundaries",
+        "body": [
+          {
+            "text": "This is an implementation framework, not medical or mental-health treatment. Reduce the workload when the system creates sustained distress, and seek qualified support when health or disability affects execution.",
+            "sourceIds": []
+          },
+          {
+            "text": "Authoritative starting points:",
+            "sourceIds": []
+          },
+          {
+            "text": "- CDC shared-goals worksheet - NIH behavior-change overview",
+            "sourceIds": [
+              "editorial-36860d8ac77bbd",
+              "editorial-c0a19ac0112123"
+            ]
+          },
+          {
+            "text": "Confirm that a source applies to the exact model, jurisdiction, land manager, product category, transaction, clinical situation, or activity. Save the access date and pair general guidance with current manufacturer instructions or individualized professional advice when appropriate.",
+            "sourceIds": []
+          }
+        ]
+      },
+      {
+        "heading": "Review the result and make it reusable",
+        "body": [
+          {
+            "text": "At the review, ask three questions: What changed? What remained uncertain? Did a system that adds tracking but not progress, depends on ideal motivation, or hides overloaded commitments occur or nearly occur? Assign one owner and date to every follow-up.",
+            "sourceIds": []
+          },
+          {
+            "text": "Turn the final note into a short checklist for the next person. Include the six checkpoints, the approved range, a photograph or example where useful, the stop rule, and the escalation contact. A workflow is not delegated until another person can recognize both a good result and a reason to stop.",
+            "sourceIds": []
+          }
+        ]
+      },
+      {
+        "heading": "Your next 20 minutes",
+        "body": [
+          {
+            "text": "Write the desired result and the unacceptable outcome. Complete checkpoint one using a current source or direct observation. Then prepare one week or one deliberately bounded work cycle. If the critical evidence is missing, use the time to send one precise question instead of improvising.",
+            "sourceIds": []
+          },
+          {
+            "text": "The goal of this short session is not to finish priority constraint check: keep the plan small enough to finish. It is to reach the first defensible action with the stop rule already in place.",
+            "sourceIds": []
+          }
+        ]
+      },
+      {
+        "heading": "Related practical guides",
+        "body": [
+          {
+            "text": "- 14-day productivity experiment - weekly review template - results resource library",
+            "sourceIds": []
+          }
+        ]
+      },
+      {
+        "heading": "FAQ",
+        "body": [
+          {
+            "text": "What should be verified first?.",
+            "sourceIds": []
+          },
+          {
+            "text": "Verify the fact that could disqualify the entire approach. In this workflow that usually means define three observable outcomes, followed by a check that you can use recent evidence to estimate effort under real conditions.",
+            "sourceIds": []
+          },
+          {
+            "text": "How detailed should the written plan be?.",
+            "sourceIds": []
+          },
+          {
+            "text": "Detailed enough that another capable person can perform the next checkpoint and recognize a system that adds tracking but not progress, depends on ideal motivation, or hides overloaded commitments. For most situations, one page plus the controlling sources and cue, action, duration, completion evidence, interruption, result, and one design adjustment is more useful than a long narrative.",
+            "sourceIds": []
+          },
+          {
+            "text": "When is a small test not appropriate?.",
+            "sourceIds": []
+          },
+          {
+            "text": "Skip informal testing when a recall, emergency, legal restriction, clinical concern, structural question, food-safety uncertainty, unknown hazardous material, or manufacturer prohibition requires an authoritative response first.",
+            "sourceIds": []
+          },
+          {
+            "text": "What evidence should be saved afterward?.",
+            "sourceIds": []
+          },
+          {
+            "text": "Save cue, action, duration, completion evidence, interruption, result, and one design adjustment. Add the source date, the person who approved the result, and the date or trigger for the next review.",
+            "sourceIds": []
+          },
+          {
+            "text": "What if the first attempt fails?.",
+            "sourceIds": []
+          },
+          {
+            "text": "Stop, protect the affected people and property, and preserve the evidence. Identify the earliest failed checkpoint, change one variable, and decide whether a second bounded test or qualified professional review is the responsible next step.",
+            "sourceIds": []
+          }
+        ]
+      }
+    ],
+    "table": {
+      "caption": "Decision table for the current attempt",
+      "columns": [
+        "Decision point",
+        "Evidence to check",
+        "Continue when",
+        "Stop when"
+      ],
+      "rows": [
+        [
+          "Opening evidence",
+          "calendar history, completed-work evidence, workload constraints, baseline behavior, and a clearly defined result",
+          "source, date, and scope are recorded",
+          "a controlling fact is missing"
+        ],
+        [
+          "Small test",
+          "one week or one deliberately bounded work cycle",
+          "the test represents the difficult condition",
+          "a system that adds tracking but not progress, depends on ideal motivation, or hides overloaded commitments"
+        ],
+        [
+          "Owner",
+          "the person who can change the commitment or environment",
+          "one person can stop or escalate the work",
+          "ownership is assumed but not named"
+        ],
+        [
+          "Completion record",
+          "cue, action, duration, completion evidence, interruption, result, and one design adjustment",
+          "the next reviewer can repeat the decision",
+          "the result depends on memory"
+        ]
+      ]
+    },
+    "sourceIds": [
+      "editorial-36860d8ac77bbd",
+      "editorial-c0a19ac0112123"
+    ],
+    "takeaway": "Planning priority constraint check: keep the plan small enough to finish is an exercise in controlled execution. The goal is a repeatable result without overrunning safety, permission, fit, quality, or capacity limits. A useful productivity system converts an important result into a small observable behavior that survives a normal week."
+  },
+  {
+    "title": "Experiment Review Check: Change One Variable Before the Next Test",
+    "seoTitle": "Experiment Review Check: Change One Variable Before the",
+    "slug": "experiment-review-check-change-one-variable-before-the-next-test",
+    "publishDate": "2026-11-19",
+    "publishAt": "2026-11-19T09:00:00-05:00",
+    "category": "Productivity",
+    "image": "/images/experiment-review-check-change-one-variable-before-the-next-test.svg",
+    "imageAlt": "Experiment Review Check: Change One Variable Before the Next Test topic field map",
+    "excerpt": "Practical guidance for experiment review check change one variable before the next test: evidence checks and a reusable review process.",
+    "keywords": [
+      "experiment review check change one variable before the next test"
+    ],
+    "sections": [
+      {
+        "heading": "Start here",
+        "body": [
+          {
+            "text": "Most experiment review check: change one variable before the next test failures begin before the visible work starts: the wrong constraint is assumed, the real environment is not measured, or nobody defines what would trigger a stop. A useful productivity system converts an important result into a small observable behavior that survives a normal week.",
+            "sourceIds": []
+          },
+          {
+            "text": "Use this guide when a concrete experiment review check: change one variable before the next test decision is already on the table. It focuses on the sequence, evidence, and recovery path—not on claiming that one answer fits every material, person, location, organization, or appetite.",
+            "sourceIds": []
+          }
+        ]
+      },
+      {
+        "heading": "At a glance: six checkpoints for experiment review check: change one variable before the next test",
+        "body": [
+          {
+            "text": "1. Define three observable outcomes. 2. Use recent evidence to estimate effort. 3. Protect focused work on the calendar. 4. Assign communication and interruption rules. 5. Capture completion evidence. 6. Review the week and change one design variable.",
+            "sourceIds": []
+          },
+          {
+            "text": "Read the list once before acting. Mark the checkpoint with the weakest evidence. That is where the plan needs attention; later refinement cannot rescue a decision built on an unresolved early constraint.",
+            "sourceIds": []
+          }
+        ]
+      },
+      {
+        "heading": "Define the result and the stop rule",
+        "body": [
+          {
+            "text": "Describe the result in observable terms. Include the person, object, or business process affected; the real environment; the acceptable range; and the point at which the work must stop. For experiment review check: change one variable before the next test, an unacceptable outcome includes a system that adds tracking but not progress, depends on ideal motivation, or hides overloaded commitments.",
+            "sourceIds": []
+          },
+          {
+            "text": "Separate hard constraints from preferences. A hard constraint can disqualify the method even when it is faster or cheaper. Write assumptions as assumptions, attach an owner, and give high-consequence unknowns a deadline for resolution.",
+            "sourceIds": []
+          }
+        ]
+      },
+      {
+        "heading": "Prepare with evidence that can change the decision",
+        "body": [
+          {
+            "text": "Build the evidence packet around calendar history, completed-work evidence, workload constraints, baseline behavior, and a clearly defined result. Keep it small enough to use during the work. Label each source with its date and scope, and separate a controlling requirement from a preference.",
+            "sourceIds": []
+          },
+          {
+            "text": "Set up the workspace and communication path before the demanding step. Define three observable outcomes; then confirm that use recent evidence to estimate effort. Make the stop authority explicit. The person who notices a problem should not need to negotiate permission while the exposure or failure is growing.",
+            "sourceIds": []
+          }
+        ]
+      },
+      {
+        "heading": "The complete walkthrough",
+        "body": [
+          {
+            "text": "1. Define three observable outcomes.",
+            "sourceIds": []
+          },
+          {
+            "text": "Make “define three observable outcomes” a pass/fail gate. State the acceptable range, then compare it with calendar history, completed-work evidence, workload constraints, baseline behavior, and a clearly defined result. Do not average a failed constraint against convenience. The right response to a conflict is to pause experiment review check: change one variable before the next test, resolve the source of truth, and document the decision.",
+            "sourceIds": []
+          },
+          {
+            "text": "Gate check: before moving to “use recent evidence to estimate effort,” write one sentence describing what passed, what did not, and who owns the unresolved item.",
+            "sourceIds": []
+          },
+          {
+            "text": "2. Use recent evidence to estimate effort.",
+            "sourceIds": []
+          },
+          {
+            "text": "Close the loop after you use recent evidence to estimate effort. Record the actual outcome, including friction and near misses, rather than only marking the task complete. Use that result to revise the next experiment review check: change one variable before the next test attempt while the details are still fresh.",
+            "sourceIds": []
+          },
+          {
+            "text": "Gate check: before moving to “protect focused work on the calendar,” write one sentence describing what passed, what did not, and who owns the unresolved item.",
+            "sourceIds": []
+          },
+          {
+            "text": "3. Protect focused work on the calendar.",
+            "sourceIds": []
+          },
+          {
+            "text": "Assign this action explicitly to the person who can change the commitment or environment: protect focused work on the calendar. Give that person authority to stop the sequence when a system that adds tracking but not progress, depends on ideal motivation, or hides overloaded commitments appears. Clear ownership prevents a common failure in experiment review check: change one variable before the next test: everyone sees the concern, but each person assumes someone else will make the decision.",
+            "sourceIds": []
+          },
+          {
+            "text": "Gate check: before moving to “assign communication and interruption rules,” write one sentence describing what passed, what did not, and who owns the unresolved item.",
+            "sourceIds": []
+          },
+          {
+            "text": "4. Assign communication and interruption rules.",
+            "sourceIds": []
+          },
+          {
+            "text": "Start by turning “assign communication and interruption rules” into a fact someone can verify. Use calendar history, completed-work evidence, workload constraints, baseline behavior, and a clearly defined result. Record the source date with the conclusion so a later reviewer can separate verified facts from recollection. For experiment review check: change one variable before the next test, this checkpoint is complete only when the next operator knows what is confirmed and what remains unknown.",
+            "sourceIds": []
+          },
+          {
+            "text": "Gate check: before moving to “capture completion evidence,” write one sentence describing what passed, what did not, and who owns the unresolved item.",
+            "sourceIds": []
+          },
+          {
+            "text": "5. Capture completion evidence.",
+            "sourceIds": []
+          },
+          {
+            "text": "For this checkpoint, capture completion evidence. Observe the real condition rather than the ideal one. A practical record includes cue, action, duration, completion evidence, interruption, result, and one design adjustment. If one of those details is unavailable, note the consequence of guessing before continuing.",
+            "sourceIds": []
+          },
+          {
+            "text": "Gate check: before moving to “review the week and change one design variable,” write one sentence describing what passed, what did not, and who owns the unresolved item.",
+            "sourceIds": []
+          },
+          {
+            "text": "6. Review the week and change one design variable.",
+            "sourceIds": []
+          },
+          {
+            "text": "Ask what would make this action wrong in the present setting, then review the week and change one design variable. Compare the answer with calendar history, completed-work evidence, workload constraints, baseline behavior, and a clearly defined result. This counter-check is especially valuable when a familiar method is being reused with a different person, product, location, or workload.",
+            "sourceIds": []
+          },
+          {
+            "text": "Gate check: before moving to “schedule the next inspection or review,” write one sentence describing what passed, what did not, and who owns the unresolved item.",
+            "sourceIds": []
+          }
+        ]
+      },
+      {
+        "heading": "Run one representative small test",
+        "body": [
+          {
+            "text": "Use one week or one deliberately bounded work cycle and change only one meaningful variable. Define the expected result and the stopping signal before beginning. If a system that adds tracking but not progress, depends on ideal motivation, or hides overloaded commitments appears, end the test and return to the last acceptable condition.",
+            "sourceIds": []
+          },
+          {
+            "text": "Keep the test honest. Do not add help, favorable conditions, or expert intervention that will be absent during normal use. If the difficult case cannot be tested responsibly, escalate it to the qualified person or authority who can evaluate it.",
+            "sourceIds": []
+          }
+        ]
+      },
+      {
+        "heading": "Five mistakes that weaken a experiment review check: change one variable before the next test plan",
+        "body": [
+          {
+            "text": "- Choosing a tool, product, setting, contract form, or template before the experiment review check: change one variable before the next test requirement is defined. - Testing only the easiest condition and assuming the result represents normal experiment review check: change one variable before the next test use. - Changing several variables together, which hides the cause of success or failure. - Continuing after a system that adds tracking but not progress, depends on ideal motivation, or hides overloaded commitments because time or money has already been invested. - Finishing the visible task without recording cue, action, duration, completion evidence, interruption, result, and one design adjustment.",
+            "sourceIds": []
+          },
+          {
+            "text": "When a mistake appears, stabilize first. Protect the person, material, rights, equipment, food, environment, or client experience involved. Return to the first checkpoint contradicted by the evidence, revise one variable, and create a new stop rule before trying again.",
+            "sourceIds": []
+          }
+        ]
+      },
+      {
+        "heading": "Safety, permission, and professional boundaries",
+        "body": [
+          {
+            "text": "This is an implementation framework, not medical or mental-health treatment. Reduce the workload when the system creates sustained distress, and seek qualified support when health or disability affects execution.",
+            "sourceIds": []
+          },
+          {
+            "text": "Authoritative starting points:",
+            "sourceIds": []
+          },
+          {
+            "text": "- CDC shared-goals worksheet - NIH behavior-change overview",
+            "sourceIds": [
+              "editorial-36860d8ac77bbd",
+              "editorial-c0a19ac0112123"
+            ]
+          },
+          {
+            "text": "Confirm that a source applies to the exact model, jurisdiction, land manager, product category, transaction, clinical situation, or activity. Save the access date and pair general guidance with current manufacturer instructions or individualized professional advice when appropriate.",
+            "sourceIds": []
+          }
+        ]
+      },
+      {
+        "heading": "Review the result and make it reusable",
+        "body": [
+          {
+            "text": "Review cue, action, duration, completion evidence, interruption, result, and one design adjustment. Compare the observation with the result statement, not with the effort invested. Decide to adopt, adjust, obtain qualified help, or stop.",
+            "sourceIds": []
+          },
+          {
+            "text": "Turn the final note into a short checklist for the next person. Include the six checkpoints, the approved range, a photograph or example where useful, the stop rule, and the escalation contact. A workflow is not delegated until another person can recognize both a good result and a reason to stop.",
+            "sourceIds": []
+          }
+        ]
+      },
+      {
+        "heading": "Your next 20 minutes",
+        "body": [
+          {
+            "text": "Write the desired result and the unacceptable outcome. Complete checkpoint one using a current source or direct observation. Then prepare one week or one deliberately bounded work cycle. If the critical evidence is missing, use the time to send one precise question instead of improvising.",
+            "sourceIds": []
+          },
+          {
+            "text": "The goal of this short session is not to finish experiment review check: change one variable before the next test. It is to reach the first defensible action with the stop rule already in place.",
+            "sourceIds": []
+          }
+        ]
+      },
+      {
+        "heading": "Related practical guides",
+        "body": [
+          {
+            "text": "- 14-day productivity experiment - weekly review template - results resource library",
+            "sourceIds": []
+          }
+        ]
+      },
+      {
+        "heading": "FAQ",
+        "body": [
+          {
+            "text": "What should be verified first?.",
+            "sourceIds": []
+          },
+          {
+            "text": "Verify the fact that could disqualify the entire approach. In this workflow that usually means define three observable outcomes, followed by a check that you can use recent evidence to estimate effort under real conditions.",
+            "sourceIds": []
+          },
+          {
+            "text": "How detailed should the written plan be?.",
+            "sourceIds": []
+          },
+          {
+            "text": "Detailed enough that another capable person can perform the next checkpoint and recognize a system that adds tracking but not progress, depends on ideal motivation, or hides overloaded commitments. For most situations, one page plus the controlling sources and cue, action, duration, completion evidence, interruption, result, and one design adjustment is more useful than a long narrative.",
+            "sourceIds": []
+          },
+          {
+            "text": "When is a small test not appropriate?.",
+            "sourceIds": []
+          },
+          {
+            "text": "Skip informal testing when a recall, emergency, legal restriction, clinical concern, structural question, food-safety uncertainty, unknown hazardous material, or manufacturer prohibition requires an authoritative response first.",
+            "sourceIds": []
+          },
+          {
+            "text": "What evidence should be saved afterward?.",
+            "sourceIds": []
+          },
+          {
+            "text": "Save cue, action, duration, completion evidence, interruption, result, and one design adjustment. Add the source date, the person who approved the result, and the date or trigger for the next review.",
+            "sourceIds": []
+          },
+          {
+            "text": "What if the first attempt fails?.",
+            "sourceIds": []
+          },
+          {
+            "text": "Stop, protect the affected people and property, and preserve the evidence. Identify the earliest failed checkpoint, change one variable, and decide whether a second bounded test or qualified professional review is the responsible next step.",
+            "sourceIds": []
+          }
+        ]
+      }
+    ],
+    "table": {
+      "caption": "Decision table for the current attempt",
+      "columns": [
+        "Decision point",
+        "Evidence to check",
+        "Continue when",
+        "Stop when"
+      ],
+      "rows": [
+        [
+          "Opening evidence",
+          "calendar history, completed-work evidence, workload constraints, baseline behavior, and a clearly defined result",
+          "source, date, and scope are recorded",
+          "a controlling fact is missing"
+        ],
+        [
+          "Small test",
+          "one week or one deliberately bounded work cycle",
+          "the test represents the difficult condition",
+          "a system that adds tracking but not progress, depends on ideal motivation, or hides overloaded commitments"
+        ],
+        [
+          "Owner",
+          "the person who can change the commitment or environment",
+          "one person can stop or escalate the work",
+          "ownership is assumed but not named"
+        ],
+        [
+          "Completion record",
+          "cue, action, duration, completion evidence, interruption, result, and one design adjustment",
+          "the next reviewer can repeat the decision",
+          "the result depends on memory"
+        ]
+      ]
+    },
+    "sourceIds": [
+      "editorial-36860d8ac77bbd",
+      "editorial-c0a19ac0112123"
+    ],
+    "takeaway": "Most experiment review check: change one variable before the next test failures begin before the visible work starts: the wrong constraint is assumed, the real environment is not measured, or nobody defines what would trigger a stop. A useful productivity system converts an important result into a small observable behavior that survives a normal week."
+  },
+  {
+    "title": "Weekly Progress Check: Compare the Plan With What Actually Happened",
+    "seoTitle": "Weekly Progress Check: Compare the Plan With What Actually",
+    "slug": "weekly-progress-check-compare-the-plan-with-what-actually-happened",
+    "publishDate": "2026-11-20",
+    "publishAt": "2026-11-20T09:00:00-05:00",
+    "category": "Productivity",
+    "image": "/images/weekly-progress-check-compare-the-plan-with-what-actually-happened.svg",
+    "imageAlt": "Weekly Progress Check: Compare the Plan With What Actually Happened topic field map",
+    "excerpt": "Practical guidance for weekly progress check compare the plan with what actually happened: evidence checks and a reusable review process.",
+    "keywords": [
+      "weekly progress check compare the plan with what actually happened"
+    ],
+    "sections": [
+      {
+        "heading": "Start here",
+        "body": [
+          {
+            "text": "The difficult part of weekly progress check: compare the plan with what actually happened is rarely knowing that action is required. It is deciding what to verify first, what to test, and what evidence is strong enough to continue. A useful productivity system converts an important result into a small observable behavior that survives a normal week.",
+            "sourceIds": []
+          },
+          {
+            "text": "Use this guide when a concrete weekly progress check: compare the plan with what actually happened decision is already on the table. It focuses on the sequence, evidence, and recovery path—not on claiming that one answer fits every material, person, location, organization, or appetite.",
+            "sourceIds": []
+          }
+        ]
+      },
+      {
+        "heading": "At a glance: six checkpoints for weekly progress check: compare the plan with what actually happened",
+        "body": [
+          {
+            "text": "1. Define three observable outcomes. 2. Use recent evidence to estimate effort. 3. Protect focused work on the calendar. 4. Assign communication and interruption rules. 5. Capture completion evidence. 6. Review the week and change one design variable.",
+            "sourceIds": []
+          },
+          {
+            "text": "Read the list once before acting. Mark the checkpoint with the weakest evidence. That is where the plan needs attention; later refinement cannot rescue a decision built on an unresolved early constraint.",
+            "sourceIds": []
+          }
+        ]
+      },
+      {
+        "heading": "Define the result and the stop rule",
+        "body": [
+          {
+            "text": "Describe the result in observable terms. Include the person, object, or business process affected; the real environment; the acceptable range; and the point at which the work must stop. For weekly progress check: compare the plan with what actually happened, an unacceptable outcome includes a system that adds tracking but not progress, depends on ideal motivation, or hides overloaded commitments.",
+            "sourceIds": []
+          },
+          {
+            "text": "Separate hard constraints from preferences. A hard constraint can disqualify the method even when it is faster or cheaper. Write assumptions as assumptions, attach an owner, and give high-consequence unknowns a deadline for resolution.",
+            "sourceIds": []
+          }
+        ]
+      },
+      {
+        "heading": "Prepare with evidence that can change the decision",
+        "body": [
+          {
+            "text": "Walk through the actual setting and gather calendar history, completed-work evidence, workload constraints, baseline behavior, and a clearly defined result. Do not substitute a product page, generic summary, or remembered dimension for something you can observe directly. Photograph or note the condition that is easiest to misremember.",
+            "sourceIds": []
+          },
+          {
+            "text": "Set up the workspace and communication path before the demanding step. Define three observable outcomes; then confirm that use recent evidence to estimate effort. Make the stop authority explicit. The person who notices a problem should not need to negotiate permission while the exposure or failure is growing.",
+            "sourceIds": []
+          }
+        ]
+      },
+      {
+        "heading": "The complete walkthrough",
+        "body": [
+          {
+            "text": "1. Define three observable outcomes.",
+            "sourceIds": []
+          },
+          {
+            "text": "Practice this step on one week or one deliberately bounded work cycle: define three observable outcomes. Change one variable, keep the other conditions stable, and inspect the result before expanding the scope. Keep the trial representative of the hardest normal condition; an easy demonstration does not validate the full workflow.",
+            "sourceIds": []
+          },
+          {
+            "text": "Gate check: before moving to “use recent evidence to estimate effort,” write one sentence describing what passed, what did not, and who owns the unresolved item.",
+            "sourceIds": []
+          },
+          {
+            "text": "2. Use recent evidence to estimate effort.",
+            "sourceIds": []
+          },
+          {
+            "text": "For this checkpoint, use recent evidence to estimate effort. Observe the real condition rather than the ideal one. A practical record includes cue, action, duration, completion evidence, interruption, result, and one design adjustment. If one of those details is unavailable, note the consequence of guessing before continuing.",
+            "sourceIds": []
+          },
+          {
+            "text": "Gate check: before moving to “protect focused work on the calendar,” write one sentence describing what passed, what did not, and who owns the unresolved item.",
+            "sourceIds": []
+          },
+          {
+            "text": "3. Protect focused work on the calendar.",
+            "sourceIds": []
+          },
+          {
+            "text": "Document the starting condition before you protect focused work on the calendar. Without a baseline, the team may notice change but cannot judge whether it is acceptable. The baseline for weekly progress check: compare the plan with what actually happened should be brief, observable, and saved with cue, action, duration, completion evidence, interruption, result, and one design adjustment.",
+            "sourceIds": []
+          },
+          {
+            "text": "Gate check: before moving to “assign communication and interruption rules,” write one sentence describing what passed, what did not, and who owns the unresolved item.",
+            "sourceIds": []
+          },
+          {
+            "text": "4. Assign communication and interruption rules.",
+            "sourceIds": []
+          },
+          {
+            "text": "Treat this as the handoff checkpoint: assign communication and interruption rules. The person receiving the work should be able to state the result, the remaining risk, and the next review date. If the handoff requires hidden context, the weekly progress check: compare the plan with what actually happened instruction is not finished.",
+            "sourceIds": []
+          },
+          {
+            "text": "Gate check: before moving to “capture completion evidence,” write one sentence describing what passed, what did not, and who owns the unresolved item.",
+            "sourceIds": []
+          },
+          {
+            "text": "5. Capture completion evidence.",
+            "sourceIds": []
+          },
+          {
+            "text": "Before performing this step, say the plan aloud: capture completion evidence. Name the expected change, the maximum exposure or effort, and the stop signal. This short briefing matters because weekly progress check: compare the plan with what actually happened can drift when people improvise without noticing that the original conditions changed.",
+            "sourceIds": []
+          },
+          {
+            "text": "Gate check: before moving to “review the week and change one design variable,” write one sentence describing what passed, what did not, and who owns the unresolved item.",
+            "sourceIds": []
+          },
+          {
+            "text": "6. Review the week and change one design variable.",
+            "sourceIds": []
+          },
+          {
+            "text": "Make “review the week and change one design variable” a pass/fail gate. State the acceptable range, then compare it with calendar history, completed-work evidence, workload constraints, baseline behavior, and a clearly defined result. Do not average a failed constraint against convenience. The right response to a conflict is to pause weekly progress check: compare the plan with what actually happened, resolve the source of truth, and document the decision.",
+            "sourceIds": []
+          },
+          {
+            "text": "Gate check: before moving to “schedule the next inspection or review,” write one sentence describing what passed, what did not, and who owns the unresolved item.",
+            "sourceIds": []
+          }
+        ]
+      },
+      {
+        "heading": "Run one representative small test",
+        "body": [
+          {
+            "text": "The first implementation should be one week or one deliberately bounded work cycle. Make it realistic enough to expose the hard condition but limited enough to reverse. Record cue, action, duration, completion evidence, interruption, result, and one design adjustment so the result can guide the next attempt.",
+            "sourceIds": []
+          },
+          {
+            "text": "Keep the test honest. Do not add help, favorable conditions, or expert intervention that will be absent during normal use. If the difficult case cannot be tested responsibly, escalate it to the qualified person or authority who can evaluate it.",
+            "sourceIds": []
+          }
+        ]
+      },
+      {
+        "heading": "Five mistakes that weaken a weekly progress check: compare the plan with what actually happened plan",
+        "body": [
+          {
+            "text": "- Choosing a tool, product, setting, contract form, or template before the weekly progress check: compare the plan with what actually happened requirement is defined. - Testing only the easiest condition and assuming the result represents normal weekly progress check: compare the plan with what actually happened use. - Changing several variables together, which hides the cause of success or failure. - Continuing after a system that adds tracking but not progress, depends on ideal motivation, or hides overloaded commitments because time or money has already been invested. - Finishing the visible task without recording cue, action, duration, completion evidence, interruption, result, and one design adjustment.",
+            "sourceIds": []
+          },
+          {
+            "text": "When a mistake appears, stabilize first. Protect the person, material, rights, equipment, food, environment, or client experience involved. Return to the first checkpoint contradicted by the evidence, revise one variable, and create a new stop rule before trying again.",
+            "sourceIds": []
+          }
+        ]
+      },
+      {
+        "heading": "Safety, permission, and professional boundaries",
+        "body": [
+          {
+            "text": "This is an implementation framework, not medical or mental-health treatment. Reduce the workload when the system creates sustained distress, and seek qualified support when health or disability affects execution.",
+            "sourceIds": []
+          },
+          {
+            "text": "Authoritative starting points:",
+            "sourceIds": []
+          },
+          {
+            "text": "- CDC shared-goals worksheet - NIH behavior-change overview",
+            "sourceIds": [
+              "editorial-36860d8ac77bbd",
+              "editorial-c0a19ac0112123"
+            ]
+          },
+          {
+            "text": "Confirm that a source applies to the exact model, jurisdiction, land manager, product category, transaction, clinical situation, or activity. Save the access date and pair general guidance with current manufacturer instructions or individualized professional advice when appropriate.",
+            "sourceIds": []
+          }
+        ]
+      },
+      {
+        "heading": "Review the result and make it reusable",
+        "body": [
+          {
+            "text": "At the review, ask three questions: What changed? What remained uncertain? Did a system that adds tracking but not progress, depends on ideal motivation, or hides overloaded commitments occur or nearly occur? Assign one owner and date to every follow-up.",
+            "sourceIds": []
+          },
+          {
+            "text": "Turn the final note into a short checklist for the next person. Include the six checkpoints, the approved range, a photograph or example where useful, the stop rule, and the escalation contact. A workflow is not delegated until another person can recognize both a good result and a reason to stop.",
+            "sourceIds": []
+          }
+        ]
+      },
+      {
+        "heading": "Your next 20 minutes",
+        "body": [
+          {
+            "text": "Write the desired result and the unacceptable outcome. Complete checkpoint one using a current source or direct observation. Then prepare one week or one deliberately bounded work cycle. If the critical evidence is missing, use the time to send one precise question instead of improvising.",
+            "sourceIds": []
+          },
+          {
+            "text": "The goal of this short session is not to finish weekly progress check: compare the plan with what actually happened. It is to reach the first defensible action with the stop rule already in place.",
+            "sourceIds": []
+          }
+        ]
+      },
+      {
+        "heading": "Related practical guides",
+        "body": [
+          {
+            "text": "- 14-day productivity experiment - weekly review template - results resource library",
+            "sourceIds": []
+          }
+        ]
+      },
+      {
+        "heading": "FAQ",
+        "body": [
+          {
+            "text": "What should be verified first?.",
+            "sourceIds": []
+          },
+          {
+            "text": "Verify the fact that could disqualify the entire approach. In this workflow that usually means define three observable outcomes, followed by a check that you can use recent evidence to estimate effort under real conditions.",
+            "sourceIds": []
+          },
+          {
+            "text": "How detailed should the written plan be?.",
+            "sourceIds": []
+          },
+          {
+            "text": "Detailed enough that another capable person can perform the next checkpoint and recognize a system that adds tracking but not progress, depends on ideal motivation, or hides overloaded commitments. For most situations, one page plus the controlling sources and cue, action, duration, completion evidence, interruption, result, and one design adjustment is more useful than a long narrative.",
+            "sourceIds": []
+          },
+          {
+            "text": "When is a small test not appropriate?.",
+            "sourceIds": []
+          },
+          {
+            "text": "Skip informal testing when a recall, emergency, legal restriction, clinical concern, structural question, food-safety uncertainty, unknown hazardous material, or manufacturer prohibition requires an authoritative response first.",
+            "sourceIds": []
+          },
+          {
+            "text": "What evidence should be saved afterward?.",
+            "sourceIds": []
+          },
+          {
+            "text": "Save cue, action, duration, completion evidence, interruption, result, and one design adjustment. Add the source date, the person who approved the result, and the date or trigger for the next review.",
+            "sourceIds": []
+          },
+          {
+            "text": "What if the first attempt fails?.",
+            "sourceIds": []
+          },
+          {
+            "text": "Stop, protect the affected people and property, and preserve the evidence. Identify the earliest failed checkpoint, change one variable, and decide whether a second bounded test or qualified professional review is the responsible next step.",
+            "sourceIds": []
+          }
+        ]
+      }
+    ],
+    "table": {
+      "caption": "Decision table for the current attempt",
+      "columns": [
+        "Decision point",
+        "Evidence to check",
+        "Continue when",
+        "Stop when"
+      ],
+      "rows": [
+        [
+          "Opening evidence",
+          "calendar history, completed-work evidence, workload constraints, baseline behavior, and a clearly defined result",
+          "source, date, and scope are recorded",
+          "a controlling fact is missing"
+        ],
+        [
+          "Small test",
+          "one week or one deliberately bounded work cycle",
+          "the test represents the difficult condition",
+          "a system that adds tracking but not progress, depends on ideal motivation, or hides overloaded commitments"
+        ],
+        [
+          "Owner",
+          "the person who can change the commitment or environment",
+          "one person can stop or escalate the work",
+          "ownership is assumed but not named"
+        ],
+        [
+          "Completion record",
+          "cue, action, duration, completion evidence, interruption, result, and one design adjustment",
+          "the next reviewer can repeat the decision",
+          "the result depends on memory"
+        ]
+      ]
+    },
+    "sourceIds": [
+      "editorial-36860d8ac77bbd",
+      "editorial-c0a19ac0112123"
+    ],
+    "takeaway": "The difficult part of weekly progress check: compare the plan with what actually happened is rarely knowing that action is required. It is deciding what to verify first, what to test, and what evidence is strong enough to continue. A useful productivity system converts an important result into a small observable behavior that survives a normal week."
+  },
+  {
+    "title": "Decision Log Check: Capture Why the Next Step Was Chosen",
+    "seoTitle": "Decision Log Check: Capture Why the Next Step Was Chosen",
+    "slug": "decision-log-check-capture-why-the-next-step-was-chosen",
+    "publishDate": "2026-11-23",
+    "publishAt": "2026-11-23T09:00:00-05:00",
+    "category": "Productivity",
+    "image": "/images/decision-log-check-capture-why-the-next-step-was-chosen.svg",
+    "imageAlt": "Decision Log Check: Capture Why the Next Step Was Chosen topic field map",
+    "excerpt": "Use a practical six-step decision log check capture why the next step was chosen workflow with evidence checks, cautions, and a reusable review checklist.",
+    "keywords": [
+      "decision log check capture why the next step was chosen"
+    ],
+    "sections": [
+      {
+        "heading": "Start here",
+        "body": [
+          {
+            "text": "A durable decision log check: capture why the next step was chosen workflow makes uncertainty visible. It gives the person doing the work a sequence, a stopping rule, and a record that can be reviewed later. A useful productivity system converts an important result into a small observable behavior that survives a normal week.",
+            "sourceIds": []
+          },
+          {
+            "text": "Use this guide when a concrete decision log check: capture why the next step was chosen decision is already on the table. It focuses on the sequence, evidence, and recovery path—not on claiming that one answer fits every material, person, location, organization, or appetite.",
+            "sourceIds": []
+          }
+        ]
+      },
+      {
+        "heading": "At a glance: six checkpoints for decision log check: capture why the next step was chosen",
+        "body": [
+          {
+            "text": "1. Define three observable outcomes. 2. Use recent evidence to estimate effort. 3. Protect focused work on the calendar. 4. Assign communication and interruption rules. 5. Capture completion evidence. 6. Review the week and change one design variable.",
+            "sourceIds": []
+          },
+          {
+            "text": "Read the list once before acting. Mark the checkpoint with the weakest evidence. That is where the plan needs attention; later refinement cannot rescue a decision built on an unresolved early constraint.",
+            "sourceIds": []
+          }
+        ]
+      },
+      {
+        "heading": "Define the result and the stop rule",
+        "body": [
+          {
+            "text": "Describe the result in observable terms. Include the person, object, or business process affected; the real environment; the acceptable range; and the point at which the work must stop. For decision log check: capture why the next step was chosen, an unacceptable outcome includes a system that adds tracking but not progress, depends on ideal motivation, or hides overloaded commitments.",
+            "sourceIds": []
+          },
+          {
+            "text": "Separate hard constraints from preferences. A hard constraint can disqualify the method even when it is faster or cheaper. Write assumptions as assumptions, attach an owner, and give high-consequence unknowns a deadline for resolution.",
+            "sourceIds": []
+          }
+        ]
+      },
+      {
+        "heading": "Prepare with evidence that can change the decision",
+        "body": [
+          {
+            "text": "Before scheduling the work, assemble calendar history, completed-work evidence, workload constraints, baseline behavior, and a clearly defined result. Ask which single missing fact could reverse the decision. Resolve that item first; lower-impact questions can remain in the test log.",
+            "sourceIds": []
+          },
+          {
+            "text": "Set up the workspace and communication path before the demanding step. Define three observable outcomes; then confirm that use recent evidence to estimate effort. Make the stop authority explicit. The person who notices a problem should not need to negotiate permission while the exposure or failure is growing.",
+            "sourceIds": []
+          }
+        ]
+      },
+      {
+        "heading": "The complete walkthrough",
+        "body": [
+          {
+            "text": "1. Define three observable outcomes.",
+            "sourceIds": []
+          },
+          {
+            "text": "Practice this step on one week or one deliberately bounded work cycle: define three observable outcomes. Change one variable, keep the other conditions stable, and inspect the result before expanding the scope. Keep the trial representative of the hardest normal condition; an easy demonstration does not validate the full workflow.",
+            "sourceIds": []
+          },
+          {
+            "text": "Gate check: before moving to “use recent evidence to estimate effort,” write one sentence describing what passed, what did not, and who owns the unresolved item.",
+            "sourceIds": []
+          },
+          {
+            "text": "2. Use recent evidence to estimate effort.",
+            "sourceIds": []
+          },
+          {
+            "text": "Make “use recent evidence to estimate effort” a pass/fail gate. State the acceptable range, then compare it with calendar history, completed-work evidence, workload constraints, baseline behavior, and a clearly defined result. Do not average a failed constraint against convenience. The right response to a conflict is to pause decision log check: capture why the next step was chosen, resolve the source of truth, and document the decision.",
+            "sourceIds": []
+          },
+          {
+            "text": "Gate check: before moving to “protect focused work on the calendar,” write one sentence describing what passed, what did not, and who owns the unresolved item.",
+            "sourceIds": []
+          },
+          {
+            "text": "3. Protect focused work on the calendar.",
+            "sourceIds": []
+          },
+          {
+            "text": "Ask what would make this action wrong in the present setting, then protect focused work on the calendar. Compare the answer with calendar history, completed-work evidence, workload constraints, baseline behavior, and a clearly defined result. This counter-check is especially valuable when a familiar method is being reused with a different person, product, location, or workload.",
+            "sourceIds": []
+          },
+          {
+            "text": "Gate check: before moving to “assign communication and interruption rules,” write one sentence describing what passed, what did not, and who owns the unresolved item.",
+            "sourceIds": []
+          },
+          {
+            "text": "4. Assign communication and interruption rules.",
+            "sourceIds": []
+          },
+          {
+            "text": "Close the loop after you assign communication and interruption rules. Record the actual outcome, including friction and near misses, rather than only marking the task complete. Use that result to revise the next decision log check: capture why the next step was chosen attempt while the details are still fresh.",
+            "sourceIds": []
+          },
+          {
+            "text": "Gate check: before moving to “capture completion evidence,” write one sentence describing what passed, what did not, and who owns the unresolved item.",
+            "sourceIds": []
+          },
+          {
+            "text": "5. Capture completion evidence.",
+            "sourceIds": []
+          },
+          {
+            "text": "Practice this step on one week or one deliberately bounded work cycle: capture completion evidence. Change one variable, keep the other conditions stable, and inspect the result before expanding the scope. Keep the trial representative of the hardest normal condition; an easy demonstration does not validate the full workflow.",
+            "sourceIds": []
+          },
+          {
+            "text": "Gate check: before moving to “review the week and change one design variable,” write one sentence describing what passed, what did not, and who owns the unresolved item.",
+            "sourceIds": []
+          },
+          {
+            "text": "6. Review the week and change one design variable.",
+            "sourceIds": []
+          },
+          {
+            "text": "Do not treat “review the week and change one design variable” as a box to tick. Explain what the step protects and what evidence will prove it worked. Capture cue, action, duration, completion evidence, interruption, result, and one design adjustment, then compare the observation with the stated result. Continue only when the evidence supports the next checkpoint.",
+            "sourceIds": []
+          },
+          {
+            "text": "Gate check: before moving to “schedule the next inspection or review,” write one sentence describing what passed, what did not, and who owns the unresolved item.",
+            "sourceIds": []
+          }
+        ]
+      },
+      {
+        "heading": "Run one representative small test",
+        "body": [
+          {
+            "text": "Do not launch the whole plan as the experiment. Trial one week or one deliberately bounded work cycle, observe without coaching the result toward success, and stop when a system that adds tracking but not progress, depends on ideal motivation, or hides overloaded commitments is present. A bounded failure is useful evidence.",
+            "sourceIds": []
+          },
+          {
+            "text": "Keep the test honest. Do not add help, favorable conditions, or expert intervention that will be absent during normal use. If the difficult case cannot be tested responsibly, escalate it to the qualified person or authority who can evaluate it.",
+            "sourceIds": []
+          }
+        ]
+      },
+      {
+        "heading": "Five mistakes that weaken a decision log check: capture why the next step was chosen plan",
+        "body": [
+          {
+            "text": "- Choosing a tool, product, setting, contract form, or template before the decision log check: capture why the next step was chosen requirement is defined. - Testing only the easiest condition and assuming the result represents normal decision log check: capture why the next step was chosen use. - Changing several variables together, which hides the cause of success or failure. - Continuing after a system that adds tracking but not progress, depends on ideal motivation, or hides overloaded commitments because time or money has already been invested. - Finishing the visible task without recording cue, action, duration, completion evidence, interruption, result, and one design adjustment.",
+            "sourceIds": []
+          },
+          {
+            "text": "When a mistake appears, stabilize first. Protect the person, material, rights, equipment, food, environment, or client experience involved. Return to the first checkpoint contradicted by the evidence, revise one variable, and create a new stop rule before trying again.",
+            "sourceIds": []
+          }
+        ]
+      },
+      {
+        "heading": "Safety, permission, and professional boundaries",
+        "body": [
+          {
+            "text": "This is an implementation framework, not medical or mental-health treatment. Reduce the workload when the system creates sustained distress, and seek qualified support when health or disability affects execution.",
+            "sourceIds": []
+          },
+          {
+            "text": "Authoritative starting points:",
+            "sourceIds": []
+          },
+          {
+            "text": "- CDC shared-goals worksheet - NIH behavior-change overview",
+            "sourceIds": [
+              "editorial-36860d8ac77bbd",
+              "editorial-c0a19ac0112123"
+            ]
+          },
+          {
+            "text": "Confirm that a source applies to the exact model, jurisdiction, land manager, product category, transaction, clinical situation, or activity. Save the access date and pair general guidance with current manufacturer instructions or individualized professional advice when appropriate.",
+            "sourceIds": []
+          }
+        ]
+      },
+      {
+        "heading": "Review the result and make it reusable",
+        "body": [
+          {
+            "text": "Close the work with a short audit owned by the person who can change the commitment or environment. Preserve cue, action, duration, completion evidence, interruption, result, and one design adjustment. That record is the starting point for maintenance, training, renewal, or the next controlled test.",
+            "sourceIds": []
+          },
+          {
+            "text": "Turn the final note into a short checklist for the next person. Include the six checkpoints, the approved range, a photograph or example where useful, the stop rule, and the escalation contact. A workflow is not delegated until another person can recognize both a good result and a reason to stop.",
+            "sourceIds": []
+          }
+        ]
+      },
+      {
+        "heading": "Your next 20 minutes",
+        "body": [
+          {
+            "text": "Write the desired result and the unacceptable outcome. Complete checkpoint one using a current source or direct observation. Then prepare one week or one deliberately bounded work cycle. If the critical evidence is missing, use the time to send one precise question instead of improvising.",
+            "sourceIds": []
+          },
+          {
+            "text": "The goal of this short session is not to finish decision log check: capture why the next step was chosen. It is to reach the first defensible action with the stop rule already in place.",
+            "sourceIds": []
+          }
+        ]
+      },
+      {
+        "heading": "Related practical guides",
+        "body": [
+          {
+            "text": "- 14-day productivity experiment - weekly review template - results resource library",
+            "sourceIds": []
+          }
+        ]
+      },
+      {
+        "heading": "FAQ",
+        "body": [
+          {
+            "text": "What should be verified first?.",
+            "sourceIds": []
+          },
+          {
+            "text": "Verify the fact that could disqualify the entire approach. In this workflow that usually means define three observable outcomes, followed by a check that you can use recent evidence to estimate effort under real conditions.",
+            "sourceIds": []
+          },
+          {
+            "text": "How detailed should the written plan be?.",
+            "sourceIds": []
+          },
+          {
+            "text": "Detailed enough that another capable person can perform the next checkpoint and recognize a system that adds tracking but not progress, depends on ideal motivation, or hides overloaded commitments. For most situations, one page plus the controlling sources and cue, action, duration, completion evidence, interruption, result, and one design adjustment is more useful than a long narrative.",
+            "sourceIds": []
+          },
+          {
+            "text": "When is a small test not appropriate?.",
+            "sourceIds": []
+          },
+          {
+            "text": "Skip informal testing when a recall, emergency, legal restriction, clinical concern, structural question, food-safety uncertainty, unknown hazardous material, or manufacturer prohibition requires an authoritative response first.",
+            "sourceIds": []
+          },
+          {
+            "text": "What evidence should be saved afterward?.",
+            "sourceIds": []
+          },
+          {
+            "text": "Save cue, action, duration, completion evidence, interruption, result, and one design adjustment. Add the source date, the person who approved the result, and the date or trigger for the next review.",
+            "sourceIds": []
+          },
+          {
+            "text": "What if the first attempt fails?.",
+            "sourceIds": []
+          },
+          {
+            "text": "Stop, protect the affected people and property, and preserve the evidence. Identify the earliest failed checkpoint, change one variable, and decide whether a second bounded test or qualified professional review is the responsible next step.",
+            "sourceIds": []
+          }
+        ]
+      }
+    ],
+    "table": {
+      "caption": "Decision table for the current attempt",
+      "columns": [
+        "Decision point",
+        "Evidence to check",
+        "Continue when",
+        "Stop when"
+      ],
+      "rows": [
+        [
+          "Opening evidence",
+          "calendar history, completed-work evidence, workload constraints, baseline behavior, and a clearly defined result",
+          "source, date, and scope are recorded",
+          "a controlling fact is missing"
+        ],
+        [
+          "Small test",
+          "one week or one deliberately bounded work cycle",
+          "the test represents the difficult condition",
+          "a system that adds tracking but not progress, depends on ideal motivation, or hides overloaded commitments"
+        ],
+        [
+          "Owner",
+          "the person who can change the commitment or environment",
+          "one person can stop or escalate the work",
+          "ownership is assumed but not named"
+        ],
+        [
+          "Completion record",
+          "cue, action, duration, completion evidence, interruption, result, and one design adjustment",
+          "the next reviewer can repeat the decision",
+          "the result depends on memory"
+        ]
+      ]
+    },
+    "sourceIds": [
+      "editorial-36860d8ac77bbd",
+      "editorial-c0a19ac0112123"
+    ],
+    "takeaway": "A durable decision log check: capture why the next step was chosen workflow makes uncertainty visible. It gives the person doing the work a sequence, a stopping rule, and a record that can be reviewed later. A useful productivity system converts an important result into a small observable behavior that survives a normal week."
+  },
+  {
+    "title": "Weekly Decision Check: Name the Evidence You Still Need",
+    "seoTitle": "Weekly Decision Check: Name the Evidence You Still Need",
+    "slug": "weekly-decision-check-name-the-evidence-you-still-need",
+    "publishDate": "2026-11-24",
+    "publishAt": "2026-11-24T09:00:00-05:00",
+    "category": "Productivity",
+    "image": "/images/weekly-decision-check-name-the-evidence-you-still-need.svg",
+    "imageAlt": "Weekly Decision Check: Name the Evidence You Still Need topic field map",
+    "excerpt": "Use a practical six-step weekly decision check name the evidence you still need workflow with evidence checks, cautions, and a reusable review checklist.",
+    "keywords": [
+      "weekly decision check name the evidence you still need"
+    ],
+    "sections": [
+      {
+        "heading": "Start here",
+        "body": [
+          {
+            "text": "A durable weekly decision check: name the evidence you still need workflow makes uncertainty visible. It gives the person doing the work a sequence, a stopping rule, and a record that can be reviewed later. A useful productivity system converts an important result into a small observable behavior that survives a normal week.",
+            "sourceIds": []
+          },
+          {
+            "text": "Use this guide when a concrete weekly decision check: name the evidence you still need decision is already on the table. It focuses on the sequence, evidence, and recovery path—not on claiming that one answer fits every material, person, location, organization, or appetite.",
+            "sourceIds": []
+          }
+        ]
+      },
+      {
+        "heading": "At a glance: six checkpoints for weekly decision check: name the evidence you still need",
+        "body": [
+          {
+            "text": "1. Define three observable outcomes. 2. Use recent evidence to estimate effort. 3. Protect focused work on the calendar. 4. Assign communication and interruption rules. 5. Capture completion evidence. 6. Review the week and change one design variable.",
+            "sourceIds": []
+          },
+          {
+            "text": "Read the list once before acting. Mark the checkpoint with the weakest evidence. That is where the plan needs attention; later refinement cannot rescue a decision built on an unresolved early constraint.",
+            "sourceIds": []
+          }
+        ]
+      },
+      {
+        "heading": "Define the result and the stop rule",
+        "body": [
+          {
+            "text": "Describe the result in observable terms. Include the person, object, or business process affected; the real environment; the acceptable range; and the point at which the work must stop. For weekly decision check: name the evidence you still need, an unacceptable outcome includes a system that adds tracking but not progress, depends on ideal motivation, or hides overloaded commitments.",
+            "sourceIds": []
+          },
+          {
+            "text": "Separate hard constraints from preferences. A hard constraint can disqualify the method even when it is faster or cheaper. Write assumptions as assumptions, attach an owner, and give high-consequence unknowns a deadline for resolution.",
+            "sourceIds": []
+          }
+        ]
+      },
+      {
+        "heading": "Prepare with evidence that can change the decision",
+        "body": [
+          {
+            "text": "Before scheduling the work, assemble calendar history, completed-work evidence, workload constraints, baseline behavior, and a clearly defined result. Ask which single missing fact could reverse the decision. Resolve that item first; lower-impact questions can remain in the test log.",
+            "sourceIds": []
+          },
+          {
+            "text": "Set up the workspace and communication path before the demanding step. Define three observable outcomes; then confirm that use recent evidence to estimate effort. Make the stop authority explicit. The person who notices a problem should not need to negotiate permission while the exposure or failure is growing.",
+            "sourceIds": []
+          }
+        ]
+      },
+      {
+        "heading": "The complete walkthrough",
+        "body": [
+          {
+            "text": "1. Define three observable outcomes.",
+            "sourceIds": []
+          },
+          {
+            "text": "Use a two-person check when the consequence is meaningful. One person should define three observable outcomes; the other should compare the action with calendar history, completed-work evidence, workload constraints, baseline behavior, and a clearly defined result. The second check is not bureaucracy—it catches a mismatch while the work is still reversible.",
+            "sourceIds": []
+          },
+          {
+            "text": "Gate check: before moving to “use recent evidence to estimate effort,” write one sentence describing what passed, what did not, and who owns the unresolved item.",
+            "sourceIds": []
+          },
+          {
+            "text": "2. Use recent evidence to estimate effort.",
+            "sourceIds": []
+          },
+          {
+            "text": "Document the starting condition before you use recent evidence to estimate effort. Without a baseline, the team may notice change but cannot judge whether it is acceptable. The baseline for weekly decision check: name the evidence you still need should be brief, observable, and saved with cue, action, duration, completion evidence, interruption, result, and one design adjustment.",
+            "sourceIds": []
+          },
+          {
+            "text": "Gate check: before moving to “protect focused work on the calendar,” write one sentence describing what passed, what did not, and who owns the unresolved item.",
+            "sourceIds": []
+          },
+          {
+            "text": "3. Protect focused work on the calendar.",
+            "sourceIds": []
+          },
+          {
+            "text": "Treat this as the handoff checkpoint: protect focused work on the calendar. The person receiving the work should be able to state the result, the remaining risk, and the next review date. If the handoff requires hidden context, the weekly decision check: name the evidence you still need instruction is not finished.",
+            "sourceIds": []
+          },
+          {
+            "text": "Gate check: before moving to “assign communication and interruption rules,” write one sentence describing what passed, what did not, and who owns the unresolved item.",
+            "sourceIds": []
+          },
+          {
+            "text": "4. Assign communication and interruption rules.",
+            "sourceIds": []
+          },
+          {
+            "text": "Assign this action explicitly to the person who can change the commitment or environment: assign communication and interruption rules. Give that person authority to stop the sequence when a system that adds tracking but not progress, depends on ideal motivation, or hides overloaded commitments appears. Clear ownership prevents a common failure in weekly decision check: name the evidence you still need: everyone sees the concern, but each person assumes someone else will make the decision.",
+            "sourceIds": []
+          },
+          {
+            "text": "Gate check: before moving to “capture completion evidence,” write one sentence describing what passed, what did not, and who owns the unresolved item.",
+            "sourceIds": []
+          },
+          {
+            "text": "5. Capture completion evidence.",
+            "sourceIds": []
+          },
+          {
+            "text": "Before performing this step, say the plan aloud: capture completion evidence. Name the expected change, the maximum exposure or effort, and the stop signal. This short briefing matters because weekly decision check: name the evidence you still need can drift when people improvise without noticing that the original conditions changed.",
+            "sourceIds": []
+          },
+          {
+            "text": "Gate check: before moving to “review the week and change one design variable,” write one sentence describing what passed, what did not, and who owns the unresolved item.",
+            "sourceIds": []
+          },
+          {
+            "text": "6. Review the week and change one design variable.",
+            "sourceIds": []
+          },
+          {
+            "text": "Assign this action explicitly to the person who can change the commitment or environment: review the week and change one design variable. Give that person authority to stop the sequence when a system that adds tracking but not progress, depends on ideal motivation, or hides overloaded commitments appears. Clear ownership prevents a common failure in weekly decision check: name the evidence you still need: everyone sees the concern, but each person assumes someone else will make the decision.",
+            "sourceIds": []
+          },
+          {
+            "text": "Gate check: before moving to “schedule the next inspection or review,” write one sentence describing what passed, what did not, and who owns the unresolved item.",
+            "sourceIds": []
+          }
+        ]
+      },
+      {
+        "heading": "Run one representative small test",
+        "body": [
+          {
+            "text": "Do not launch the whole plan as the experiment. Trial one week or one deliberately bounded work cycle, observe without coaching the result toward success, and stop when a system that adds tracking but not progress, depends on ideal motivation, or hides overloaded commitments is present. A bounded failure is useful evidence.",
+            "sourceIds": []
+          },
+          {
+            "text": "Keep the test honest. Do not add help, favorable conditions, or expert intervention that will be absent during normal use. If the difficult case cannot be tested responsibly, escalate it to the qualified person or authority who can evaluate it.",
+            "sourceIds": []
+          }
+        ]
+      },
+      {
+        "heading": "Five mistakes that weaken a weekly decision check: name the evidence you still need plan",
+        "body": [
+          {
+            "text": "- Choosing a tool, product, setting, contract form, or template before the weekly decision check: name the evidence you still need requirement is defined. - Testing only the easiest condition and assuming the result represents normal weekly decision check: name the evidence you still need use. - Changing several variables together, which hides the cause of success or failure. - Continuing after a system that adds tracking but not progress, depends on ideal motivation, or hides overloaded commitments because time or money has already been invested. - Finishing the visible task without recording cue, action, duration, completion evidence, interruption, result, and one design adjustment.",
+            "sourceIds": []
+          },
+          {
+            "text": "When a mistake appears, stabilize first. Protect the person, material, rights, equipment, food, environment, or client experience involved. Return to the first checkpoint contradicted by the evidence, revise one variable, and create a new stop rule before trying again.",
+            "sourceIds": []
+          }
+        ]
+      },
+      {
+        "heading": "Safety, permission, and professional boundaries",
+        "body": [
+          {
+            "text": "This is an implementation framework, not medical or mental-health treatment. Reduce the workload when the system creates sustained distress, and seek qualified support when health or disability affects execution.",
+            "sourceIds": []
+          },
+          {
+            "text": "Authoritative starting points:",
+            "sourceIds": []
+          },
+          {
+            "text": "- CDC shared-goals worksheet - NIH behavior-change overview",
+            "sourceIds": [
+              "editorial-36860d8ac77bbd",
+              "editorial-c0a19ac0112123"
+            ]
+          },
+          {
+            "text": "Confirm that a source applies to the exact model, jurisdiction, land manager, product category, transaction, clinical situation, or activity. Save the access date and pair general guidance with current manufacturer instructions or individualized professional advice when appropriate.",
+            "sourceIds": []
+          }
+        ]
+      },
+      {
+        "heading": "Review the result and make it reusable",
+        "body": [
+          {
+            "text": "Close the work with a short audit owned by the person who can change the commitment or environment. Preserve cue, action, duration, completion evidence, interruption, result, and one design adjustment. That record is the starting point for maintenance, training, renewal, or the next controlled test.",
+            "sourceIds": []
+          },
+          {
+            "text": "Turn the final note into a short checklist for the next person. Include the six checkpoints, the approved range, a photograph or example where useful, the stop rule, and the escalation contact. A workflow is not delegated until another person can recognize both a good result and a reason to stop.",
+            "sourceIds": []
+          }
+        ]
+      },
+      {
+        "heading": "Your next 20 minutes",
+        "body": [
+          {
+            "text": "Write the desired result and the unacceptable outcome. Complete checkpoint one using a current source or direct observation. Then prepare one week or one deliberately bounded work cycle. If the critical evidence is missing, use the time to send one precise question instead of improvising.",
+            "sourceIds": []
+          },
+          {
+            "text": "The goal of this short session is not to finish weekly decision check: name the evidence you still need. It is to reach the first defensible action with the stop rule already in place.",
+            "sourceIds": []
+          }
+        ]
+      },
+      {
+        "heading": "Related practical guides",
+        "body": [
+          {
+            "text": "- 14-day productivity experiment - weekly review template - results resource library",
+            "sourceIds": []
+          }
+        ]
+      },
+      {
+        "heading": "FAQ",
+        "body": [
+          {
+            "text": "What should be verified first?.",
+            "sourceIds": []
+          },
+          {
+            "text": "Verify the fact that could disqualify the entire approach. In this workflow that usually means define three observable outcomes, followed by a check that you can use recent evidence to estimate effort under real conditions.",
+            "sourceIds": []
+          },
+          {
+            "text": "How detailed should the written plan be?.",
+            "sourceIds": []
+          },
+          {
+            "text": "Detailed enough that another capable person can perform the next checkpoint and recognize a system that adds tracking but not progress, depends on ideal motivation, or hides overloaded commitments. For most situations, one page plus the controlling sources and cue, action, duration, completion evidence, interruption, result, and one design adjustment is more useful than a long narrative.",
+            "sourceIds": []
+          },
+          {
+            "text": "When is a small test not appropriate?.",
+            "sourceIds": []
+          },
+          {
+            "text": "Skip informal testing when a recall, emergency, legal restriction, clinical concern, structural question, food-safety uncertainty, unknown hazardous material, or manufacturer prohibition requires an authoritative response first.",
+            "sourceIds": []
+          },
+          {
+            "text": "What evidence should be saved afterward?.",
+            "sourceIds": []
+          },
+          {
+            "text": "Save cue, action, duration, completion evidence, interruption, result, and one design adjustment. Add the source date, the person who approved the result, and the date or trigger for the next review.",
+            "sourceIds": []
+          },
+          {
+            "text": "What if the first attempt fails?.",
+            "sourceIds": []
+          },
+          {
+            "text": "Stop, protect the affected people and property, and preserve the evidence. Identify the earliest failed checkpoint, change one variable, and decide whether a second bounded test or qualified professional review is the responsible next step.",
+            "sourceIds": []
+          }
+        ]
+      }
+    ],
+    "table": {
+      "caption": "Decision table for the current attempt",
+      "columns": [
+        "Decision point",
+        "Evidence to check",
+        "Continue when",
+        "Stop when"
+      ],
+      "rows": [
+        [
+          "Opening evidence",
+          "calendar history, completed-work evidence, workload constraints, baseline behavior, and a clearly defined result",
+          "source, date, and scope are recorded",
+          "a controlling fact is missing"
+        ],
+        [
+          "Small test",
+          "one week or one deliberately bounded work cycle",
+          "the test represents the difficult condition",
+          "a system that adds tracking but not progress, depends on ideal motivation, or hides overloaded commitments"
+        ],
+        [
+          "Owner",
+          "the person who can change the commitment or environment",
+          "one person can stop or escalate the work",
+          "ownership is assumed but not named"
+        ],
+        [
+          "Completion record",
+          "cue, action, duration, completion evidence, interruption, result, and one design adjustment",
+          "the next reviewer can repeat the decision",
+          "the result depends on memory"
+        ]
+      ]
+    },
+    "sourceIds": [
+      "editorial-36860d8ac77bbd",
+      "editorial-c0a19ac0112123"
+    ],
+    "takeaway": "A durable weekly decision check: name the evidence you still need workflow makes uncertainty visible. It gives the person doing the work a sequence, a stopping rule, and a record that can be reviewed later. A useful productivity system converts an important result into a small observable behavior that survives a normal week."
   }
 ];
