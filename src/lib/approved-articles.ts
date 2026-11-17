@@ -547,7 +547,7 @@ export const approvedResourceArticles: ResourceArticle[] = [
     "publishAt": "2026-07-28T09:00:00-04:00",
     "category": "Productivity",
     "image": "/images/best-book-for-productivity-overall.svg",
-    "excerpt": "Best Book for Productivity Overall: a practical, evidence-aware guide with implementation steps, decision criteria, cautions, and a reusable checklist for be...",
+    "excerpt": "Choose a productivity book by matching its operating method to your actual constraint, reading habits, implementation capacity, and review cadence.",
     "keywords": [
       "best book for productivity overall"
     ],
@@ -1057,7 +1057,7 @@ export const approvedResourceArticles: ResourceArticle[] = [
     "publishAt": "2026-07-29T09:00:00-04:00",
     "category": "Productivity",
     "image": "/images/5-books-everyone-should-read.svg",
-    "excerpt": "5 Books Everyone Should Read: a practical, evidence-aware guide with implementation steps, decision criteria, cautions, and a reusable checklist for best pro...",
+    "excerpt": "Compare five widely useful books by the behavior each one helps change, the reader it best serves, and the practical experiment to run afterward.",
     "keywords": [
       "5 books everyone should read"
     ],
@@ -1567,7 +1567,7 @@ export const approvedResourceArticles: ResourceArticle[] = [
     "publishAt": "2026-07-30T09:00:00-04:00",
     "category": "Productivity",
     "image": "/images/top-productivity-books-for-entrepreneurs.svg",
-    "excerpt": "Top Productivity Books for Entrepreneurs: a practical, evidence-aware guide with implementation steps, decision criteria, cautions, and a reusable checklist...",
+    "excerpt": "Find productivity books for entrepreneurs by focusing on execution, priorities, attention, systems, and the business problem that needs improvement now.",
     "keywords": [
       "top productivity books for entrepreneurs"
     ],
@@ -2077,7 +2077,7 @@ export const approvedResourceArticles: ResourceArticle[] = [
     "publishAt": "2026-07-31T09:00:00-04:00",
     "category": "Productivity",
     "image": "/images/deep-work-vs-atomic-habits-comparison.svg",
-    "excerpt": "Deep Work vs Atomic Habits Comparison: a practical, evidence-aware guide with implementation steps, decision criteria, cautions, and a reusable checklist for...",
+    "excerpt": "Compare Deep Work and Atomic Habits by their core mechanisms, implementation demands, ideal use cases, and the business behavior you want to change.",
     "keywords": [
       "deep work vs atomic habits comparison"
     ],
@@ -2587,7 +2587,7 @@ export const approvedResourceArticles: ResourceArticle[] = [
     "publishAt": "2026-08-03T09:00:00-04:00",
     "category": "Productivity",
     "image": "/images/productivity-books-that-actually-work.svg",
-    "excerpt": "Productivity Books That Actually Work: a practical, evidence-aware guide with implementation steps, decision criteria, cautions, and a reusable checklist for...",
+    "excerpt": "Evaluate productivity books by whether they produce a usable operating method, observable behavior change, a review rhythm, and measurable follow-through.",
     "keywords": [
       "productivity books that actually work"
     ],
@@ -3097,7 +3097,7 @@ export const approvedResourceArticles: ResourceArticle[] = [
     "publishAt": "2026-08-04T09:00:00-04:00",
     "category": "Productivity",
     "image": "/images/productivity-books-ranked-by-experts-2026.svg",
-    "excerpt": "Productivity Books Ranked by Experts 2026: a practical, evidence-aware guide with implementation steps, decision criteria, cautions, and a reusable checklist...",
+    "excerpt": "Review notable productivity books for 2026 by practical fit, operating method, implementation effort, and the reader problem each one addresses.",
     "keywords": [
       "productivity books ranked by experts 2026"
     ],
@@ -3607,7 +3607,7 @@ export const approvedResourceArticles: ResourceArticle[] = [
     "publishAt": "2026-08-05T09:00:00-04:00",
     "category": "Productivity",
     "image": "/images/legitimate-ways-to-get-paid-to-read-books.svg",
-    "excerpt": "Legitimate Ways to Get Paid to Read Books: a practical, evidence-aware guide with implementation steps, decision criteria, cautions, and a reusable checklist...",
+    "excerpt": "Explore legitimate paid-reading paths such as reviewing, editing, narration, research, summaries, and publishing support, with realistic qualification checks.",
     "keywords": [
       "legitimate ways to get paid to read books"
     ],
@@ -4117,7 +4117,7 @@ export const approvedResourceArticles: ResourceArticle[] = [
     "publishAt": "2026-08-06T09:00:00-04:00",
     "category": "Productivity",
     "image": "/images/how-to-become-a-book-reviewer-for-money.svg",
-    "excerpt": "How to Become a Book Reviewer for Money: a practical, evidence-aware guide with implementation steps, decision criteria, cautions, and a reusable checklist f...",
+    "excerpt": "Build a paid book-reviewing path through sample work, a defined niche, ethical disclosure, client research, clear deliverables, and realistic rates.",
     "keywords": [
       "how to become a book reviewer for money"
     ],
@@ -4627,7 +4627,7 @@ export const approvedResourceArticles: ResourceArticle[] = [
     "publishAt": "2026-08-07T09:00:00-04:00",
     "category": "Productivity",
     "image": "/images/turn-reading-into-a-side-hustle.svg",
-    "excerpt": "Turn Reading into a Side Hustle: a practical, evidence-aware guide with implementation steps, decision criteria, cautions, and a reusable checklist for get p...",
+    "excerpt": "Turn reading skills into a side business by choosing a service, validating demand, creating proof, setting boundaries, and building a repeatable offer.",
     "keywords": [
       "turn reading into a side hustle"
     ],
@@ -5137,7 +5137,7 @@ export const approvedResourceArticles: ResourceArticle[] = [
     "publishAt": "2026-08-10T09:00:00-04:00",
     "category": "Productivity",
     "image": "/images/how-to-set-and-achieve-business-goals.svg",
-    "excerpt": "How to Set and Achieve Business Goals: a practical, evidence-aware guide with implementation steps, decision criteria, cautions, and a reusable checklist for...",
+    "excerpt": "Set business goals by defining an observable outcome, lead measures, ownership, review dates, constraints, and the next action that moves the work.",
     "keywords": [
       "how to set and achieve business goals"
     ],
@@ -7042,7 +7042,7 @@ export const approvedResourceArticles: ResourceArticle[] = [
     "publishAt": "2026-09-10T09:00:00-04:00",
     "category": "Productivity",
     "image": "/images/project-finish-criteria-define-done-before-starting.svg",
-    "excerpt": "Plan execution with a practical six-step workflow, evidence checks, implementation guidance, cautions, and a reusable review checklist.",
+    "excerpt": "Define project finish criteria before work begins so quality, evidence, approvals, handoff, and the meaning of done are visible to everyone.",
     "keywords": [
       "project definition of done"
     ],
@@ -8497,7 +8497,7 @@ export const approvedResourceArticles: ResourceArticle[] = [
     "category": "Productivity",
     "image": "/images/task-handoff-acceptance-criteria-define-what-done-means.svg",
     "imageAlt": "Task Handoff Acceptance Criteria: Define What Done Means topic field map",
-    "excerpt": "Plan team execution with a practical six-step workflow, evidence checks, implementation guidance, cautions, and a reusable review checklist.",
+    "excerpt": "Write task handoff criteria that identify the owner, required evidence, quality threshold, dependencies, due date, and person who accepts completion.",
     "keywords": [
       "task handoff acceptance criteria"
     ],
@@ -8812,7 +8812,7 @@ export const approvedResourceArticles: ResourceArticle[] = [
     "category": "Productivity",
     "image": "/images/project-handoff-acceptance-define-who-can-say-complete.svg",
     "imageAlt": "Project Handoff Acceptance: Define Who Can Say Complete topic field map",
-    "excerpt": "Plan execution with a practical six-step workflow, evidence checks, implementation guidance, cautions, and a reusable review checklist.",
+    "excerpt": "Define project handoff acceptance by naming the approver, required evidence, quality checks, open issues, transfer steps, and completion record.",
     "keywords": [
       "project handoff acceptance"
     ],
@@ -9127,7 +9127,7 @@ export const approvedResourceArticles: ResourceArticle[] = [
     "category": "Productivity",
     "image": "/images/weekly-review-turn-evidence-into-one-better-decision.svg",
     "imageAlt": "Weekly Review: Turn Evidence Into One Better Decision topic field map",
-    "excerpt": "Plan weekly planning with a practical six-step workflow, evidence checks, implementation guidance, cautions, and a reusable review checklist.",
+    "excerpt": "Run a weekly review that compares commitments with evidence, names the most important lesson, and converts it into one better decision.",
     "keywords": [
       "weekly review evidence"
     ],
@@ -9757,7 +9757,7 @@ export const approvedResourceArticles: ResourceArticle[] = [
     "category": "Productivity",
     "image": "/images/meeting-decisions-capture-owner-date-and-evidence.svg",
     "imageAlt": "Meeting Decisions: Capture Owner, Date, and Evidence topic field map",
-    "excerpt": "Plan team execution with a practical six-step workflow, evidence checks, implementation guidance, cautions, and a reusable review checklist.",
+    "excerpt": "Turn meeting discussion into execution by recording each decision, owner, due date, expected evidence, dependencies, and follow-up checkpoint.",
     "keywords": [
       "meeting decision log"
     ],
@@ -10072,7 +10072,7 @@ export const approvedResourceArticles: ResourceArticle[] = [
     "category": "Productivity",
     "image": "/images/workload-triage-decide-what-can-wait.svg",
     "imageAlt": "Workload Triage: Decide What Can Wait topic field map",
-    "excerpt": "Plan prioritization with a practical six-step workflow, evidence checks, implementation guidance, cautions, and a reusable review checklist.",
+    "excerpt": "Triage an overloaded workload by separating urgent constraints from noise, pausing lower-value work, clarifying ownership, and choosing the next outcome.",
     "keywords": [
       "workload triage"
     ],
@@ -11017,7 +11017,7 @@ export const approvedResourceArticles: ResourceArticle[] = [
     "category": "Productivity",
     "image": "/images/restarting-a-stalled-project-define-the-smallest-test.svg",
     "imageAlt": "Restarting a Stalled Project: Define the Smallest Test topic field map",
-    "excerpt": "Plan project recovery with a practical six-step workflow, evidence checks, implementation guidance, cautions, and a reusable review checklist.",
+    "excerpt": "Restart a stalled project by naming the current constraint, reducing uncertainty, choosing the smallest useful test, and defining evidence for the next move.",
     "keywords": [
       "restart stalled project"
     ],
@@ -11332,7 +11332,7 @@ export const approvedResourceArticles: ResourceArticle[] = [
     "category": "Productivity",
     "image": "/images/decision-log-review-turn-loose-notes-into-commitments.svg",
     "imageAlt": "Decision Log Review: Turn Loose Notes Into Commitments topic field map",
-    "excerpt": "Plan team execution with a practical six-step workflow, evidence checks, implementation guidance, cautions, and a reusable review checklist.",
+    "excerpt": "Review a decision log to convert loose notes into clear commitments with owners, dates, evidence, dependencies, and unresolved questions.",
     "keywords": [
       "decision log review"
     ],
@@ -11962,7 +11962,7 @@ export const approvedResourceArticles: ResourceArticle[] = [
     "category": "Productivity",
     "image": "/images/weekly-planning-reset-choose-the-next-observable-outcome.svg",
     "imageAlt": "Weekly Planning Reset: Choose the Next Observable Outcome topic field map",
-    "excerpt": "Plan weekly planning with a practical six-step workflow, evidence checks, implementation guidance, cautions, and a reusable review checklist.",
+    "excerpt": "Reset weekly planning around one observable outcome, its owner, lead measure, first action, likely constraint, and scheduled review point.",
     "keywords": [
       "weekly planning reset"
     ],
@@ -12592,7 +12592,7 @@ export const approvedResourceArticles: ResourceArticle[] = [
     "category": "Productivity",
     "image": "/images/decision-deadlines-set-a-checkpoint-before-work-stalls.svg",
     "imageAlt": "Decision Deadlines: Set a Checkpoint Before Work Stalls topic field map",
-    "excerpt": "Plan decision-making with a practical six-step workflow, evidence checks, implementation guidance, cautions, and a reusable review checklist.",
+    "excerpt": "Set decision deadlines with an owner, evidence threshold, checkpoint, escalation path, and default action before unresolved work starts to stall.",
     "keywords": [
       "decision deadline planning"
     ],
@@ -12900,14 +12900,14 @@ export const approvedResourceArticles: ResourceArticle[] = [
   },
   {
     "title": "Project Assumptions: Write What Must Be True Before You Start",
-    "seoTitle": "Project Assumptions: Write What Must Be True Before You S...",
+    "seoTitle": "Project Assumptions to Test Before Starting",
     "slug": "project-assumptions-write-what-must-be-true-before-you-start",
     "publishDate": "2026-10-19",
     "publishAt": "2026-10-19T09:00:00-04:00",
     "category": "Productivity",
     "image": "/images/project-assumptions-write-what-must-be-true-before-you-start.svg",
     "imageAlt": "Project Assumptions: Write What Must Be True Before You Start topic field map",
-    "excerpt": "Plan project planning with a practical six-step workflow, evidence checks, implementation guidance, cautions, and a reusable review checklist.",
+    "excerpt": "Expose project assumptions before launch by documenting what must be true, how each belief will be tested, and what evidence changes the plan.",
     "keywords": [
       "project assumptions"
     ],
@@ -13222,7 +13222,7 @@ export const approvedResourceArticles: ResourceArticle[] = [
     "category": "Productivity",
     "image": "/images/project-risk-log-name-the-early-signals-before-work-starts.svg",
     "imageAlt": "Project Risk Log: Name the Early Signals Before Work Starts topic field map",
-    "excerpt": "Plan project planning with a practical six-step workflow, evidence checks, implementation guidance, cautions, and a reusable review checklist.",
+    "excerpt": "Build a project risk log with early warning signals, owners, thresholds, mitigation actions, review dates, and evidence that triggers a response.",
     "keywords": [
       "project risk log"
     ],
@@ -13537,7 +13537,7 @@ export const approvedResourceArticles: ResourceArticle[] = [
     "category": "Productivity",
     "image": "/images/decision-review-test-the-assumption-before-you-commit.svg",
     "imageAlt": "Decision Review: Test the Assumption Before You Commit topic field map",
-    "excerpt": "Plan decision-making with a practical six-step workflow, evidence checks, implementation guidance, cautions, and a reusable review checklist.",
+    "excerpt": "Test the riskiest decision assumption with the smallest useful experiment, a defined evidence threshold, and a clear commitment rule.",
     "keywords": [
       "decision assumption review"
     ],
@@ -13845,14 +13845,14 @@ export const approvedResourceArticles: ResourceArticle[] = [
   },
   {
     "title": "Work-in-Progress Limit: Finish One Meaningful Task Before Adding Another",
-    "seoTitle": "Work-in-Progress Limit: Finish One Meaningful Task Before...",
+    "seoTitle": "Work-in-Progress Limit for Meaningful Tasks",
     "slug": "work-in-progress-limit-finish-one-meaningful-task-before-adding-another",
     "publishDate": "2026-10-22",
     "publishAt": "2026-10-22T09:00:00-04:00",
     "category": "Productivity",
     "image": "/images/work-in-progress-limit-finish-one-meaningful-task-before-adding-another.svg",
     "imageAlt": "Work-in-Progress Limit: Finish One Meaningful Task Before Adding Another topic field map",
-    "excerpt": "Plan prioritization with a practical six-step workflow, evidence checks, implementation guidance, cautions, and a reusable review checklist.",
+    "excerpt": "Use a work-in-progress limit to expose overload, finish one meaningful task, protect attention, and make the next commitment deliberate.",
     "keywords": [
       "work in progress limit"
     ],
@@ -14167,7 +14167,7 @@ export const approvedResourceArticles: ResourceArticle[] = [
     "category": "Productivity",
     "image": "/images/weekly-evidence-review-use-one-signal-to-improve-next-week.svg",
     "imageAlt": "Weekly Evidence Review: Use One Signal to Improve Next Week topic field map",
-    "excerpt": "Plan weekly planning with a practical six-step workflow, evidence checks, implementation guidance, cautions, and a reusable review checklist.",
+    "excerpt": "Choose one trustworthy weekly signal, compare it with the plan, explain the variance, and turn the learning into a small next-week experiment.",
     "keywords": [
       "weekly evidence review"
     ],
@@ -14475,14 +14475,14 @@ export const approvedResourceArticles: ResourceArticle[] = [
   },
   {
     "title": "Project Closeout Review: Capture Evidence Before the Next Cycle",
-    "seoTitle": "Project Closeout Review: Capture Evidence Before the Next...",
+    "seoTitle": "Project Closeout Review Before the Next Cycle",
     "slug": "project-closeout-review-capture-evidence-before-the-next-cycle",
     "publishDate": "2026-10-26",
     "publishAt": "2026-10-26T09:00:00-04:00",
     "category": "Productivity",
     "image": "/images/project-closeout-review-capture-evidence-before-the-next-cycle.svg",
     "imageAlt": "Project Closeout Review: Capture Evidence Before the Next Cycle topic field map",
-    "excerpt": "Plan project recovery with a practical six-step workflow, evidence checks, implementation guidance, cautions, and a reusable review checklist.",
+    "excerpt": "Close a project by collecting outcome evidence, unresolved work, ownership transfers, lessons, archived decisions, and inputs for the next cycle.",
     "keywords": [
       "project closeout review"
     ],
@@ -14797,7 +14797,7 @@ export const approvedResourceArticles: ResourceArticle[] = [
     "category": "Productivity",
     "image": "/images/decision-owner-check-name-the-person-who-moves-work-forward.svg",
     "imageAlt": "Decision Owner Check: Name the Person Who Moves Work Forward topic field map",
-    "excerpt": "Plan team execution with a practical six-step workflow, evidence checks, implementation guidance, cautions, and a reusable review checklist.",
+    "excerpt": "Name one decision owner with authority, a deadline, required inputs, an escalation path, and responsibility for communicating the result.",
     "keywords": [
       "decision owner accountability"
     ],
@@ -15105,14 +15105,14 @@ export const approvedResourceArticles: ResourceArticle[] = [
   },
   {
     "title": "Meeting Follow-Through Check: Turn Decisions Into Visible Next Steps",
-    "seoTitle": "Meeting Follow-Through Check: Turn Decisions Into Visible...",
+    "seoTitle": "Meeting Follow-Through and Next-Step Check",
     "slug": "meeting-follow-through-check-turn-decisions-into-visible-next-steps",
     "publishDate": "2026-10-28",
     "publishAt": "2026-10-28T09:00:00-04:00",
     "category": "Productivity",
     "image": "/images/meeting-follow-through-check-turn-decisions-into-visible-next-steps.svg",
     "imageAlt": "Meeting Follow-Through Check: Turn Decisions Into Visible Next Steps topic field map",
-    "excerpt": "Plan team execution with a practical six-step workflow, evidence checks, implementation guidance, cautions, and a reusable review checklist.",
+    "excerpt": "Check meeting follow-through by turning each decision into a visible next step with an owner, deadline, evidence, and scheduled review.",
     "keywords": [
       "meeting follow through"
     ],
@@ -15420,14 +15420,14 @@ export const approvedResourceArticles: ResourceArticle[] = [
   },
   {
     "title": "Weekly Priority Check: Keep the Next Step Small and Observable",
-    "seoTitle": "Weekly Priority Check: Keep the Next Step Small and Obser...",
+    "seoTitle": "Weekly Priority Check for an Observable Next Step",
     "slug": "weekly-priority-check-keep-the-next-step-small-and-observable",
     "publishDate": "2026-10-29",
     "publishAt": "2026-10-29T09:00:00-04:00",
     "category": "Productivity",
     "image": "/images/weekly-priority-check-keep-the-next-step-small-and-observable.svg",
     "imageAlt": "Weekly Priority Check: Keep the Next Step Small and Observable topic field map",
-    "excerpt": "Plan weekly planning with a practical six-step workflow, evidence checks, implementation guidance, cautions, and a reusable review checklist.",
+    "excerpt": "Keep a weekly priority executable by reducing it to a small observable next step with one owner, a time boundary, and proof of completion.",
     "keywords": [
       "weekly priority planning"
     ],
@@ -15735,14 +15735,14 @@ export const approvedResourceArticles: ResourceArticle[] = [
   },
   {
     "title": "End-of-Week Review: Compare the Plan With Observable Evidence",
-    "seoTitle": "End-of-Week Review: Compare the Plan With Observable Evid...",
+    "seoTitle": "End-of-Week Plan and Evidence Review",
     "slug": "end-of-week-review-compare-the-plan-with-observable-evidence",
     "publishDate": "2026-10-30",
     "publishAt": "2026-10-30T09:00:00-04:00",
     "category": "Productivity",
     "image": "/images/end-of-week-review-compare-the-plan-with-observable-evidence.svg",
     "imageAlt": "End-of-Week Review: Compare the Plan With Observable Evidence topic field map",
-    "excerpt": "Plan weekly planning with a practical six-step workflow, evidence checks, implementation guidance, cautions, and a reusable review checklist.",
+    "excerpt": "Compare the weekly plan with observable evidence, identify the most useful variance, close open loops, and choose one adjustment for next week.",
     "keywords": [
       "weekly review evidence"
     ],
@@ -16050,14 +16050,14 @@ export const approvedResourceArticles: ResourceArticle[] = [
   },
   {
     "title": "Project Restart Check: Choose One Test Before Reopening the Work",
-    "seoTitle": "Project Restart Check: Choose One Test Before Reopening t...",
+    "seoTitle": "Project Restart Check Before Reopening Work",
     "slug": "project-restart-check-choose-one-test-before-reopening-the-work",
     "publishDate": "2026-11-02",
     "publishAt": "2026-11-02T09:00:00-05:00",
     "category": "Productivity",
     "image": "/images/project-restart-check-choose-one-test-before-reopening-the-work.svg",
     "imageAlt": "Project Restart Check: Choose One Test Before Reopening the Work topic field map",
-    "excerpt": "Plan project recovery with a practical six-step workflow, evidence checks, implementation guidance, cautions, and a reusable review checklist.",
+    "excerpt": "Before reopening a paused project, confirm the objective, current constraint, changed assumptions, smallest test, owner, and stopping rule.",
     "keywords": [
       "project restart planning"
     ],
@@ -16364,14 +16364,14 @@ export const approvedResourceArticles: ResourceArticle[] = [
     "takeaway": "Planning project recovery is an exercise in controlled execution. The goal is a repeatable result without overrunning safety, permission, fit, quality, or capacity limits. A useful productivity system converts an important result into a small observable behavior that survives a normal week."
   },
   {
-    "title": "Decision Log Check: Name the Evidence Before the Next Com...",
-    "seoTitle": "Decision Log Check: Name the Evidence Before the Next Com...",
+    "title": "Decision Log Check: Name the Evidence Before the Next Commitment",
+    "seoTitle": "Decision Log Evidence Check Before Committing",
     "slug": "decision-log-check-name-the-evidence-before-the-next-commitment",
     "publishDate": "2026-11-03",
     "publishAt": "2026-11-03T09:00:00-05:00",
     "category": "Productivity",
     "image": "/images/decision-log-check-name-the-evidence-before-the-next-commitment.svg",
-    "imageAlt": "Decision Log Check: Name the Evidence Before the Next Com... topic field map",
+    "imageAlt": "Decision log evidence and commitment field map",
     "excerpt": "Use a practical six-step decision log review workflow with evidence checks, cautions, and a reusable review checklist.",
     "keywords": [
       "decision log review"
@@ -17002,7 +17002,7 @@ export const approvedResourceArticles: ResourceArticle[] = [
     "category": "Productivity",
     "image": "/images/weekly-evidence-note-capture-one-lesson-before-next-week.svg",
     "imageAlt": "Weekly Evidence Note: Capture One Lesson Before Next Week topic field map",
-    "excerpt": "Use a practical six-step weekly evidence review workflow with evidence checks, cautions, and a reusable review checklist.",
+    "excerpt": "Capture one weekly lesson with the evidence behind it, the assumption it changes, the action it affects, and the next review date.",
     "keywords": [
       "weekly evidence review"
     ],
@@ -17316,7 +17316,7 @@ export const approvedResourceArticles: ResourceArticle[] = [
     "publishAt": "2026-11-09T09:00:00-05:00",
     "category": "Productivity",
     "image": "/images/decision-friction-review-find-the-smallest-constraint-to-remove.svg",
-    "imageAlt": "Decision Friction Review: Find the Smallest Constraint to... topic field map",
+    "imageAlt": "Decision friction and smallest-constraint field map",
     "excerpt": "Use a practical six-step decision friction review workflow with evidence checks, cautions, and a reusable review checklist.",
     "keywords": [
       "decision friction review"
@@ -18577,7 +18577,7 @@ export const approvedResourceArticles: ResourceArticle[] = [
     "category": "Productivity",
     "image": "/images/weekly-evidence-check-keep-one-small-experiment-for-next-week.svg",
     "imageAlt": "Weekly Evidence Check: Keep One Small Experiment for Next Week topic field map",
-    "excerpt": "Use a practical six-step weekly evidence review workflow with evidence checks, cautions, and a reusable review checklist.",
+    "excerpt": "Turn weekly evidence into one small experiment by defining the change, owner, expected signal, time box, stopping rule, and review point.",
     "keywords": [
       "weekly evidence review"
     ],
@@ -21090,14 +21090,14 @@ export const approvedResourceArticles: ResourceArticle[] = [
   },
   {
     "title": "Weekly Experiment Review: Use Evidence Before Changing the Plan",
-    "seoTitle": "Weekly Experiment Review: Use Evidence Before Changing the",
+    "seoTitle": "Weekly Experiment Evidence Review Before Changing Plans",
     "slug": "weekly-experiment-review-use-evidence-before-changing-the-plan",
     "publishDate": "2026-11-25",
     "publishAt": "2026-11-25T09:00:00-05:00",
     "category": "Productivity",
     "image": "/images/weekly-experiment-review-use-evidence-before-changing-the-plan.svg",
     "imageAlt": "Weekly Experiment Review: Use Evidence Before Changing the Plan topic field map",
-    "excerpt": "Use a practical six-step weekly experiment review use evidence before changing the plan workflow with evidence checks, cautions, and a reusable review checklis.",
+    "excerpt": "Review a weekly experiment by comparing its expected signal with observed evidence before changing the plan, scope, owner, or next test.",
     "keywords": [
       "weekly experiment review use evidence before changing the plan"
     ],
@@ -21404,15 +21404,15 @@ export const approvedResourceArticles: ResourceArticle[] = [
     "takeaway": "Treat weekly experiment review: use evidence before changing the plan as a field procedure rather than a collection of tips. The procedure should still work when the day is busy, the easy option is unavailable, or another person takes over. A useful productivity system converts an important result into a small observable behavior that survives a normal week."
   },
   {
-    "title": "Weekly Experiment Review: Use Evidence Before Changing the Plan (Nov 2026)",
-    "seoTitle": "Weekly Experiment Review: Use Evidence Before Changing the",
+    "title": "Weekly Experiment Assumption Check Before the Next Test",
+    "seoTitle": "Weekly Experiment Assumption Check",
     "slug": "weekly-experiment-review-use-evidence-before-changing-the-plan-nov-2026",
     "publishDate": "2026-11-26",
     "publishAt": "2026-11-26T09:00:00-05:00",
     "category": "Productivity",
     "image": "/images/weekly-experiment-review-use-evidence-before-changing-the-plan-nov-2026.svg",
     "imageAlt": "Weekly Experiment Review: Use Evidence Before Changing the Plan (Nov 2026) topic field map",
-    "excerpt": "Use a practical six-step weekly experiment review use evidence before changing the plan nov 2026 workflow with evidence checks, cautions, and a reusable review.",
+    "excerpt": "Check which assumption a weekly experiment supported, weakened, or left unresolved before choosing the next small test.",
     "keywords": [
       "weekly experiment review use evidence before changing the plan nov 2026"
     ],
@@ -22034,15 +22034,15 @@ export const approvedResourceArticles: ResourceArticle[] = [
     "takeaway": "weekly experiment review: use evidence before changing the plan (nov 2026) often looks like a single task. In practice, the outcome depends on a chain of small choices, and the earliest unchecked choice usually creates the most expensive correction. A useful productivity system converts an important result into a small observable behavior that survives a normal week."
   },
   {
-    "title": "Weekly Experiment Review: Use Evidence Before Changing the Plan (2026-11-30)",
-    "seoTitle": "Weekly Experiment Review: Use Evidence Before Changing the",
+    "title": "Weekly Experiment Decision Note: Keep, Change, or Stop",
+    "seoTitle": "Weekly Experiment Decision Note",
     "slug": "weekly-experiment-review-use-evidence-before-changing-the-plan-2026-11-30",
     "publishDate": "2026-11-30",
     "publishAt": "2026-11-30T09:00:00-05:00",
     "category": "Productivity",
     "image": "/images/weekly-experiment-review-use-evidence-before-changing-the-plan-2026-11-30.svg",
     "imageAlt": "Weekly Experiment Review: Use Evidence Before Changing the Plan (2026-11-30) topic field map",
-    "excerpt": "Use a practical six-step weekly experiment review use evidence before changing the plan 2026 11 30 workflow with evidence checks, cautions, and a reusable revi.",
+    "excerpt": "Turn weekly experiment evidence into a documented decision to keep, change, or stop the work, with an owner and next review date.",
     "keywords": [
       "weekly experiment review use evidence before changing the plan 2026 11 30"
     ],

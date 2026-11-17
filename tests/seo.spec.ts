@@ -1,5 +1,6 @@
 import { expect, test } from "@playwright/test";
 import { readFileSync } from "node:fs";
+import { approvedResourceArticles } from "../src/lib/approved-articles";
 
 const productionOrigin = "https://resultsbreakthrough.com";
 const amazonTag = "rb10f-20";
@@ -25,6 +26,23 @@ const importantRoutes = [
   "/contact",
   "/privacy-policy",
 ];
+
+test("scheduled resource metadata remains unique and complete", () => {
+  const seoTitles = approvedResourceArticles.map((article) => article.seoTitle ?? article.title);
+  const descriptions = approvedResourceArticles.map((article) => article.excerpt);
+
+  expect(new Set(seoTitles).size).toBe(seoTitles.length);
+  expect(new Set(descriptions).size).toBe(descriptions.length);
+
+  for (const article of approvedResourceArticles) {
+    expect(article.title).not.toContain("...");
+    expect(article.seoTitle ?? "").not.toContain("...");
+    expect(article.excerpt).not.toContain("...");
+    expect(article.imageAlt ?? "").not.toContain("...");
+    expect(article.excerpt.length).toBeGreaterThanOrEqual(50);
+    expect(article.excerpt.length).toBeLessThanOrEqual(220);
+  }
+});
 
 test.describe("SEO discovery and metadata", () => {
   for (const route of importantRoutes) {
@@ -119,6 +137,17 @@ test.describe("Affiliate and mobile behavior", () => {
       expect(link.rel).toContain("nofollow");
       expect(link.rel).toContain("noreferrer");
     }
+  });
+
+  test("Amazon references are tagged and disclose the affiliate relationship", async ({ page }) => {
+    await page.goto("/resources/best-focus-timer-for-deep-work");
+
+    const link = page.locator('#ref-amazon-ticktime');
+    await expect(link).toHaveAttribute("href", /tag=rb10f-20/);
+    await expect(link).toHaveAttribute("target", "_blank");
+    await expect(link).toHaveAttribute("rel", /sponsored/);
+    await expect(link).toHaveAttribute("rel", /nofollow/);
+    await expect(link).toHaveAttribute("rel", /noreferrer/);
   });
 
   test("topic hubs expose comparison structured data", async ({ page }) => {

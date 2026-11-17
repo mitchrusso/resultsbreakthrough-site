@@ -422,7 +422,7 @@ export default async function ArticlePage({ params }: ArticlePageProps) {
                     key={source.url}
                     href={source.url}
                     target="_blank"
-                    rel="noreferrer"
+                    rel={source.url.includes("amazon.com") ? "sponsored nofollow noreferrer" : "noreferrer"}
                     className="group rounded-lg border border-[#e6ece5] p-4 hover:border-[#0e7a5f]"
                   >
                     <p className="text-xs font-black uppercase tracking-[0.12em] text-[#0e7a5f]">[{index + 1}] Reference</p>

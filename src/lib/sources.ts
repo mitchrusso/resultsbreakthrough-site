@@ -49,13 +49,13 @@ export const articleSources = [
     id: "amazon-ticktime",
     title: "Ticktime Cube Pomodoro Timer",
     organization: "Amazon",
-    url: "https://www.amazon.com/s?k=Ticktime+Cube+Pomodoro+Timer",
+    url: "https://www.amazon.com/s?k=Ticktime+Cube+Pomodoro+Timer&tag=rb10f-20",
   },
   {
     id: "amazon-12-week-year",
     title: "The 12 Week Year",
     organization: "Amazon",
-    url: "https://www.amazon.com/12-Week-Year-Others-Months/dp/B08XLLDYH7",
+    url: "https://www.amazon.com/12-Week-Year-Others-Months/dp/B08XLLDYH7?tag=rb10f-20",
   },
   {
     id: "atomic-habits",
