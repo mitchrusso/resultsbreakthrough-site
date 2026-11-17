@@ -16,7 +16,7 @@ export const topicHubs: TopicHub[] = [
     slug: "productivity-tools",
     eyebrow: "Tool Stack",
     description: "Compare planners, goal journals, time-blocking pads, habit trackers, whiteboards, Kanban boards, and Pomodoro timers.",
-    image: "https://images.unsplash.com/photo-1516321497487-e288fb19713f?auto=format&fit=crop&w=1200&q=80",
+    image: "/images/topic-productivity-tools.svg",
     keywords: ["productivity tools for entrepreneurs", "time blocking tools", "Kanban board for personal productivity"],
     relatedArticleSlugs: ["best-goal-planner-for-entrepreneurs", "best-focus-timer-for-deep-work", "weekly-review-system-for-founders"],
     sections: [
@@ -45,7 +45,7 @@ export const topicHubs: TopicHub[] = [
     slug: "goal-planners",
     eyebrow: "Execution",
     description: "Compare paper planners, reusable notebooks, scorecards, weekly reviews, and quarterly goal systems.",
-    image: "https://images.unsplash.com/photo-1517842645767-c639042777db?auto=format&fit=crop&w=1200&q=80",
+    image: "/images/topic-goal-planners.svg",
     keywords: ["goal planner for entrepreneurs", "weekly review planner", "accountability planner"],
     relatedArticleSlugs: ["best-goal-planner-for-entrepreneurs", "weekly-review-system-for-founders", "12-week-year-planning-tools"],
     sections: [
@@ -62,7 +62,7 @@ export const topicHubs: TopicHub[] = [
     slug: "focus-and-deep-work",
     eyebrow: "Attention",
     description: "Build better focus blocks with physical timers, headphones, time blocking, and distraction controls.",
-    image: "https://images.unsplash.com/photo-1506784983877-45594efa4cbe?auto=format&fit=crop&w=1200&q=80",
+    image: "/images/topic-focus-and-deep-work.svg",
     keywords: ["deep work tools", "pomodoro timer for productivity", "focus gear for entrepreneurs"],
     relatedArticleSlugs: ["best-focus-timer-for-deep-work", "pomodoro-vs-time-blocking", "noise-canceling-headphones-for-focus"],
     sections: [
@@ -79,7 +79,7 @@ export const topicHubs: TopicHub[] = [
     slug: "entrepreneur-desk-setup",
     eyebrow: "Workspace",
     description: "Compare standing desks, monitor arms, webcams, lights, and ergonomic upgrades for serious work.",
-    image: "https://images.unsplash.com/photo-1593476550610-87baa860004a?auto=format&fit=crop&w=1200&q=80",
+    image: "/images/topic-entrepreneur-desk-setup.svg",
     keywords: ["entrepreneur desk setup", "home office productivity gear", "standing desk monitor arm"],
     relatedArticleSlugs: ["home-office-setup-for-entrepreneurs", "standing-desk-vs-desk-converter", "video-call-setup-for-consultants"],
     sections: [
@@ -96,7 +96,7 @@ export const topicHubs: TopicHub[] = [
     slug: "business-books",
     eyebrow: "Models",
     description: "Books that help entrepreneurs install better habits, protect attention, and execute shorter cycles.",
-    image: "https://images.unsplash.com/photo-1524995997946-a1c2e315a42f?auto=format&fit=crop&w=1200&q=80",
+    image: "/images/topic-business-books.svg",
     keywords: ["business books for entrepreneurs", "productivity books", "execution books"],
     relatedArticleSlugs: ["mitch-russo-books-reading-order", "best-productivity-books-for-founders", "atomic-habits-for-entrepreneurs", "deep-work-for-entrepreneurs"],
     sections: [
@@ -113,7 +113,7 @@ export const topicHubs: TopicHub[] = [
     slug: "goal-achievement-systems",
     eyebrow: "Execution Cadence",
     description: "Compare 90-day planners, OKR workbooks, personal scorecards, vision board kits, and accountability journals.",
-    image: "https://images.unsplash.com/photo-1506784365847-bbad939e9335?auto=format&fit=crop&w=1200&q=80",
+    image: "/images/topic-goal-achievement-systems.svg",
     keywords: ["90 day planner", "OKR workbook", "personal scorecard for entrepreneurs"],
     relatedArticleSlugs: ["12-week-year-planning-tools", "weekly-scorecard-template-tools", "accountability-tools-for-founders"],
     sections: [
@@ -142,7 +142,7 @@ export const topicHubs: TopicHub[] = [
     slug: "remote-work-gear",
     eyebrow: "Presence",
     description: "Improve calls, recordings, webinars, coaching sessions, and remote selling with practical gear.",
-    image: "https://images.unsplash.com/photo-1611532736597-de2d4265fba3?auto=format&fit=crop&w=1200&q=80",
+    image: "/images/topic-remote-work-gear.svg",
     keywords: ["remote work gear", "video call setup", "webcam lighting for consultants"],
     relatedArticleSlugs: ["video-call-setup-for-consultants", "best-webcam-lighting-for-remote-work", "remote-work-gear-checklist"],
     sections: [
@@ -159,7 +159,7 @@ export const topicHubs: TopicHub[] = [
     slug: "habit-trackers",
     eyebrow: "Consistency",
     description: "Track habits, lead measures, sales activity, content output, and weekly execution metrics.",
-    image: "https://images.unsplash.com/photo-1455390582262-044cdead277a?auto=format&fit=crop&w=1200&q=80",
+    image: "/images/topic-habit-trackers.svg",
     keywords: ["habit tracker for entrepreneurs", "weekly scorecard", "business accountability system"],
     relatedArticleSlugs: ["habit-trackers-for-entrepreneurs", "weekly-scorecard-template-tools", "accountability-tools-for-founders"],
     sections: [
@@ -176,7 +176,7 @@ export const topicHubs: TopicHub[] = [
     slug: "personal-performance",
     eyebrow: "Energy",
     description: "Compare sleep trackers, fitness trackers, meditation devices, hydration bottles, and morning routine tools.",
-    image: "https://images.unsplash.com/photo-1518611012118-696072aa579a?auto=format&fit=crop&w=1200&q=80",
+    image: "/images/topic-personal-performance.svg",
     keywords: ["personal performance tools", "sleep tracker for entrepreneurs", "morning routine tools"],
     relatedArticleSlugs: ["habit-trackers-for-entrepreneurs", "accountability-tools-for-founders", "weekly-review-system-for-founders"],
     sections: [

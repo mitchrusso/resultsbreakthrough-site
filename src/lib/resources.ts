@@ -29,15 +29,6 @@ export const keywordPlan = [
   { cluster: "Personal performance", keywords: ["sleep tracker for entrepreneurs", "fitness tracker watch", "smart hydration bottle", "meditation breathing device"] },
 ];
 
-const images = {
-  planner: "https://images.unsplash.com/photo-1517842645767-c639042777db?auto=format&fit=crop&w=1200&q=80",
-  focus: "https://images.unsplash.com/photo-1506784983877-45594efa4cbe?auto=format&fit=crop&w=1200&q=80",
-  desk: "https://images.unsplash.com/photo-1593476550610-87baa860004a?auto=format&fit=crop&w=1200&q=80",
-  remote: "https://images.unsplash.com/photo-1611532736597-de2d4265fba3?auto=format&fit=crop&w=1200&q=80",
-  books: "https://images.unsplash.com/photo-1524995997946-a1c2e315a42f?auto=format&fit=crop&w=1200&q=80",
-  habits: "https://images.unsplash.com/photo-1455390582262-044cdead277a?auto=format&fit=crop&w=1200&q=80",
-};
-
 const articlePlan = [
   ["Best Goal Planner for Entrepreneurs: What to Look For Before You Buy", "best-goal-planner-for-entrepreneurs", "2026-07-07", "Goal Planners", "/images/article-best-goal-planner-for-entrepreneurs.svg", ["goal planner for entrepreneurs", "weekly review planner", "quarterly planning"]],
   ["A Weekly Review System for Founders Who Keep Too Much in Their Head", "weekly-review-system-for-founders", "2026-07-08", "Goal Planners", "/images/article-weekly-review-system-for-founders.svg", ["weekly review system", "founder planning routine", "accountability planner"]],
